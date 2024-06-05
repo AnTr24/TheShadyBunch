@@ -10,7 +10,7 @@
 > | Home | [[Fimore]] |
 > | Sex | Female |
 > | Race | Half-Elf |
-> | Age | 9 |
+> | Age | 10 |
 > | Status | Alive |
 > ##### Relationships
 > | Relation | Name |

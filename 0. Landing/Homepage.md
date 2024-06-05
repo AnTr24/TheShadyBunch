@@ -3,7 +3,7 @@
 - Created by Signus
 
 ## The Shady Bunch
-- The Shady Bunch is a DnD5e homebrew campaign  by our DM Andrew.
+- The Shady Bunch is a DnD5e homebrew campaign by our DM Andrew.
 
 ## Navigation
 > [!cards]

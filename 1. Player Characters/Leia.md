@@ -17,12 +17,16 @@
 > | ---- | ---- |
 > | Affiliation | [[The Shady Bunch]]|
 > | Foster-Father | [[Shephard]] |
+> | Party Mother | [[Shannon]] |
+> | Party Big Sister | [[Taishi]]
+> | Party Brother | [[Gyoop]]
+> | Party Cat | [[Patchclaw]]
 
 # Leia Skownan
 Leia is a small child that does crimes.
 
 ## Appearance
-A small half-elf girl with long light-blue hair adorned with a white headband. She notably wears a blue scarf and "booties" while travelling. She stows a pair of scimitars on her sides.
+A small half-elf girl with long light-blue hair adorned with a white headband. She notably wears a blue scarf and "booties" while traveling. She stows a pair of scimitars on her sides.
 
 ## Story
 - 420g cheese
@@ -43,7 +47,8 @@ A small half-elf girl with long light-blue hair adorned with a white headband. S
 - She is able to psychically link and communicate with distant  creatures.
 
 ## Trivia
-- Described as a "Gremlin"
+- Described as a "Gremlin".
+- Was walking on bare feet her whole life until [[Shannon]] made her booties.
 
 
 ## Gallery

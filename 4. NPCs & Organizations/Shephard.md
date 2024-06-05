@@ -7,7 +7,7 @@
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Bliurica]] |
+> | Home | [[Fimore]] |
 > | Sex | Male |
 > | Race | X |
 > | Age | X |
@@ -18,7 +18,7 @@
 > | Guardian | [[Leia]] |
 
 # Shephard
-A a cheesemaker that has raised Leia for a long time. Often sends Leia out on "deliveries".
+A cheesemaker who found [[Leia]] in the streets of [[Fimore]]. He offered her a job to deliver cheese and since then, he took her in. Often sends her out on "deliveries".
 ## Appearance
 ## Story
 - [[The Captain's Port]]: It is revealed that his cheesemaking is actually a front for his illegal drug business.

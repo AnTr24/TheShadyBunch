@@ -1,0 +1,1 @@
+Check the graphing tab and dock it!

@@ -1,0 +1,3 @@
+# Trouble In The Mines
+- Placeholder
+- We camp at [[Isolated Imprisonment]] on the way back to [[Fimore]]...[[Taishi]] decides to go hunting again and finds a passed out dwarf...

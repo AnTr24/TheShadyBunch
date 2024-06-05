@@ -1,2 +1,11 @@
+#exclude personal folder contents
 0. Personal/**
+#.gitkeep to initialize empty folder
+0. Personal//.gitkeep 
+
+#exclude workspace cache
 .obsidian/workspace.json
+
+#exclude OS settings and caches
+.trash/
+.DS_Store

@@ -66,6 +66,10 @@ Is currently one-handed but is working on replacing her lost arm with a prosthet
 >
 >![[Battlesmith Shannon color.png|banner]]
 >[[Battlesmith Shannon color.png|At the start]]
+>
+>![[Shannon dress.png|banner]]
+>[[Shannon dress.png|Formal attire]]
+>
 
 ## Tags
 #characters #alive #artificer #dragonborn #female 

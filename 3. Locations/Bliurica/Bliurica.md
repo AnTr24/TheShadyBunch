@@ -36,5 +36,17 @@ Discovered fairly recently compared to the other continent, much of the lands of
 - [[Ydanyn's Cave]]
 - [[Vorodin's Cave]]
 
+## Gallery
+> [!cards]
+> **[[Bliurica.bmp|Map01]]**
+> ![[Bliurica.bmp|banner]]
+> 
+> **[[Bliurica2.bmp|Map02]]**
+> ![[Bliurica2.bmp|banner]]
+> 
+>  **[[Bliurica_annotated.png|Annotated]]**
+> ![[Bliurica_annotated.png|banner]]
+
+
 ## Tags
 #locations #continent 

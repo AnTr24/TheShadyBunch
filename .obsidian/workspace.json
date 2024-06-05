@@ -6,7 +6,6 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0454706604deba56",
@@ -14,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "6d7c2e05d79377a2"
-          }
-        ]
-      },
-      {
-        "id": "eb162325ae77a1e9",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "2f8d614e68a41e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "6d7c2e05d79377a2"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Taishi.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -168,20 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f8d614e68a41e21",
+  "active": "0454706604deba56",
   "lastOpenFiles": [
-    "z_Attachments/GyoopC.png",
-    "0. Personal",
+    "1. Player Characters/Patchclaw.md",
+    "1. Player Characters/Ophelia.md",
     "1. Player Characters/Leia.md",
-    "1. Player Characters/Gyoop.md",
+    "3. Locations/Bliurica/Isolated Imprisonment.md",
+    "z_Attachments/Leia.jpg",
+    "z_Attachments/Leia's dream.png",
+    "1. Player Characters/Maahes.md",
+    "z_Attachments/EyySzJ3U4AEhU8n 1.png",
+    "z_Attachments/Underdark_Ship_Map.jpg",
+    "z_Attachments/Untitled.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "z_Attachments/02UmaLineCROP.jpg",
+    "z_Attachments/MaahesOphelia.png",
+    "z_Attachments/Gyoop2.png",
+    "z_Attachments/Flume.png",
+    "z_Attachments/FamilyTree.jpeg",
+    "z_Attachments/3rdAnniversary.png",
+    "4. NPCs & Organizations/Hari Uma.md",
     "1. Player Characters/Taishi.md",
+    "1. Player Characters/Gyoop.md",
+    "0. Personal",
     "2. Timeline/EventCards/Towards Fimore.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
     "2. Timeline/EventCards/You Are Here.md",
-    "1. Player Characters/Patchclaw.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
     "1. Player Characters/The Shady Bunch.md",
     "1. Player Characters/Toble.md",
     "4. NPCs & Organizations/Shephard.md",
@@ -194,22 +186,8 @@
     "Ashfang Steelworks.md",
     "1. Player Characters/Shannon.md",
     "0. Landing/Homepage.md",
-    "README.md",
-    "TestFolders/Test Note 3. ITS Themes.md",
-    "TestFolders/Test Note 1. Basic Markdown.md",
-    "0. Personal/Agenda.md",
     "0. Personal/Taishi",
-    "z_Attachments/Bliurica2.bmp",
-    "z_Attachments/Bliurica_annotated.png",
     "z_Attachments/~liurica2.tmp",
-    "z_Attachments/rraynia.jpg",
-    "z_Attachments/rraynia_aanotated.jpg",
-    "z_Attachments/klisas.jpg",
-    "z_Attachments/inox.jpg",
-    "z_Attachments/aeslea.jpg",
-    "z_Attachments/cereron.jpg",
-    "z_Attachments/02UmaLineCROP.jpg",
-    "z_Attachments/rraynia_climate.jpg",
     "TheShadyBunch",
     "z_Attachments/~raynia_aanotated.tmp",
     "Session Notes",

@@ -1,4 +1,4 @@
-	*pouts*
+	*covers ears and uses Detect Thoughts*
 	- Leia
 
 > [!infobox]
@@ -49,13 +49,15 @@ A small half-elf girl with long light-blue hair adorned with a white headband. S
 ## Gallery
 >[!cards]
 >![[Leia.jpg|banner]]
->[[Leia.jpg|Leia01]]
+>[[Leia.jpg|Leia Skownan]]
 >
 >![[Leia_thekid.png|banner]]
 >[[Leia_thekid.png|Leia the kid]]
 >
 >![[Leia_Amogus.png|banner]]
 >[[Leia_Amogus.png|Amogus]]
-
+>
+>![[Leia's dream.png|banner]]
+>[[Leia's dream.png|Dream]]
 ## Tags
 #characters #rogue #half-elf #alive #female

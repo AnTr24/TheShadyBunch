@@ -10,7 +10,7 @@
 > | Home | [[Gyoop's Home]] |
 > | Sex | Male |
 > | Race | Ooze |
-> | Age | Gyoopzillion-Years-Old|
+> | Age | Presumably 7 years old |
 > | Status | Alive |
 > ##### Relationships
 > | Relation | Name |

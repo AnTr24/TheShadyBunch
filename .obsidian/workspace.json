@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Personal/Agenda.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,10 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33a657314c41c01c",
+  "active": "19146065d38cdc25",
   "lastOpenFiles": [
-    "0. Personal/Personal Tracker.md",
+    "TestFolders/Test Note 3. ITS Themes.md",
+    "TestFolders/Test Note 1. Basic Markdown.md",
+    "README.md",
     "0. Personal/Agenda.md",
+    "0. Personal/Personal Tracker.md",
     "0. Personal/Rumors.md",
     "0. Landing/Homepage.md",
     "0. Personal/Taishi",
@@ -179,7 +182,6 @@
     "Untitled.md",
     "Thorin.md",
     "The Edge of Vision.md",
-    "README.md",
     "Ashfang Steelworks.md",
     "Alexander Inian.md",
     "Adrian.md",
@@ -204,7 +206,6 @@
     "z_Attachments/cereron.jpg",
     "4. NPCs & Organizations/Willam Valentin.md",
     "4. NPCs & Organizations/Vorodin.md",
-    "4. NPCs & Organizations/Shephard.md",
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/rraynia_climate.jpg",
     "0. Personal",

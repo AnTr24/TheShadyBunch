@@ -15,12 +15,12 @@
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Ashfangs Steelworks]], [[The Shady Bunch]]|
-> | Parents | [[Bruce Ashfang]], [[Antionette Ashfang]] |
+> | Affiliation | [[Ashfang Steelworks]], [[The Shady Bunch]]|
+> | Parents | [[Bruce]]|
 > |Companion/Defender|Bladewolf|
 
 # Shannon Ashfang
-Shannon is a dragonborn woman of the [[Ashfangs]], a mercenary company ran by her [[Bruce Ashfang|father]]. She is out adventuring in search of him, who has been missing for months.
+Shannon is a dragonborn woman of the [[Ashfangs]], a mercenary company ran by her [[Bruce|father]]. She is out adventuring in search of him, who has been missing for months.
 
 ## Appearance
 A blue dragonborn woman sporting a dark blue coat and red hair. She is often seen wielding her greatsword. 
@@ -34,7 +34,7 @@ Is currently one-handed but is working on replacing her lost arm with a prosthet
 - While adventuring with [[The Shady Bunch|The Shady Bunch]], Shannon has taken a motherly approach to raising [[Gyoop]] and [[Leia|Leia]].
 
 ### Missing Father
-- Her father, [[Bruce Ashfang]], has gone missing for some time.
+- Her father, [[Bruce]], has gone missing for some time.
 - She finds proof of his life within the [[Scrying Mirror]] before the [[Mirror Matron]] ends the connection.
 
 ### Need a hand?

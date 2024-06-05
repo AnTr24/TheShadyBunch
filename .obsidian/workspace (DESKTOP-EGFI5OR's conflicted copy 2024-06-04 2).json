@@ -14,14 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "2. Timeline/EventCards/The Path of Kings.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "25a96e0fd951ed5a"
+          },
+          {
+            "id": "83205a5680756a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Timeline/EventCards/Trouble In The Mines.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5c3f3b78acc9e23a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a502c389e168672e",
@@ -34,14 +59,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "2. Timeline/EventCards/The Path of Kings.md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "25a96e0fd951ed5a"
+          },
+          {
+            "id": "85902e58e55c9c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Timeline/EventCards/The Path of Kings.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88ac9261180e6c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Timeline/EventCards/The Path of Kings.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Taishi.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -168,35 +218,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0454706604deba56",
+  "active": "5c3f3b78acc9e23a",
   "lastOpenFiles": [
-    "0. Landing/Agenda.md",
-    "0. Landing/Personal Tracker.md",
-    "4. NPCs & Organizations/Bruce.md",
-    "Ashfang Steelworks.md",
-    "4. NPCs & Organizations/Burgell.md",
-    "4. NPCs & Organizations/The King's 1st Miners.md",
-    "Tahba.md",
-    "README.md",
-    "Alexander Inian.md",
-    "Adrian.md",
-    "1. Player Characters/Shannon.md",
-    "The Edge of Vision.md",
+    "4. NPCs & Organizations/Bruce Ashfang.md",
     "Thorin.md",
-    "4. NPCs & Organizations/The Late Lord Uma.md",
-    "4. NPCs & Organizations/The 13 Great Families.md",
-    "4. NPCs & Organizations/Shephard.md",
-    "2. Timeline/EventCards/The Path of Kings.md",
-    "2. Timeline/EventCards/Trouble In The Mines.md",
-    "Untitled.md",
+    "The Edge of Vision.md",
+    "4. NPCs & Organizations/The Edge of Vision.md",
+    "4. NPCs & Organizations/The King's 1st Miners.md",
+    "4. NPCs & Organizations/Thorin.md",
     "2. Timeline/EventCards/An Abandoned Tower.md",
+    "Adrian.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
     "TheShadyBunch/README.md",
     "TheShadyBunch",
+    "Alexander Inian.md",
+    "Bruce Ashfang.md",
     "2. Timeline/EventCards/Golden Wings.md",
+    "Tahba.md",
+    "The King's 1st Miners.md",
+    "Untitled.md",
     "2. Timeline/EventCards/The Topaz Terror.md",
+    "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/The Green City.md",
     "2. Timeline/EventCards/Searching Gyoop's Home.md",
     "4. NPCs & Organizations/King of Fimore.md",
+    "4. NPCs & Organizations/Jaren.md",
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/Farewell Fimore!.md",
+    "2. Timeline/EventCards/Heart of Stone.md",
     "z_Attachments/~raynia_aanotated.tmp",
     "z_Attachments/rraynia_aanotated.jpg",
     "z_Attachments/rraynia.jpg",

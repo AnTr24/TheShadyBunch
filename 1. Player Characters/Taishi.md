@@ -46,7 +46,7 @@ A young human woman of average height and slender build. Her hair is often messy
 - Rejected the advances of [[Rinn Yuio]]
 - Recruited the [[Amnesiac Haardavar]] to her house and set up a partnership with [[House Inian]].
 ## Notable Powers & Equipment
-- **Playstyle**: **Allrounder**: Variety of ways to do controll, damage, and healing but no specialty. Main caster of party.
+- **Playstyle**: **Allrounder**: Variety of ways to do control, damage, and healing but no specialty. Main caster of party.
 - **Paladin2**: No oath taken. (I believe in smite supremacy)
 - **Sorcerer - Divine Soul**: Gives her access to cleric spells and extra dice in form of Favored by the Gods and enhanced healing ability. (Upcasted Bless, my beloved)
 - **Magic Armor**: Full adamantine plate armor as of Act 2

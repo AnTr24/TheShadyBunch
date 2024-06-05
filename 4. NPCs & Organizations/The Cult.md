@@ -27,7 +27,7 @@ The cult is the overarching antagonist organization of the campaign. They are re
 - [[Rinn]] (assassin)
 
 ### Known Victims
-- Shannon's father: [[Bruce Ashfang]]
+- Shannon's father: [[Bruce]]
 - [[Gyoop]]'s family: [[Troop]], [[Loop]], [[Soop]], [[Augustus]]
 - An intelligent Fimorian man
 - A couple of adventurers that have travelled through [[Riverpont]]

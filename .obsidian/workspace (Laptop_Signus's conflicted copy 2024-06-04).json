@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Taishi.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,26 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0454706604deba56",
+  "active": "19146065d38cdc25",
   "lastOpenFiles": [
-    "0. Landing/Agenda.md",
-    "0. Landing/Personal Tracker.md",
-    "4. NPCs & Organizations/Bruce.md",
-    "Ashfang Steelworks.md",
-    "4. NPCs & Organizations/Burgell.md",
-    "4. NPCs & Organizations/The King's 1st Miners.md",
     "Tahba.md",
     "README.md",
+    "Bruce Ashfang.md",
     "Alexander Inian.md",
     "Adrian.md",
-    "1. Player Characters/Shannon.md",
-    "The Edge of Vision.md",
     "Thorin.md",
     "4. NPCs & Organizations/The Late Lord Uma.md",
+    "The Edge of Vision.md",
     "4. NPCs & Organizations/The 13 Great Families.md",
     "4. NPCs & Organizations/Shephard.md",
     "2. Timeline/EventCards/The Path of Kings.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
+    "4. NPCs & Organizations/The King's 1st Miners.md",
     "Untitled.md",
     "2. Timeline/EventCards/An Abandoned Tower.md",
     "TheShadyBunch/README.md",
@@ -197,6 +192,11 @@
     "2. Timeline/EventCards/The Green City.md",
     "2. Timeline/EventCards/Searching Gyoop's Home.md",
     "4. NPCs & Organizations/King of Fimore.md",
+    "4. NPCs & Organizations/Jaren.md",
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/Farewell Fimore!.md",
+    "2. Timeline/EventCards/Heart of Stone.md",
     "z_Attachments/~raynia_aanotated.tmp",
     "z_Attachments/rraynia_aanotated.jpg",
     "z_Attachments/rraynia.jpg",

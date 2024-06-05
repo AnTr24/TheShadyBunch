@@ -23,10 +23,13 @@
 > | Party Cat | [[Patchclaw]]
 
 # Leia Skownan
-Leia is a small child that does crimes.
+- Leia does crimes but has her heart in a good place
+- The second youngest of the group (?)
+- After the event of the [[Crystal Nightmares]], she learned that she is the last of her people
+- Absolutely chaotic and adventurous that *some* of her ideas concerns the group
 
 ## Appearance
-A small half-elf girl with long light-blue hair adorned with a white headband. She notably wears a blue scarf and "booties" while traveling. She stows a pair of scimitars on her sides.
+Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a white headband and light purple eyes. She notably wears a blue scarf and has a rabbit head tattoo at the back of her right hand. 
 
 ## Story
 - 420g cheese
@@ -49,6 +52,8 @@ A small half-elf girl with long light-blue hair adorned with a white headband. S
 ## Trivia
 - Described as a "Gremlin".
 - Was walking on bare feet her whole life until [[Shannon]] made her booties.
+- Since her brief healer training with Priest [[Adrian]], she always give a prayer to the allies who have fallen. Sometimes silently.
+- Has a weird obsession with scimitars.
 
 
 ## Gallery

@@ -10,7 +10,7 @@
 > | Home | [[Dragonspire]] |
 > | Sex | Female |
 > | Race | Dragonborn |
-> | Age | X |
+> | Age | 25 |
 > | Status | Alive |
 > ##### Relationships
 > | Relation | Name |
@@ -23,7 +23,7 @@
 Shannon is a dragonborn woman of the [[Ashfangs]], a mercenary company ran by her [[Bruce|father]]. She is out adventuring in search of him, who has been missing for months.
 
 ## Appearance
-A blue dragonborn woman sporting a dark blue coat and red hair. She is often seen wielding her greatsword. 
+A blue dragonborn woman sporting a dark blue coat and brown hair. She is often seen wielding her greatsword. 
 
 Is currently one-handed but is working on replacing her lost arm with a prosthetic.
 
@@ -64,6 +64,8 @@ Is currently one-handed but is working on replacing her lost arm with a prosthet
 >![[shannon_bean_img_7493.png|banner]]
 >[[shannon_bean_img_7493.png|Bean]]
 >
+>![[Battlesmith Shannon color.png|banner]]
+>[[Battlesmith Shannon color.png|At the start]]
 
 ## Tags
 #characters #alive #artificer #dragonborn #female 

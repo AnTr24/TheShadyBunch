@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "b5202fc157ea6ba3",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Shannon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Taishi.md",
+                "file": "1. Player Characters/Shannon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Taishi.md"
+                "file": "1. Player Characters/Shannon.md"
               }
             }
           }
@@ -168,13 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f8d614e68a41e21",
+  "active": "0454706604deba56",
   "lastOpenFiles": [
-    "z_Attachments/GyoopC.png",
+    "z_Attachments/Battlesmith Shannon color.png",
+    "z_Attachments/aeslea.jpg",
+    "z_Attachments/amogusTaishi.png",
+    "z_Attachments/02UmaLineCROP.jpg",
+    "z_Attachments/Runliel.png",
+    "z_Attachments/rraynia_climate.jpg",
+    "z_Attachments/Runliel_Amogus.png",
+    "z_Attachments/umaemblem.png",
+    "z_Attachments/UmaManor01.jpg",
+    "z_Attachments/UmaManor02.jpg",
+    "z_Attachments/UmaManor03.jpg",
+    "1. Player Characters/Shannon.md",
+    "2. Timeline/Master Timeline.md",
+    "1. Player Characters/Taishi.md",
     "0. Personal",
     "1. Player Characters/Leia.md",
     "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Taishi.md",
     "2. Timeline/EventCards/Towards Fimore.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
@@ -190,26 +202,14 @@
     "Thorin.md",
     "Untitled",
     "2. Timeline/EventCards/Crystal Nightmares.md",
-    "2. Timeline/Master Timeline.md",
     "Ashfang Steelworks.md",
-    "1. Player Characters/Shannon.md",
     "0. Landing/Homepage.md",
     "README.md",
     "TestFolders/Test Note 3. ITS Themes.md",
     "TestFolders/Test Note 1. Basic Markdown.md",
     "0. Personal/Agenda.md",
     "0. Personal/Taishi",
-    "z_Attachments/Bliurica2.bmp",
-    "z_Attachments/Bliurica_annotated.png",
     "z_Attachments/~liurica2.tmp",
-    "z_Attachments/rraynia.jpg",
-    "z_Attachments/rraynia_aanotated.jpg",
-    "z_Attachments/klisas.jpg",
-    "z_Attachments/inox.jpg",
-    "z_Attachments/aeslea.jpg",
-    "z_Attachments/cereron.jpg",
-    "z_Attachments/02UmaLineCROP.jpg",
-    "z_Attachments/rraynia_climate.jpg",
     "TheShadyBunch",
     "z_Attachments/~raynia_aanotated.tmp",
     "Session Notes",

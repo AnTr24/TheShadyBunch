@@ -44,6 +44,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - It is revealed that her people have been psionically enslaved and they are the masters of the [[Crystal Horrors]].
 	- Through her travels before the incident of the [[Crystal Nightmares]], she collected a t-rex stuffed animal in [[Fimore]] and a bear stuffed animal in [[Riverpont]] in hopes to one day find her real family to give to them. After saying her final farewells to her parents, Leia placed the stuffed animals where she last saw them and mourned for her loss.
 	- Learned that her family is from West [[Aeslea]].
+	- Someone in [[Fimore]] by the name of [[Luden]] told her she is an Ipsissimus.
 - Notably Leia would receive dreams through out their journey that tends to be premonitions of what's to come.
 	- Dream one: Between the events of [[An Abandoned Tower]] and heading back to [[Fimore]], Leia had a dream she heard whispers of people that was luring her towards them. Then the appearance of an eye showed up the moment she got closer. She started falling into darkness through silhouettes of people. She woke up with a nosebleed.
 	- Dream two: Leia dreamt she was bandaging the same wounded soldier at the [[Isolated Imprisonment]] like earlier. [[Adrian]] was walking away from them while the hand she was grasping grabbed her hand and pulled her *into* him. She closed her eyes at this sudden act, opening them to find herself in the familiar darkness of her first dream. Voices started ringing out, calling for her, "Find us....You're the last...Please!"

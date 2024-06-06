@@ -22,7 +22,7 @@ timelines:
 - [[Leia]] and [[Shannon]] go to meet [[Shephard]]. [[Shannon]] spots something off about the cheese shop but doesn't press further.
 - The party meets with [[Gyoop]] at [[Eulysses]] tower to discuss their findings about on [[The Cult]]
 	- [[Serpent Whip]]: Created by the cult to siphon magic for some dark ritual.
-	- "Mudmurk" ""and the blue caves: Cross-referencing with the flight of the paper crane and research records at the [[Cobolt Soul]], the mage deduces that Mudmurk refers to a 100+ year old village somewhere in [[Southern Klisas]].
+	- "Mudmurk" ""and the blue caves: Cross-referencing with the flight of the paper crane and research records at the [[Kobolt Soul]], the mage deduces that Mudmurk refers to a 100+ year old village somewhere in [[Southern Klisas]].
 - Docks:  The party reconvenes at the dockyard, ready to a charter a boat to [[Klisas]].
 	- A merchant ship agrees to drop them off at [[Northern Klisas]], even making space for the carriage. However, they won't be leaving for at least a 3 weeks and so the party has some downtime.
 ## Tags

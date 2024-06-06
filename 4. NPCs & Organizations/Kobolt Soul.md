@@ -24,7 +24,7 @@
 ## Holdings
 - Appear to have chapters in [[Fimore]] and [[Miromar]].
 ## Story
-- [[The Green City]]: The city's queen promises a reward if the party looks into rumours that the Cobolt Soul have taken or recreated the Dynasty's dunamancy.
+- [[The Green City]]: The city's queen promises a reward if the party looks into rumours that the Kobolt Soul have taken or recreated the Dynasty's dunamancy.
 ## Notable Powers & Equipment
 ## Trivia
 

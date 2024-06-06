@@ -17,7 +17,12 @@
                 "mode": "preview",
                 "source": true
               }
+<<<<<<< Updated upstream
             }
+=======
+            },
+            "group": "6d7c2e05d79377a2"
+>>>>>>> Stashed changes
           }
         ]
       }
@@ -85,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "1. Player Characters/Leia.md",
+=======
+                "file": "1. Player Characters/Taishi.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "1. Player Characters/Leia.md",
+=======
+                "file": "1. Player Characters/Taishi.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "1. Player Characters/Leia.md"
+=======
+                "file": "1. Player Characters/Taishi.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -146,6 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0454706604deba56",
   "lastOpenFiles": [
     "2. Timeline/EventCards/Behind the Barn.md",
@@ -180,6 +198,47 @@
     "z_Attachments/Leia's dream.png",
     "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
+=======
+  "active": "2f8d614e68a41e21",
+  "lastOpenFiles": [
+    "1. Player Characters/Leia.md",
+    "1. Player Characters/Gyoop.md",
+    "1. Player Characters/Taishi.md",
+    "2. Timeline/EventCards/Towards Fimore.md",
+    "2. Timeline/EventCards/Trouble In The Mines.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "2. Timeline/EventCards/You Are Here.md",
+    "1. Player Characters/Patchclaw.md",
+    "1. Player Characters/Ophelia.md",
+    "1. Player Characters/Maahes.md",
+    "1. Player Characters/The Shady Bunch.md",
+    "1. Player Characters/Toble.md",
+    "4. NPCs & Organizations/Shephard.md",
+    "the game.md",
+    "Yes.md",
+    "Thorin.md",
+    "Untitled",
+    "2. Timeline/EventCards/Crystal Nightmares.md",
+    "2. Timeline/Master Timeline.md",
+    "Ashfang Steelworks.md",
+    "1. Player Characters/Shannon.md",
+    "0. Landing/Homepage.md",
+    "README.md",
+    "TestFolders/Test Note 3. ITS Themes.md",
+    "TestFolders/Test Note 1. Basic Markdown.md",
+    "0. Personal/Agenda.md",
+    "0. Personal/Personal Tracker.md",
+    "0. Personal/Taishi",
+    "z_Attachments/Bliurica2.bmp",
+    "z_Attachments/Bliurica_annotated.png",
+    "z_Attachments/~liurica2.tmp",
+    "z_Attachments/rraynia.jpg",
+    "z_Attachments/rraynia_aanotated.jpg",
+    "z_Attachments/klisas.jpg",
+    "z_Attachments/inox.jpg",
+    "z_Attachments/aeslea.jpg",
+    "z_Attachments/cereron.jpg",
+>>>>>>> Stashed changes
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/MaahesOphelia.png",
     "z_Attachments/Gyoop2.png",

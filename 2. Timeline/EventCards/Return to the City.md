@@ -8,7 +8,7 @@ timelines:
 - The Shady Bunch make their way back to [[Fimore]], backtracking their way to the city.
 - A short stop is taken at the [[Isolated Imprisonment]]. Most of the soldiers from before are already replaced with fresh troops, including [[Didus]] and [[General Jasper]].  
 	- A messenger lets the party know that the [[King of Fimore]] has invited them to his court to reward them for lifting the previous siege.
-	- [[Taishi]] goes hunting in the mountains, slaying a snake that can petrify its prey.
+	- [[Taishi]] goes hunting in the mountains, slaying a snake that can petrify its prey and gifts their tails to [[Shannon]].
 
 ## Back at Fimore
 - King's court: 

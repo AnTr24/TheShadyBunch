@@ -8,6 +8,13 @@
 - With his powers, he opens a portal that will lead them somewhere near [[Ydanyn's Cave]].
 
 ## Quiet Sands
+>[!cards]
+>**Lair Entrance**
+>![[YdanynCave_Entrance.jpg]]
+>
+>**Inner Chamber**
+>![[YdanynCave.jpg]]
+
 - Stepping through the portal, the stone ground peels away into sandy dunes in all directions. 
 - Searching around, they find a a strange opening in the side of a large dune.
 - A couple of members are sent in to scout as they find Ydanyn asleep.

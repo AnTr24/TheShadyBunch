@@ -119,7 +119,7 @@ Having been chased out of town, [[The Shady Bunch]] decide to take a trip to [[T
 >[!timeline|t-r] **[[Vampire Queen]]**_Belano Night Raid_
 > ![[Vampire Queen|htiny clean collapse no-h1 no-title]]
 
->[!timeline|t-l t-1] **[[Playtime]]**_Leia arc_
+>[!timeline|t-l t-1] **[[Playtime]]**_Mom, Leia is having some weird dreams again_
 > ![[Playtime|htiny clean collapse no-h1 no-title]]
 
 >[!timeline|t-l t-1] **[[Home to Humans]]**_Miramar Arc 1_

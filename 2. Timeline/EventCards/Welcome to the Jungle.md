@@ -21,11 +21,22 @@ timelines:
 ## Village of the Golden One
 - The locals warmly greet the outsiders. Some can be spotted praying at a large golden statue of a dragon at the village's center. As well, a chieftain's hut is seen atop one of the trees in the village.
 	- Statue Message reads: Of the Golden Light. May You See and Fear His Sight, Or Bow to his Truest Might
-- They learn that this village is called [[Midwood]], which is under the protection of [[Vorodin|"The Golden One"]]. They hold a festival anually in his worhsip, with the next happeneing in a few weeks. The village is also led by their chief, [[Alexi]].
-	- The party meets with Alexi, who welcomes them. After the party mentions their destination, the chief offers to have a hunter accompany them to the edge of the jungle, and invites them to return for the festival.
+- They learn that this village is called [[Midwood]], which is under the protection of [[Vorodin|"The Golden One"]]. They hold a festival annually in his worship, with the next happening in a few weeks. The village is also led by their chief, [[Alexi]].
+	- The party meets with Alexi, who offers to have a hunter accompany them to the edge of the jungle, and invites them to return for the festival.
 - The party rests up in the village for a day, mingling with the locals
-	-  [[Gyoop]] visits the herbalist, [[Jaren]], who teaches him about the local plant life.
-	- Gyoop demonstrates his skills to [[Shannon]], showing how  he is a "scientist" too! Gyoop plans to make many potions from here on.
+
+## Science!
+-  [[Gyoop]] visits the herbalist, [[Jaren]], who teaches him about the local plant life.
+- Gyoop asks Jaren about components for potions and they set off to find some ingredients
+- Near the mountain path, they spot  a flower hanging on the side of a ledge
+- [[Patchclaw]] volunteers to grab [[Lightning Lotus|the flower]], and climbs the rockface.
+	- However, he is shocked the moment his paws touch its petals.
+	- His body convulses as he falls from the ledge. Slamming into the ground, Patchclaw dies.
+	- From his view...Patchclaw enters into a [[The Beastlands|Spirit World]].
+	- After his "dream", Patchclaw regains consciousness, flower in hand, handing it to Gyoop
+- Gyoop returns to the village and demonstrates his skills to [[Shannon]], showing how he is a "scientist" too! Gyoop plans to make many potions from here on.
+
+## Leaving Midwood
 - Next day, the party sets out with the hunter.
 - Before reaching the edge of the jungle, they take a small detour, finding what seems to be a huge banana tree. The super-sized "bananas" are called [[Candonas]], and are naturally sweet.
 - A great deal of effort is spent by the group to climb the tallest branches to get the sweetest fruits.

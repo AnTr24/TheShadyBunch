@@ -15,7 +15,7 @@ timelines:
 - Unbeknownst to them, this would only be one of many in a [[The Cult|long string of disappearances]]
 
 ## Missing People
-- Shannon's father, Brandon
+- Shannon's father, Bruce
 - Gyoop's brothers and master
 - Some adventurers passing through Riverpont
 - Cause and means of disappearances unknown

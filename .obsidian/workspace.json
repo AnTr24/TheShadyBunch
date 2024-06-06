@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
-                "mode": "preview",
+                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Leia.md"
+                "file": "2. Timeline/EventCards/Welcome to the Jungle.md"
               }
             }
           }
@@ -148,6 +148,24 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "5. Monsters, Items and Statuses/Candonas.md",
+    "2. Timeline/EventCards/Warmer Days.md",
+    "2. Timeline/EventCards/The Frost Giants.md",
+    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
+    "2. Timeline/EventCards/Sealed Evil.md",
+    "2. Timeline/EventCards/Maneaters.md",
+    "2. Timeline/EventCards/Through the Mountain Pass.md",
+    "2. Timeline/EventCards/The Diviner.md",
+    "2. Timeline/EventCards/Towards Fimore.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
+    "4. NPCs & Organizations/Augustus.md",
+    "2. Timeline/EventCards/Searching Gyoop's Home.md",
+    "2. Timeline/EventCards/The Lost Girl.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/The Two Groups.md",
+    "1. Player Characters/Leia.md",
     "Templates/Full Pages/Organization.md",
     "Templates/Full Pages/Mundane Item.md",
     "Templates/Full Pages/Monster.md",
@@ -158,28 +176,10 @@
     "Templates/Full Pages",
     "3. Locations/Inox/Inox.md",
     "3. Locations/Inox",
-    "Templates/Inserts/Insert Placeholder.md",
-    "Templates/Inserts/Insert Session.md",
-    "Templates/Inserts/Insert AAT Timeline.md",
-    "Templates/Inserts/Insert Initiative.md",
-    "Templates/Inserts/Insert ITS-Timeline.md",
     "Templates/Inserts",
-    "2. Timeline/Master Timeline.md",
-    "2. Timeline/EventCards/The Topaz Terror.md",
-    "1. Player Characters/Leia.md",
-    "2. Timeline/EventCards/Behind the Barn.md",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "1. Player Characters/Taishi.md",
-    "2. Timeline/EventCards/Golden Wings.md",
     "z_Attachments/purpleworm.png",
-    "3. Locations/Great Vortex.md",
-    "3. Locations/Cereron/Cereron.md",
     "3. Locations/Cereron",
-    "3. Locations/Aeslea/Aeslea.md",
     "3. Locations/Aeslea",
-    "1. Player Characters/Gyoop.md",
-    "Templates/Character.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",

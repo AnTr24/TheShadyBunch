@@ -10,9 +10,9 @@ timelines:
 	- With the the retainers support-fire off crossbow bolts the back of the carriage, Toble and Taishi manage to finish off the group.
 	- Taishi grabs ahold of Patchclaw, healing with a lay-on-hands, earning admiration.
 - Meanwhile [[Gyoop]], [[Shannon]], & [[Leia]] are having their own encounters with gnolls in a separate location in the forests.
-	- Insert other group play-by-play here
-	- Leia steps on Gyoop by accident while Shannon views from afar.
-	- They are chased by gnolls and wolves.
+	- Leia was on her way to [[Riverpont]] to deliver cheese and found Gyoop. She accidentally stepped on him while Shannon witnessed this whole thing.
+	- Shannon took the two children to make a campfire for the night, talking amongst each other and introducing themselves.
+	- They heard monsters coming to their direction, which they learned to be gnolls and wolves. Proceed to fight them. 
 - The separate parties fight off their pursuers before individually making their way to [[Riverpont]]
 - Meeting up at a tavern, these individuals discuss their encounters and reasons for travelling:
 	- Taishi: Seeking adventure

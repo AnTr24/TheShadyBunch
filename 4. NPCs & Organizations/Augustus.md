@@ -23,8 +23,8 @@ Master of [[Gyoop]] and his brothers.
 ## Story
 - Kidnapped by [[The Cult]]
 ### Journal of Augustus
-- In the his book, describes the various lands and races he has encountered. The book is written in several languages and likely several authors as well.
-- At the back is a hidden message "find me using this".
+- In this book, it describes the various lands and races he has encountered. The book is written in several languages and likely several authors as well.
+- At the back is a hidden message: "Find me using this."
 ## Notable Powers & Equipment
 ## Trivia
 

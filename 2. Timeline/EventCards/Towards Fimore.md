@@ -8,6 +8,7 @@ timelines:
 # Towards Fimore
 - The party is travelling along the roads thanks to Taishi's carriage
 - A dead body of a soldier or adventurer is discovered along the road, given a burial and his dog tag taken.
+- Around this time, Leia received the first dream.
 
 ## In the City
 - The party finds a place to stay and searches for any magic specialists to look into the runes.

@@ -8,12 +8,12 @@ Passing are only the good the best
 ```
 
 ## Before the Gate
-A treks up the mountains andgoing past the [[Isolated Imprisonment]], they spot a large stone structure above them, it is a statue of a dragon connected to the mountain wall. They spot an opening through the dragon's nose, and using various methods, ascend the statue to follow a long until into the mountain proper. It becomes apparent that connected is  longer series of stairs and passageways that go up and around the mountain side.
+A trek up the mountains and going past the [[Isolated Imprisonment]], they spot a large stone structure above them. There is a statue of a dragon connected to the mountain wall. They spot an opening through the dragon's nose, and using various methods, ascended the statue to follow along until into the mountain proper. It becomes apparent that connected is a longer series of stairs and passageways that go up and around the mountain side.
 
 ## The First Trial: Not As It Seems. Find what to gleam 
 ![[trialofkings1_tablet.jpg|hsmall]] ![[trialofkings_tablet2.jpg| hsmall]]
-- The a long travel, the tunnel opens up into a clearing on the mountainside. On a wall, they find a large crest filled with several tablets but there appears to be an empty slot.
-- [[Shannon]] goes to search a well in the center of the room: Seeing something stuck deep to the side above endless dark. Securing herself with [[Patchclaw]]'s endless rope, the party holds on as she goes in to hoist up the tablet. The tablet is much heavier than expected, and despite the party's combined effort, their grip on the rope nearly breaks as the party is edged closer and closer towards the well. Barely able to inch backwards, Shannon is hoisted over the well, tablet in arms. As they go to place it into the slot...nothing appears to happen.
+- After a long travel, the tunnel opens up into a clearing on the mountainside. On a wall, they find a large crest filled with several tablets but there appears to be an empty slot.
+- [[Shannon]] goes to search a well in the center of the room: Seeing something stuck deep to the side above endless dark. Securing herself with [[Patchclaw]]'s endless rope, the party holds on as she goes in to hoist up the tablet. The tablet is much heavier than expected, and despite the party's combined effort, their grip on the rope nearly breaks as the party is edged closer and closer towards the well. Barely able to inch backwards, Shannon is hoisted over the well, tablet in arms. As they place it into the slot...nothing appears to happen.
 - The party spots a bush(?): Nothing inside.
 - Another tablet is eventually spotted below the ridges of their clearing, wedged several feet below into a separate vertical face of the mountain: [[Taishi]] secures herself with a climber's kit and rappels down to the tablet. The tablet is hanging a bit off from their ridge, and as she kicks off her surface towards the other and grabs the tablet, their combined weight causes the climber's kit to give. The rest of the party hurriedly grabs onto the rope secured by the pitons. Taishi nearly falls off the mountains with the tablet, but just barely with combined efforts of the party manages to lift her back up. This time, the tablet wedges into the empty slot and one of the walls of the mountainside gives way into an inner chamber.
 
@@ -39,8 +39,8 @@ A treks up the mountains andgoing past the [[Isolated Imprisonment]], they spot 
 >The official name of [[The Shady Bunch]] is formed.
 
 - A spiral stair case is seen at the end of a hallway.
-- It takes several about an hour to arduously climb the narrow vertical stairwell
-- At the top, the party is exhausted and decicde on a short rest to recover.
+- It takes several to about an hour to arduously climb the narrow vertical stairwell
+- At the top, the party is exhausted and decided on a short rest to recover.
 	-  [[Maahes]] swears during the climb and  [[Gyoop]] and [[Leia]] happen to hear it, to the dismay of [[Ophelia]] and [[Shannon]].
 - Moving on, they eventually came across a chamber/ pit dotted with several platforms.
 ![[trialofkings2_Path.png]]

@@ -16,7 +16,7 @@
 > | Relation | Name |
 > | ---- | ---- |
 > | Affiliation | [[Ashfang Steelworks]], [[The Shady Bunch]]|
-> | Parents | [[Bruce]]|
+> | Parents | [[Bruce]]-[[Mariale]]|
 > |Companion/Defender|Bladewolf|
 
 # Shannon Ashfang
@@ -36,6 +36,7 @@ Is currently one-handed but is working on replacing her lost arm with a prosthet
 ### Missing Father
 - Her father, [[Bruce]], has gone missing for some time.
 - She finds proof of his life within the [[Scrying Mirror]] before the [[Mirror Matron]] ends the connection.
+- Under the effects of [[Dreamlily]], Shannon saw a vision of her father being placed into a pool of [[Mage's Best Friend]]. Before her vision ended she saw a claw surface from the pool. Her concern grows with each passing day.
 
 ### Need a hand?
 - Lost her arm in the fight with the [[Lockjaw]] in the [[Underdark]].
@@ -52,6 +53,7 @@ Is currently one-handed but is working on replacing her lost arm with a prosthet
 
 ## Trivia
 - Her father doesn't know she's a single mother yet
+- Shannon started learning swordsmanship at 6 years old
 
 ## Gallery
 >[!cards]

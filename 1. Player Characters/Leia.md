@@ -44,6 +44,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - It is revealed that her people have been psionically enslaved and they are the masters of the [[Crystal Horrors]].
 	- Through her travels before the incident of the [[Crystal Nightmares]], she collected a t-rex stuffed animal in [[Fimore]] and a bear stuffed animal in [[Riverpont]] in hopes to one day find her real family to give to them. After saying her final farewells to her parents, Leia placed the stuffed animals where she last saw them and mourned for her loss.
 	- Learned that her family is from West [[Aeslea]].
+	- Someone in [[Fimore]] by the name of [[Luden]] told her she is an Ipsissimus.
 - Notably Leia would receive dreams through out their journey that tends to be premonitions of what's to come.
 	- Dream one: Between the events of [[An Abandoned Tower]] and heading back to [[Fimore]], Leia had a dream she heard whispers of people that was luring her towards them. Then the appearance of an eye showed up the moment she got closer. She started falling into darkness through silhouettes of people. She woke up with a nosebleed.
 	- Dream two: Leia dreamt she was bandaging the same wounded soldier at the [[Isolated Imprisonment]] like earlier. [[Adrian]] was walking away from them while the hand she was grasping grabbed her hand and pulled her *into* him. She closed her eyes at this sudden act, opening them to find herself in the familiar darkness of her first dream. Voices started ringing out, calling for her, "Find us....You're the last...Please!"
@@ -51,6 +52,8 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Dream four: Leia had a dream she saw different versions of herself. Nothing to notable except it was a trippy and still wonders why.
 	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
 - Due to her psychic abilities, Leia receives visions from someone's mind and an object.
+	- Her first vision happened when she saw how her people became crystallized.
+	- She saw bits and pieces of an old man who doesn't remember his childhood in [[Midwood]]
 	- When she touched [[Maahes]] one day, she saw a vision of him as a bloodied man.
 	- During the [[The Boat Arc]]...
 		- Used her Telekinesis to Moses the waves apart on a night the boat and its crew was struggling to keep it safe
@@ -76,6 +79,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Can telepathically link herself to up to 4 creatures for d10 number of hours and has to be in range of a mile to stay in contact. Poor people have to deal with her ramblings and inner ADHD thoughts.
 	- Can teleport to an empty space with one of psychic blades up to 100 ft.
 - **Wizard1**: Leia started taking classes at **Azure Academy** in [[Miromar]] for magic and to learn more about her magic inept abilities.
+- **Rogue11**: Because she's been living in the streets for a little bit, Leia resorted to stealing for food. Her only exposure with a thieves guild was when she went with [[Patchclaw]] to see his boss and she demanded [[Candonas]] to be sent to her party. Leia only learned how to fight during her deliveries outside of [[Fimore]] before fully embracing it when she started traveling with the [[The Shady Bunch]].
 
 ### Magic Items
 - Bag of Holding

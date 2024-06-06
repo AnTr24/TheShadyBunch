@@ -13,16 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "mode": "preview",
                 "source": true
               }
-<<<<<<< Updated upstream
             }
-=======
-            },
-            "group": "6d7c2e05d79377a2"
->>>>>>> Stashed changes
           }
         ]
       }
@@ -90,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md",
-=======
-                "file": "1. Player Characters/Taishi.md",
->>>>>>> Stashed changes
+                "file": "2. Timeline/Master Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md",
-=======
-                "file": "1. Player Characters/Taishi.md",
->>>>>>> Stashed changes
+                "file": "2. Timeline/Master Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md"
-=======
-                "file": "1. Player Characters/Taishi.md"
->>>>>>> Stashed changes
+                "file": "2. Timeline/Master Timeline.md"
               }
             }
           }
@@ -163,82 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/Behind the Barn.md",
     "1. Player Characters/Leia.md",
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "2. Timeline/EventCards/Warmer Days.md",
+    "2. Timeline/EventCards/Trouble In The Mines.md",
+    "2. Timeline/EventCards/Towards Fimore.md",
+    "2. Timeline/EventCards/Through the Mountain Pass.md",
+    "2. Timeline/EventCards/The Two Groups.md",
+    "2. Timeline/EventCards/The Topaz Terror.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/Return to the City.md",
+    "2. Timeline/EventCards/The Lost Girl.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
+    "2. Timeline/EventCards/The Green City.md",
+    "2. Timeline/EventCards/The Frost Giants.md",
+    "2. Timeline/EventCards/The Diviner.md",
+    "2. Timeline/EventCards/Searching Gyoop's Home.md",
+    "2. Timeline/EventCards/Sealed Evil.md",
+    "2. Timeline/EventCards/Sandstorm.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
     "2. Timeline/EventCards/Ice-solated Imprisonment.md",
     "2. Timeline/EventCards/Golden Wings.md",
     "2. Timeline/EventCards/Heart of Stone.md",
     "1. Player Characters/Gyoop.md",
-    "2. Timeline/EventCards/Sealed Evil.md",
-    "2. Timeline/EventCards/Sandstorm.md",
-    "2. Timeline/EventCards/Return to the City.md",
-    "2. Timeline/EventCards/Mayor's Request.md",
     "2. Timeline/EventCards/Maneaters.md",
     "2. Timeline/EventCards/Farewell Fimore!.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "1. Player Characters/Taishi.md",
-    "2. Timeline/Master Timeline.md",
-    "1. Player Characters/Shannon.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Patchclaw.md",
-    "4. NPCs & Organizations/Johnathan Rimpid.md",
-    "4. NPCs & Organizations/Jaren.md",
-    "Jonathan.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/Toble.md",
-    "2. Timeline/EventCards/Searching Gyoop's Home.md",
-    "2. Timeline/EventCards/The Diviner.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
     "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
-=======
-  "active": "2f8d614e68a41e21",
-  "lastOpenFiles": [
-    "1. Player Characters/Leia.md",
-    "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Taishi.md",
-    "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/Trouble In The Mines.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
-    "2. Timeline/EventCards/You Are Here.md",
-    "1. Player Characters/Patchclaw.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Toble.md",
-    "4. NPCs & Organizations/Shephard.md",
-    "the game.md",
-    "Yes.md",
-    "Thorin.md",
-    "Untitled",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
-    "2. Timeline/Master Timeline.md",
-    "Ashfang Steelworks.md",
-    "1. Player Characters/Shannon.md",
-    "0. Landing/Homepage.md",
-    "README.md",
-    "TestFolders/Test Note 3. ITS Themes.md",
-    "TestFolders/Test Note 1. Basic Markdown.md",
-    "0. Personal/Agenda.md",
-    "0. Personal/Personal Tracker.md",
-    "0. Personal/Taishi",
-    "z_Attachments/Bliurica2.bmp",
-    "z_Attachments/Bliurica_annotated.png",
-    "z_Attachments/~liurica2.tmp",
-    "z_Attachments/rraynia.jpg",
-    "z_Attachments/rraynia_aanotated.jpg",
-    "z_Attachments/klisas.jpg",
-    "z_Attachments/inox.jpg",
-    "z_Attachments/aeslea.jpg",
-    "z_Attachments/cereron.jpg",
->>>>>>> Stashed changes
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/MaahesOphelia.png",
     "z_Attachments/Gyoop2.png",

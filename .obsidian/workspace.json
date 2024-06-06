@@ -11,12 +11,8 @@
             "id": "0454706604deba56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Player Characters/Leia.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Player Characters/Leia.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,13 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "0. Personal/Leia secret notes.md",
     "1. Player Characters/Leia.md",
-    "1. Player Characters/Gyoop.md",
     "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/Gyoop.md",
+    "1. Player Characters/Shannon.md",
+    "0. Personal/Leia secret notes.md",
     "4. NPCs & Organizations/Luden.md",
     "4. NPCs & Organizations/Kobolt Soul.md",
     "2. Timeline/EventCards/Golden Wings.md",
@@ -171,9 +166,6 @@
     "2. Timeline/EventCards/Maneaters.md",
     "2. Timeline/EventCards/Through the Mountain Pass.md",
     "2. Timeline/EventCards/The Diviner.md",
-    "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "4. NPCs & Organizations/Augustus.md",
     "Templates/Full Pages",
     "3. Locations/Inox",
     "Templates/Inserts",

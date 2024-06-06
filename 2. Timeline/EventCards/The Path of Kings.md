@@ -8,7 +8,7 @@ Passing are only the good the best
 ```
 
 ## Before the Gate
-The treks up the mountains, going past the [[Isolated Imprisonment]] until they spot a large stone structure above them, it is a statue of a dragon connected to the mountain wall. They spot an opening through the dragon's nose, and using various methods, ascend the statue to follow a long until into the mountain proper. It becomes apparent that connected is  longer series of stairs and passageways that go up and around the mountain side.
+A treks up the mountains andgoing past the [[Isolated Imprisonment]], they spot a large stone structure above them, it is a statue of a dragon connected to the mountain wall. They spot an opening through the dragon's nose, and using various methods, ascend the statue to follow a long until into the mountain proper. It becomes apparent that connected is  longer series of stairs and passageways that go up and around the mountain side.
 
 ## The First Trial: Not As It Seems. Find what to gleam 
 ![[trialofkings1_tablet.jpg|hsmall]] ![[trialofkings_tablet2.jpg| hsmall]]

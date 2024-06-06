@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Leia.md"
+                "file": "2. Timeline/Master Timeline.md"
               }
             }
           }
@@ -148,32 +148,35 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
+    "2. Timeline/EventCards/The Topaz Terror.md",
     "2. Timeline/Master Timeline.md",
     "1. Player Characters/Leia.md",
-    "Amnesiac Haundavar.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "2. Timeline/EventCards/Crystal Nightmares.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
     "1. Player Characters/Taishi.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "z_Attachments/purpleworm.png",
+    "3. Locations/Great Vortex.md",
+    "3. Locations/Cereron/Cereron.md",
+    "3. Locations/Cereron",
+    "3. Locations/Aeslea/Aeslea.md",
+    "3. Locations/Aeslea",
+    "1. Player Characters/Gyoop.md",
+    "Templates/Character.md",
+    "Untitled.md",
+    "Thorin.md",
+    "Tahba.md",
+    "README (DON'T DELETE).md",
+    "Yes.md",
+    "The Edge of Vision.md",
+    "2024-06-05.md",
+    "4. NPCs & Organizations/Willam Valentin.md",
+    "Amnesiac Haundavar.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
     "2. Timeline/EventCards/Warmer Days.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/Through the Mountain Pass.md",
-    "2. Timeline/EventCards/The Two Groups.md",
-    "2. Timeline/EventCards/The Topaz Terror.md",
-    "2. Timeline/EventCards/Mayor's Request.md",
-    "2. Timeline/EventCards/Return to the City.md",
-    "2. Timeline/EventCards/The Lost Girl.md",
-    "2. Timeline/EventCards/The Path of Kings.md",
-    "2. Timeline/EventCards/The Green City.md",
-    "2. Timeline/EventCards/The Frost Giants.md",
-    "2. Timeline/EventCards/The Diviner.md",
-    "2. Timeline/EventCards/Searching Gyoop's Home.md",
-    "2. Timeline/EventCards/Sealed Evil.md",
-    "2. Timeline/EventCards/Sandstorm.md",
-    "2. Timeline/EventCards/Behind the Barn.md",
-    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
-    "2. Timeline/EventCards/Golden Wings.md",
-    "2. Timeline/EventCards/Heart of Stone.md",
-    "1. Player Characters/Gyoop.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",
@@ -183,7 +186,6 @@
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/MaahesOphelia.png",
     "z_Attachments/Gyoop2.png",
-    "z_Attachments/Flume.png",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",
@@ -191,8 +193,6 @@
     "TheShadyBunch",
     "z_Attachments/~raynia_aanotated.tmp",
     "Session Notes",
-    "Templates/Timelines/ITS",
-    "3. Locations/Klisas/Miramar",
-    "6. Organizations"
+    "Templates/Timelines/ITS"
   ]
 }

@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | Affiliation | [[House Uma]] |
 > | Liege|[[Taishi]] | 
-> | Coworkers|[[Logi]], [[Flume du Nobe]]|
+> | Coworkers|[[Logi]], [[Flume]]|
 
 # Eschal
 One of [[Taishi]]'s retainers since she was young. A serious and stern maid, Eschal has tried countless times in the past to moderate [[Taishi]]'s behaviour to little avail. 

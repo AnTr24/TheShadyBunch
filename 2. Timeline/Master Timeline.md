@@ -61,10 +61,10 @@ There is a rise of mysterious kidnappings, including family of several of the PC
 > ![[The Topaz Terror|htiny clean collapse no-h1 no-title]]
 
 >[!timeline|t-r] **[[The Path of Kings]]**_Festival of Gold II_
-> ![[The Path of Kings|htiny clean collapse no-h1 no-title]]'
+> ![[The Path of Kings|hsmall clean collapse no-h1 no-title]]'
 
 >[!timeline|t-r] **[[Golden Wings]]**_Festival of Gold II_
-> ![[Golden Wings|htiny clean collapse no-h1 no-title]]
+> ![[Golden Wings|htiny clean collapse no-h1 no-title p+b]]
 
 >[!timeline|t-l t-1] **[[The Green City]]**_Land of Shade_
 > ![[The Green City|htiny clean collapse no-h1 no-title]]'

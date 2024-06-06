@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | Affiliation | [[House Uma]] |
 > | Liege|[[Taishi]] | 
-> | Coworkers|[[Eschal]], [[Flume du Nobe]]|
+> | Coworkers|[[Eschal]], [[Flume]]|
 
 # Logi
 One of [[Taishi]]'s retainers since she was young. A casual and straight-forward man, Logi grumbles when hard work is pushed onto him but is quite loyal in actuality.

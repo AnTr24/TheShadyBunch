@@ -23,7 +23,10 @@ Continent on the eastern waters of [[Rraynia]]. Land of the dragonborn.
 ##  Notable Locations
 - [[Dragonspire]]
 
-
+## Gallery
+>[!cards]
+>**[[cereron.jpg|Map]]**
+>![[cereron.jpg|banner]]
 
 ## Tags
 #locations #continent 

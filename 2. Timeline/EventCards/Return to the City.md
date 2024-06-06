@@ -14,7 +14,7 @@ timelines:
 - King's court: 
 	- The party are greeted into the [[King of Fimore]]'s courtroom.
 	- He thanks the party for lifting the siege of [[Isolated Imprisonment]], granting them a [[Token of the King]] as well as gold and other treasures.
-	- After the meeting, [[Taishi]] sees [[Didus]] training with the soldiers of the keep. He has recently been promoted to "The Red Knight." [[Taishi]] and [[Flume du Nobe]] spend some downtime to train with him.
+	- After the meeting, [[Taishi]] sees [[Didus]] training with the soldiers of the keep. He has recently been promoted to "The Red Knight." [[Taishi]] and [[Flume]] spend some downtime to train with him.
 - [[Patchclaw]] takes  [[Toble]] to his client's residence to discuss the [[Times Postern]]
 	- The client leads them to a vault in his basement, revealing that he is an artifact collector/preserver of sorts.
 	- He's kept tabs on how items like it have gone missing from his own collection and many others across the city; likely due to the cult.

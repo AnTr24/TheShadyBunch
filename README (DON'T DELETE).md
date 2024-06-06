@@ -17,7 +17,7 @@ Skip this if you want to sync/edit the wiki
 ## Option B: Syncing file changes to wiki - Github setup
 1. Download Obsidian: https://obsidian.md/
 2. Create a GitHub account and download GitHub Desktop: https://desktop.github.com/
-3. Get added as a contributor to this repository (Dm me your Guthub aac)
+3. Get added as a contributor to this repository (Dm me your Github aac)
 4. Open GitHub Desktop and sign-in
 5. Clone this repository via the GitHub Desktop app
 6. Open Obsidian and select "Open folder as Vault". Select the "TheShadyBunch" folder

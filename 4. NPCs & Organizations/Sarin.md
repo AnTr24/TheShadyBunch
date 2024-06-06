@@ -16,7 +16,6 @@
 > | Relation | Name |
 > | ---- | ---- |
 > | Affiliation | [[The Cult]] |
-
 # Sarin
 A member of [[The Cult]].
 ## Appearance

@@ -12,7 +12,8 @@ timelines:
 - [[Mary]] is seen a distance away unconscious at the bank of the river but some gnolls are already fishing her body from the waters.
 -  A fight ensues as the party stops the gnolls from dragging the girl further into the cave.
 - Defeating the fiends and some archers that reinforced atop a ledge, the party rescues the girl and decides to search the cave further.
-- Deeper into the cave, they find dead gnolls and an eerie ritual room.
+- Deeper into the cave, there is a side room holding [[Soop]] and [[Loop]].
+- Further in, they find dead gnolls and an eerie ritual room.
 
 ## Tags
  #event #act1

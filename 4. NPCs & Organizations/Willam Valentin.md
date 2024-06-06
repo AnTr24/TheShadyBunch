@@ -20,7 +20,7 @@
 Current head of the [[Valentin Family]] and king of [[Kingdom of Miromar]]
 ## Appearance
 ## Story
-Not encountered but works directly with the [[The 13 Great Families]] and mentioned by [[Alexander Inian|Lord Inion]].
+Not encountered but works directly with the [[The 13 Great Families]] and mentioned by [[Lord Inian|Lord Inion]].
 
 
 ## Tags

@@ -2,26 +2,27 @@
 	- Dude
 
 > [!infobox]
-> # Johnathan Rimpid
+> # Jonathan
 > ![[shady.jpg|cover hsmall]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | X |
+> | Home | [[Riverpont]] |
+> | Sex | Male |
 > | Race | X |
 > | Age | X |
-> | Status | X |
+> | Status | Alive |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Supplier | [[Shephard]] |
 
 # Johnathan Rimpid
-The recipient of the cheese delivery from [[Shephard]] VIA the delivery person [[Leia]]
+Certified "cheese" lover.
+
 ## Appearance
 ## Story
+- [[The Two Groups]]: The recipient of the cheese delivery from [[Shephard]] VIA the delivery person [[Leia]]
 ## Notable Powers & Equipment
 ## Trivia
 
@@ -32,4 +33,4 @@ The recipient of the cheese delivery from [[Shephard]] VIA the delivery person [
 >
 
 ## Tags
-#characters
+#characters #male #alive 

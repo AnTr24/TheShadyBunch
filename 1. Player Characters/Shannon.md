@@ -16,7 +16,7 @@
 > | Relation | Name |
 > | ---- | ---- |
 > | Affiliation | [[Ashfang Steelworks]], [[The Shady Bunch]]|
-> | Parents | [[Bruce]]|
+> | Parents | [[Bruce]]-[[Mariale]]|
 > |Companion/Defender|Bladewolf|
 
 # Shannon Ashfang

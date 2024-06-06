@@ -29,7 +29,7 @@
 - Absolutely chaotic and adventurous that *some* of her ideas concerns the group
 
 ## Appearance
-Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a white headband and light purple eyes. She notably wears a blue scarf and has a rabbit head tattoo at the back of her right hand. As of Act 2, she is currently wearing a frilly pink and chestnut dress with fluffy white ends thanks to [[Taishi]] and her family. Silver plates covers her shoulders that are barely seen due to her scarf. 
+Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a white headband and light purple eyes. She notably wears a blue scarf and has a rabbit head tattoo at the back of her right hand. As of Act 2, she is currently wearing a frilly pink and chestnut dress with fluffy white ends thanks to [[Taishi]] and her family. Silver plates covers her shoulders that are barely seen due to her scarf. Leia mostly wears leather armor underneath her dresses.
 
 ## Story 
 - She is one of the founding members of [[The Shady Bunch]].
@@ -67,15 +67,28 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - **Known Feats**: Telekinetic & Tavern Brawler (She threw a chair at a gnoll and killed it with a crit)
 - **Topaz Soul Scimitar**: With a gem embedded by the Topaz dragon they fought, this scimitar causes an additional cold damage to an enemy and sucks their strength away. (2d8 cold damage and must succeed a DC 15 CON saving throw or have their strength reduced by 1.)
 - **Drow Made Scimitar**: Traded in a couple daggers for this scimitar at [[Faal'Krel]]. Baby's first scimitar.
-- **Booties" of Spider Climbing**(http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
 - **Healer's Kit**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training.
 - **Painting Set**: Given to her by [[Taishi]], she learned to express herself or show the others her dreams by using this set. 
 	- **Wizard1**: She is using a sketchbook as her spellcasting focus.
 	- **Magical Tattoo** (https://www.dndbeyond.com/magic-items/2412346-illuminators-tattoo)
-### Psychic Prodigy
+- **Psychic Abilities**
+	- She can throw or melee with one magic blade and throw another if it succeeds.
+	- If she fails an ability check using a skill or tool she is proficient to, she can use a psionic energy die to add to the roll.
+	- Can telepathically link herself to up to 4 creatures for d10 number of hours and has to be in range of a mile to stay in contact. Poor people have to deal with her ramblings and inner ADHD thoughts.
+	- Can teleport to an empty space with one of psychic blades up to 100 ft.
+- **Wizard1**: Leia started taking classes at **Azure Academy** in [[Miromar]] for magic and to learn more about her magic inept abilities.
+
+### Magic Items
+- Bag of Holding
+- Crystal Ball of Mind Reading
+- Magical Tattoo
+- "Booties" of Spider Climbing (http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
+
+### The Last of the Asanans
 - Awakened from defeating the [[Crystal Horrors|monster]] that imprisoned her people / real family.
-- Allows her to cast spells such as  Encode Thoughts, Feather Fall,  and Telekinesis.
-- She is able to psychically link and communicate with distant  creatures.
+- Allows her to cast spells such as Detect Thoughts and Telekinesis once per rest.
+- Gains advantage on insight checks
+- Gains d6’s equal to her proficiency to expend in her damage rolls. You regain these dice at the end of a long rest.
 
 ## Trivia
 - Described as a "Gremlin".

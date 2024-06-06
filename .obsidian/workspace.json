@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Shannon.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -170,10 +170,31 @@
   },
   "active": "2f8d614e68a41e21",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "2. Timeline/EventCards/Behind the Barn.md",
     "2. Timeline/EventCards/Ice-solated Imprisonment.md",
     "2. Timeline/EventCards/The Path of Kings.md",
     "2. Timeline/EventCards/Warmer Days.md",
+=======
+    "1. Player Characters/Maahes.md",
+    "1. Player Characters/Leia.md",
+    "z_Attachments/02UmaLineCROP.jpg",
+    "z_Attachments/3rdAnniversary.png",
+    "z_Attachments/aeslea.jpg",
+    "1. Player Characters/Shannon.md",
+    "z_Attachments/Shannon dress.png",
+    "z_Attachments/Shannon_dress.png",
+    "z_Attachments/stoneheart_wMinis.jpg",
+    "z_Attachments/Toble_Amogus.png",
+    "z_Attachments/tobleadult.png",
+    "z_Attachments/TobleChild.png",
+    "z_Attachments/TaishiSpeed.png",
+    "2. Timeline/Master Timeline.md",
+    "1. Player Characters/Taishi.md",
+    "0. Personal",
+    "1. Player Characters/Gyoop.md",
+    "2. Timeline/EventCards/Towards Fimore.md",
+>>>>>>> Stashed changes
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/An Abandoned Tower.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
@@ -190,7 +211,12 @@
     "z_Attachments/Shannon.png",
     "1. Player Characters/Taishi.md",
     "1. Player Characters/Patchclaw.md",
+<<<<<<< Updated upstream
     "1. Player Characters/Gyoop.md",
+=======
+    "1. Player Characters/Ophelia.md",
+    "1. Player Characters/The Shady Bunch.md",
+>>>>>>> Stashed changes
     "1. Player Characters/Toble.md",
     "1. Player Characters/Shannon.md",
     "1. Player Characters/The Shady Bunch.md",

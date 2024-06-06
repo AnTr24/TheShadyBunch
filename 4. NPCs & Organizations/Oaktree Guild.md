@@ -27,4 +27,4 @@ Name pending, likely lost to history. Once a party of adventurers from an older 
 >
 
 ## Tags
-#organization #inactive
+#organization #inactive #guild 

@@ -2,24 +2,24 @@
 	- Dude
 
 > [!infobox]
-> # Thorin Holderhek
+> # Vancent
 > ![[shady.jpg|cover hsmall]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | X |
+> | Home | [[Fimore]] |
+> | Sex | Male |
 > | Race | X |
 > | Age | X |
-> | Status | X |
+> | Status | Alive |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
 > | Affiliation | X |
 > | x | x |
 
-# Thorin Holderhek
-text
+# Vancent
+Leader of the [[Hunter's Guild]]. Initially requesting [[The Edge of Vision]] to retrieve a [[Times Postern|staff]].
 ## Appearance
 ## Story
 ## Notable Powers & Equipment
@@ -32,4 +32,4 @@ text
 >
 
 ## Tags
-#characters
+#characters #male #alive

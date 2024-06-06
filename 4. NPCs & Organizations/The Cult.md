@@ -39,7 +39,7 @@ The cult is the overarching antagonist organization of the campaign. They are re
 - [[Return to the City]]: The party learns that the cult is amassing vast magical energy for their ritual. Whether kidnapping people, using the [[Serpent Whip]], or stealing magic items like [[Times Postern]].
 - [[The Green City]]: Rinn is sent to assassinate the Shady Bunch as they rest within an inn. She too has black mist where a hand should be.
 - [[Revelations]]: [[Master Orethon]] agrees to research into [[Murdmurk]] if they do a favor for [[House Inian]].
-- [[Noble Houses]]: After the party reports to [[Alexander Inian]], Taishi meets up with Orethon who describes his research into the cult.
+- [[Noble Houses]]: After the party reports to [[Lord Inian]], Taishi meets up with Orethon who describes his research into the cult.
 - To be continued...
 ## Notable Powers & Equipment
 ## Trivia

@@ -8,7 +8,7 @@
 > | Type | Stat |
 > | ---- | ---- |
 > |Designation|Noble House|
-> | Leader | [[Alexander Inian]] |
+> | Leader | [[Lord Inian]] |
 > | Homebase | [[Miromar]] |
 > | Status | Active |
 > ##### Relationships
@@ -20,7 +20,7 @@
 # House Inion
 One of [[The 13 Great Families]] of [[Miromar]]. They specialize in the city's mining industry.
 ## Members
-- [[Alexander Inian]]: Head
+- [[Lord Inian]]: Head
 
 ## Holdings
 - [[Bluestone Mines]]

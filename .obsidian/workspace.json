@@ -6,6 +6,7 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
+        "dimension": 43.969555035128806,
         "children": [
           {
             "id": "0454706604deba56",
@@ -13,16 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "4. NPCs & Organizations/Sarin.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "daecd764db55139c"
+          }
+        ]
+      },
+      {
+        "id": "6ec146792419fff0",
+        "type": "tabs",
+        "dimension": 56.030444964871194,
+        "children": [
+          {
+            "id": "11ec5bf2fad7205f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. NPCs & Organizations/Sarin.md",
                 "mode": "preview",
                 "source": true
               }
-<<<<<<< Updated upstream
-            }
-=======
             },
-            "group": "6d7c2e05d79377a2"
->>>>>>> Stashed changes
+            "group": "daecd764db55139c"
           }
         ]
       }
@@ -90,11 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md",
-=======
-                "file": "1. Player Characters/Taishi.md",
->>>>>>> Stashed changes
+                "file": "4. NPCs & Organizations/Sarin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md",
-=======
-                "file": "1. Player Characters/Taishi.md",
->>>>>>> Stashed changes
+                "file": "4. NPCs & Organizations/Sarin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Player Characters/Leia.md"
-=======
-                "file": "1. Player Characters/Taishi.md"
->>>>>>> Stashed changes
+                "file": "4. NPCs & Organizations/Sarin.md"
               }
             }
           }
@@ -163,86 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/Behind the Barn.md",
-    "1. Player Characters/Leia.md",
-    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
-    "2. Timeline/EventCards/Golden Wings.md",
-    "2. Timeline/EventCards/Heart of Stone.md",
+    "4. NPCs & Organizations/Some vampire-hunting order I forgot the name of.md",
     "1. Player Characters/Gyoop.md",
-    "2. Timeline/EventCards/Sealed Evil.md",
-    "2. Timeline/EventCards/Sandstorm.md",
-    "2. Timeline/EventCards/Return to the City.md",
-    "2. Timeline/EventCards/Mayor's Request.md",
-    "2. Timeline/EventCards/Maneaters.md",
-    "2. Timeline/EventCards/Farewell Fimore!.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "1. Player Characters/Taishi.md",
     "2. Timeline/Master Timeline.md",
-    "1. Player Characters/Shannon.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Patchclaw.md",
+    "2. Timeline/EventCards/Evil Under the Oak.md",
+    "2. Timeline/EventCards/The Lost Girl.md",
+    "Mary.md",
+    "4. NPCs & Organizations/Kingdom of Fimore.md",
+    "4. NPCs & Organizations/King of Fimore.md",
     "4. NPCs & Organizations/Johnathan Rimpid.md",
+    "4. NPCs & Organizations/Hari Uma.md",
+    "4. NPCs & Organizations/Flume du Nobe.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/The Shady Bunch.md",
+    "Tahba.md",
+    "README.md",
+    "4. NPCs & Organizations/House Yuio.md",
     "4. NPCs & Organizations/Jaren.md",
-    "Jonathan.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/Toble.md",
-    "2. Timeline/EventCards/Searching Gyoop's Home.md",
-    "2. Timeline/EventCards/The Diviner.md",
+    "4. NPCs & Organizations/House Uma.md",
+    "4. NPCs & Organizations/House Inian.md",
+    "4. NPCs & Organizations/Giant Purple Worm.md",
+    "4. NPCs & Organizations/Hag.md",
+    "z_Attachments/purpleworm.png",
+    "3. Locations/Rraynia.md",
+    "0. Landing/Homepage.md",
+    "0. Personal/Agenda.md",
+    "0. Personal/Personal Tracker.md",
+    "0. Personal/Rumors.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
     "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
-=======
-  "active": "2f8d614e68a41e21",
-  "lastOpenFiles": [
-    "1. Player Characters/Leia.md",
-    "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Taishi.md",
-    "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/Trouble In The Mines.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
-    "2. Timeline/EventCards/You Are Here.md",
-    "1. Player Characters/Patchclaw.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Toble.md",
-    "4. NPCs & Organizations/Shephard.md",
-    "the game.md",
-    "Yes.md",
-    "Thorin.md",
-    "Untitled",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
-    "2. Timeline/Master Timeline.md",
-    "Ashfang Steelworks.md",
-    "1. Player Characters/Shannon.md",
-    "0. Landing/Homepage.md",
-    "README.md",
-    "TestFolders/Test Note 3. ITS Themes.md",
-    "TestFolders/Test Note 1. Basic Markdown.md",
-    "0. Personal/Agenda.md",
-    "0. Personal/Personal Tracker.md",
-    "0. Personal/Taishi",
-    "z_Attachments/Bliurica2.bmp",
-    "z_Attachments/Bliurica_annotated.png",
-    "z_Attachments/~liurica2.tmp",
-    "z_Attachments/rraynia.jpg",
-    "z_Attachments/rraynia_aanotated.jpg",
-    "z_Attachments/klisas.jpg",
-    "z_Attachments/inox.jpg",
-    "z_Attachments/aeslea.jpg",
-    "z_Attachments/cereron.jpg",
->>>>>>> Stashed changes
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/MaahesOphelia.png",
     "z_Attachments/Gyoop2.png",
-    "z_Attachments/Flume.png",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",

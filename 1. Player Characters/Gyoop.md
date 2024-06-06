@@ -17,8 +17,13 @@
 > | ---- | ---- |
 > | Affiliation | [[The Shady Bunch]]|
 > |Master|[[Augustus]]|
+> |Master(herbs)|[[Jaren]]|
+> |Master(potions)|[[Canoli]]|
 > |Brothers | [[Troop]], [[Loop]], [[Soop]]|
 > |Right-hand|[[Bubbles]]|
+> |Friends|[[Eulysses]], [[Lord Inian]]|
+> |Victims|A patch of grass and a bush|
+
 
 # Gyoop
 Gyoop.

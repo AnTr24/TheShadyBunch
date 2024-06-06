@@ -67,10 +67,9 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - **Known Feats**: Telekinetic & Tavern Brawler (She threw a chair at a gnoll and killed it with a crit)
 - **Topaz Soul Scimitar**: With a gem embedded by the Topaz dragon they fought, this scimitar causes an additional cold damage to an enemy and sucks their strength away. (2d8 cold damage and must succeed a DC 15 CON saving throw or have their strength reduced by 1.)
 - **Drow Made Scimitar**: Traded in a couple daggers for this scimitar at [[Faal'Krel]]. Baby's first scimitar.
-- **Healer's Kit**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training.
+- **Part Time Healer?**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training. She was given a healers kit after her 
 - **Painting Set**: Given to her by [[Taishi]], she learned to express herself or show the others her dreams by using this set. 
 	- **Wizard1**: She is using a sketchbook as her spellcasting focus.
-	- **Magical Tattoo** (https://www.dndbeyond.com/magic-items/2412346-illuminators-tattoo)
 - **Psychic Abilities**
 	- She can throw or melee with one magic blade and throw another if it succeeds.
 	- If she fails an ability check using a skill or tool she is proficient to, she can use a psionic energy die to add to the roll.
@@ -80,7 +79,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 
 ### Magic Items
 - Bag of Holding
-- Crystal Ball of Mind Reading
+- Crystal Ball of Mind Reading (https://www.dndbeyond.com/magic-items/4862-crystal-ball-of-mind-reading)
 - Magical Tattoo
 - "Booties" of Spider Climbing (http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
 

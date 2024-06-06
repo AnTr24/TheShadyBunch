@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Timeline/Master Timeline.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "1. Player Characters/Leia.md",
     "2. Timeline/Master Timeline.md",
+    "1. Player Characters/Leia.md",
+    "Amnesiac Haundavar.md",
+    "1. Player Characters/Taishi.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
     "2. Timeline/EventCards/Warmer Days.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
@@ -172,8 +174,6 @@
     "2. Timeline/EventCards/Golden Wings.md",
     "2. Timeline/EventCards/Heart of Stone.md",
     "1. Player Characters/Gyoop.md",
-    "2. Timeline/EventCards/Maneaters.md",
-    "2. Timeline/EventCards/Farewell Fimore!.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",

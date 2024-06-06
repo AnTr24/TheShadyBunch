@@ -1,4 +1,4 @@
-	"You help me, then I help you!"
+	"You help me, I help you!"
 	- Leia
 
 > [!infobox]
@@ -39,7 +39,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - Later in [[Riverpont]], she met [[Taishi]] and her retainers, [[Patchclaw]], and [[Toble]] at one of the inns. 
 	- *Their journey starts there...*
 
-### Ipsissimus
+### The Last Ipsissimus
 
 - It is revealed that her people have been psionically enslaved and they are the masters of the [[Crystal Horrors]].
 	- Through her travels before the incident of the [[Crystal Nightmares]], she collected a t-rex stuffed animal in [[Fimore]] and a bear stuffed animal in [[Riverpont]] in hopes to one day find her real family to give to them. After saying her final farewells to her parents, Leia placed the stuffed animals where she last saw them and mourned for her loss.
@@ -60,7 +60,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - During [[Miromar]], [[Taishi]] was given a **Scorched Journal of Mudmurk**. Curious about it, Leia took hold of it and she saw the incident of Shademurk. There was a boy with a brown buzz cut and a girl with wavy hair. The both of them was wearing ragged clothes. Abnormal multicolored flames threatened a town before a wave of mud washed over it. Leia felt the fire as if it was burning her too. After the vision, she tried to draw out the boy and girl on a piece of paper but it ended up being a blank page to the others.
 
 ## Notable Powers & Equipment
-- **Playstyle - Support striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
+- **Playstyle - Support Striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
 - **Rogue - Soulknife**: Able to form psychic blades, communicate telepathically, and teleport.
 - **Known Feats**: Telekinetic
 - ["Booties" of Spider Climbing](http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)

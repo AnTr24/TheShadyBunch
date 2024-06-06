@@ -52,6 +52,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
 - Due to her psychic abilities, Leia receives visions from someone's mind and an object.
 	- Her first vision happened when she saw how her people became crystallized.
+	- She saw bits and pieces of an old man who doesn't remember his childhood in [[Midwood]]
 	- When she touched [[Maahes]] one day, she saw a vision of him as a bloodied man.
 	- During the [[The Boat Arc]]...
 		- Used her Telekinesis to Moses the waves apart on a night the boat and its crew was struggling to keep it safe

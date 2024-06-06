@@ -6,7 +6,6 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
-        "dimension": 43.969555035128806,
         "children": [
           {
             "id": "0454706604deba56",
@@ -14,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. NPCs & Organizations/Sarin.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "daecd764db55139c"
-          }
-        ]
-      },
-      {
-        "id": "6ec146792419fff0",
-        "type": "tabs",
-        "dimension": 56.030444964871194,
-        "children": [
-          {
-            "id": "11ec5bf2fad7205f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. NPCs & Organizations/Sarin.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "daecd764db55139c"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. NPCs & Organizations/Sarin.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. NPCs & Organizations/Sarin.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. NPCs & Organizations/Sarin.md"
+                "file": "2. Timeline/Master Timeline.md"
               }
             }
           }
@@ -170,33 +148,32 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "4. NPCs & Organizations/Some vampire-hunting order I forgot the name of.md",
-    "1. Player Characters/Gyoop.md",
+    "1. Player Characters/Leia.md",
     "2. Timeline/Master Timeline.md",
-    "2. Timeline/EventCards/Evil Under the Oak.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "2. Timeline/EventCards/Warmer Days.md",
+    "2. Timeline/EventCards/Trouble In The Mines.md",
+    "2. Timeline/EventCards/Towards Fimore.md",
+    "2. Timeline/EventCards/Through the Mountain Pass.md",
+    "2. Timeline/EventCards/The Two Groups.md",
+    "2. Timeline/EventCards/The Topaz Terror.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/Return to the City.md",
     "2. Timeline/EventCards/The Lost Girl.md",
-    "Mary.md",
-    "4. NPCs & Organizations/Kingdom of Fimore.md",
-    "4. NPCs & Organizations/King of Fimore.md",
-    "4. NPCs & Organizations/Johnathan Rimpid.md",
-    "4. NPCs & Organizations/Hari Uma.md",
-    "4. NPCs & Organizations/Flume du Nobe.md",
-    "1. Player Characters/Taishi.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "Tahba.md",
-    "README.md",
-    "4. NPCs & Organizations/House Yuio.md",
-    "4. NPCs & Organizations/Jaren.md",
-    "4. NPCs & Organizations/House Uma.md",
-    "4. NPCs & Organizations/House Inian.md",
-    "4. NPCs & Organizations/Giant Purple Worm.md",
-    "4. NPCs & Organizations/Hag.md",
-    "z_Attachments/purpleworm.png",
-    "3. Locations/Rraynia.md",
-    "0. Landing/Homepage.md",
-    "0. Personal/Agenda.md",
-    "0. Personal/Personal Tracker.md",
-    "0. Personal/Rumors.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
+    "2. Timeline/EventCards/The Green City.md",
+    "2. Timeline/EventCards/The Frost Giants.md",
+    "2. Timeline/EventCards/The Diviner.md",
+    "2. Timeline/EventCards/Searching Gyoop's Home.md",
+    "2. Timeline/EventCards/Sealed Evil.md",
+    "2. Timeline/EventCards/Sandstorm.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "2. Timeline/EventCards/Heart of Stone.md",
+    "1. Player Characters/Gyoop.md",
+    "2. Timeline/EventCards/Maneaters.md",
+    "2. Timeline/EventCards/Farewell Fimore!.md",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",
@@ -206,6 +183,7 @@
     "z_Attachments/02UmaLineCROP.jpg",
     "z_Attachments/MaahesOphelia.png",
     "z_Attachments/Gyoop2.png",
+    "z_Attachments/Flume.png",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",

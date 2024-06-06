@@ -49,7 +49,11 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Dream three: The dream that led to the events of [[Behind the Barn]] and [[Crystal Nightmares]]. Leia found herself outside of a farmhouse in [[Fimore]]'s countryside. As if she was flying, she went inside to a hallway that lead to the kitchen. There is a basement just downstairs, and she sees a wall that has a stone tunnel and blue behind it. There are muffled voices behind it calling out to her. "Free us...Daughter, we love you..Trapped Below. Below Fimore!" Constant whispers barraged her, giving her the distinct feeling that her family is there. She screamed before feeling herself being pulled away. Leia woke up with a bunny head mark at the back of her right hand.
 	- Dream four: Leia had a dream she saw different versions of herself. Nothing to notable except it was a trippy and still wonders why.
 	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
-
+- Due to her psychic abilities, Leia received visions from someone's mind and an object.
+	- During the [[The Boat Arc]]...
+		- Used her Telekinesis to Moses the waves apart on a night the boat and its crew was struggling to keep it safe
+		- Attempted to reach out to [[Toble]] and someone told her, "This is her choice. She needs me, not much you'll do now. I am her one." She also saw her paralysis demon.
+- 
 ## Notable Powers & Equipment
 - **Playstyle - Support striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
 - **Rogue - Soulknife**: Able to form psychic blades, communicate telepathically, and teleport.

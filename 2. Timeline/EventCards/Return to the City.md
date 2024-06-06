@@ -14,7 +14,7 @@ timelines:
 - King's court: 
 	- The party are greeted into the [[King of Fimore]]'s courtroom.
 	- He thanks the party for lifting the siege of [[Isolated Imprisonment]], granting them a [[Token of the King]] as well as gold and other treasures.
-	- After the meeting, [[Taishi]] sees [[Didus]] training with the soldiers of the keep. He has recently been promoted to "The Red Knight." [[Taishi]] and [[Flume du Nobe]] spend some downtime to train with him.
+	- After the meeting, [[Taishi]] sees [[Didus]] training with the soldiers of the keep. He has recently been promoted to "The Red Knight." [[Taishi]] and [[Flume]] spend some downtime to train with him.
 - [[Patchclaw]] takes  [[Toble]] to his client's residence to discuss the [[Times Postern]]
 	- The client leads them to a vault in his basement, revealing that he is an artifact collector/preserver of sorts.
 	- He's kept tabs on how items like it have gone missing from his own collection and many others across the city; likely due to the cult.
@@ -22,7 +22,7 @@ timelines:
 - [[Leia]] and [[Shannon]] go to meet [[Shephard]]. [[Shannon]] spots something off about the cheese shop but doesn't press further.
 - The party meets with [[Gyoop]] at [[Eulysses]] tower to discuss their findings about on [[The Cult]]
 	- [[Serpent Whip]]: Created by the cult to siphon magic for some dark ritual.
-	- "Mudmurk" ""and the blue caves: Cross-referencing with the flight of the paper crane and research records at the [[Cobolt Soul]], the mage deduces that Mudmurk refers to a 100+ year old village somewhere in [[Southern Klisas]].
+	- "Mudmurk" ""and the blue caves: Cross-referencing with the flight of the paper crane and research records at the [[Kobolt Soul]], the mage deduces that Mudmurk refers to a 100+ year old village somewhere in [[Southern Klisas]].
 - Docks:  The party reconvenes at the dockyard, ready to a charter a boat to [[Klisas]].
 	- A merchant ship agrees to drop them off at [[Northern Klisas]], even making space for the carriage. However, they won't be leaving for at least a 3 weeks and so the party has some downtime.
 ## Tags

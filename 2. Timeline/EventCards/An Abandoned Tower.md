@@ -19,7 +19,7 @@ timelines:
 - They return to Riverpont to inform the mayor that the gnoll threat is dealt with and collect their reward
 - Overall, the party decides to visit the city of Fimore to:
 	- Research the sigil sequence of the magic circle
-	- Stock up on supplies before travelling east
+	- Stock up on supplies before traveling east
 
 ## Tags
  #event #act1

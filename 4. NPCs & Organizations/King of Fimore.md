@@ -16,6 +16,7 @@
 > | Relation | Name |
 > | ---- | ---- |
 > | Ruler | [[Kingdom of Fimore]] |
+> |Family???|[[Willam Valentin]]|
 
 # King of Fimore
 The king of, you guessed it, [[Fimore]].

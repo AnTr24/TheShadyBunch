@@ -11,14 +11,14 @@ timelines:
 	- As well, some adventurers have also passed through Riverpont but have also gone missing
 - The mayor requests the party to look into the recent gnoll activity
 - The mayor also  pleads for aid in rescuing his daughter who has fallen into the river and floated downstream
-- As the disappearances seemed related to most of their issues, the adventurers decide to band together to share information and fulfill the mayor's request, thus [[The Shady Bunch|The Shady Bunch]] was formed
+- As the disappearances seemed related to most of their issues, the adventurers decide to band together to share information and fulfill the mayor's request, thus [[The Shady Bunch|the party]] is  formed but no name is decided.
 - Unbeknownst to them, this would only be one of many in a [[The Cult|long string of disappearances]]
 
 ## Missing People
-- Shannon's father, Brandon
+- Shannon's father, Bruce
 - Gyoop's brothers and master
 - Some adventurers passing through Riverpont
-- Cause and means of dissapearences unknown
+- Cause and means of disappearances unknown
 
 ## Tags
  #event #act1

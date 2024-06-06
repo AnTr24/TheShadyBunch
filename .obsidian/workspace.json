@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "1. Player Characters/Shannon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "1. Player Characters/Shannon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Leia.md"
+                "file": "1. Player Characters/Shannon.md"
               }
             }
           }
@@ -170,35 +170,38 @@
   },
   "active": "2f8d614e68a41e21",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "Templates/Inserts/Insert Placeholder.md",
+    "Templates/Inserts/Insert Session.md",
+    "Templates/Inserts/Insert ITS-Timeline.md",
+    "Templates/Inserts/Insert Initiative.md",
+    "Templates/Inserts/Insert AAT Timeline.md",
+    "Templates/Inserts",
+    "Templates/Full Pages/Event Card.md",
+    "Templates/Full Pages/Organization.md",
+    "Templates/Full Pages/Mundane Item.md",
+    "Templates/Full Pages/Monster.md",
+    "Templates/Full Pages/Magic item.md",
+    "Templates/Full Pages/Geography.md",
+    "Templates/Full Pages/Character.md",
+    "Templates/Full Pages",
+    "3. Locations/Inox/Inox.md",
+    "3. Locations/Inox",
+    "3. Locations/Cereron/Cereron.md",
+    "3. Locations/Cereron",
+    "3. Locations/Aeslea/Aeslea.md",
+    "3. Locations/Aeslea",
+    "z_Attachments/purpleworm.png",
+    "4. NPCs & Organizations/Mary.md",
+    "4. NPCs & Organizations/Luden.md",
+    "4. NPCs & Organizations/Lord Inian.md",
+    "4. NPCs & Organizations/Kobolt Soul.md",
+    "4. NPCs & Organizations/Johnathan Rimpid.md",
+    "4. NPCs & Organizations/Hag.md",
+    "4. NPCs & Organizations/Flume.md",
+    "4. NPCs & Organizations/Ashfang Steelworks.md",
     "2. Timeline/EventCards/Behind the Barn.md",
     "2. Timeline/EventCards/Ice-solated Imprisonment.md",
     "2. Timeline/EventCards/The Path of Kings.md",
-    "2. Timeline/EventCards/Warmer Days.md",
-=======
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/Leia.md",
-    "z_Attachments/02UmaLineCROP.jpg",
-    "z_Attachments/3rdAnniversary.png",
-    "z_Attachments/aeslea.jpg",
-    "1. Player Characters/Shannon.md",
-    "z_Attachments/Shannon dress.png",
-    "z_Attachments/Shannon_dress.png",
-    "z_Attachments/stoneheart_wMinis.jpg",
-    "z_Attachments/Toble_Amogus.png",
-    "z_Attachments/tobleadult.png",
-    "z_Attachments/TobleChild.png",
-    "z_Attachments/TaishiSpeed.png",
-    "2. Timeline/Master Timeline.md",
-    "1. Player Characters/Taishi.md",
-    "0. Personal",
-    "1. Player Characters/Gyoop.md",
-    "2. Timeline/EventCards/Towards Fimore.md",
->>>>>>> Stashed changes
-    "2. Timeline/EventCards/Trouble In The Mines.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
-    "2. Timeline/Master Timeline.md",
     "z_Attachments/YdanynCave.jpg",
     "z_Attachments/Underdark_Ship_Map.jpg",
     "z_Attachments/Vorn.png",
@@ -208,39 +211,10 @@
     "z_Attachments/trialofkings1_tablet.jpg",
     "z_Attachments/trialofkings_tablet2.jpg",
     "z_Attachments/Trex.jpg",
-    "z_Attachments/Shannon.png",
-    "1. Player Characters/Taishi.md",
-    "1. Player Characters/Patchclaw.md",
-<<<<<<< Updated upstream
-    "1. Player Characters/Gyoop.md",
-=======
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/The Shady Bunch.md",
->>>>>>> Stashed changes
-    "1. Player Characters/Toble.md",
-    "1. Player Characters/Shannon.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Leia.md",
-    "1. Player Characters/Maahes.md",
-    "1. Player Characters/Ophelia.md",
     "0. Personal",
-    "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/You Are Here.md",
-    "4. NPCs & Organizations/Shephard.md",
-    "the game.md",
-    "Yes.md",
-    "Thorin.md",
     "Untitled",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
-    "Ashfang Steelworks.md",
-    "0. Landing/Homepage.md",
     "0. Personal/Taishi",
     "z_Attachments/~liurica2.tmp",
-    "TheShadyBunch",
-    "z_Attachments/~raynia_aanotated.tmp",
-    "Session Notes",
-    "Templates/Timelines/ITS",
-    "3. Locations/Klisas/Miramar",
-    "6. Organizations"
+    "TheShadyBunch"
   ]
 }

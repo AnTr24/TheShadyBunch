@@ -24,22 +24,22 @@ timelines:
 >[!cards]
 ![[oldguildhall.jpg]]
 - They then encounter  [[Sarin]] and [[Burgell]] surprisingly waiting for them in the main hall. They have stayed behind expecting [[The Shady Bunch]] to pursue them and are here to prevent further meddling.
-- The 2 rain spells down on the party. At some point Patchclaw and Gyoop and polymorphed into turtles.
+- Two spells rain down on the party. At some point Patchclaw and Gyoop and polymorphed into turtles.
 >Lettuce. Waater~
 - Burgell is cornered but manages to teleport away.
 - On his own, Sarin takes out and imbibes a mysterious black potion. It transforms him into an abomination, twisting his flesh and growing to Huge size. 
 - The party is able to put down the monster, as the twisted flesh burns away, an evil/cursed ring is all that remains of Sarin. The party elects to throw it off into the coast.
 
 ## Dining Hall
-- Searching the rest of the manor, none of the missing people are found, it seems thy have been relocated. There are signs that a boat had docked along the nearby shore, but it is unknown how long ago.
+- Searching the rest of the manor, none of the missing people are found, it seems they have been relocated. There are signs that a boat had docked along the nearby shore, but it is unknown how long ago.
 - The party gathers together to check the last room: the dining hall.
 - Opening the doors, they see a large dinner table and several portraits. Looking at the dusty portraits, this building seems to have belonged to an old adventuring party.
 	- **Grandfather's letter**: Wiping off one of the large portraits, [[Taishi]] discovers her grandfather's image. Hidden behind the plaque is a box holding a letter left to her. Reading it, the letter explains how he grew frustrated with the courts blocking reforms to the [[Miromar|the city]] and the people's living conditions. It goes on to outline  his journey since he left home. Taishi unlocks her radiance die after reading the letter.
 - At the back, the party discovers a [[Scrying Mirror]]. Activating it, the [[Mirror Matron]] speaks:
 >"'This is **Mudmurk**, do you have something to report?"
 
-Seemingly expecting Sarin or Burgell. The party notes a blueish glow and an underground cave behind her. They make a deal for information and proof of [[Bruce]]'s life. In return, one of the party must use the [[Serpent Whip]] lying on a nearby table as well as them promising to  destroy the mirror on their side. The [[Magical Agreement]] made, Taishi volunteers herself and strikes her arm with the whip. She notices that part of her magic/vitality is absorbed and sent somewhere. Satisfied, the Matron has cultists drag Brandon nearby and his screams are heard as he is tortured. The Matron then ends the connection.
-- The party goes outside, using one of the [[Paper Cranes]] to search for Brandon. They see it fly away from the shore, likely to another continent.
+Seemingly expecting Sarin or Burgell. The party notes a blueish glow and an underground cave behind her. They make a deal for information and proof of [[Bruce]]'s life. In return, one of the party must use the [[Serpent Whip]] lying on a nearby table as well as them promising to  destroy the mirror on their side. A [[Magical Agreement]] made, Taishi volunteers herself and strikes her arm with the whip. She notices that part of her magic/vitality is absorbed and sent somewhere. Satisfied, the Matron has cultists drag Bruce nearby and his screams are heard as he is tortured. The Matron then ends the connection.
+- The party goes outside, using one of the [[Paper Cranes]] to search for Bruce. They see it fly away from the shore, likely to another continent.
 - They plan to discuss their findings with [[Eulysses]].
 - At first, they attempt to take the mirror with them, but ominous warning signs eventually convince them to destroy it as they toss the shards out on the road.
 ## Tags

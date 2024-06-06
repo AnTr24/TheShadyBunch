@@ -7,7 +7,7 @@
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
+> | Home | [[Fimore]], West [[Aeslea]] |
 > | Sex | Female |
 > | Race | Half-Elf |
 > | Age | 10 |
@@ -43,6 +43,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 
 - It is revealed that her people have been psionically enslaved and they are the masters of the [[Crystal Horrors]].
 	- Through her travels before the incident of the [[Crystal Nightmares]], she collected a t-rex stuffed animal in [[Fimore]] and a bear stuffed animal in [[Riverpont]] in hopes to one day find her real family to give to them. After saying her final farewells to her parents, Leia placed the stuffed animals where she last saw them and mourned for her loss.
+	- Learned that her family is from West [[Aeslea]].
 - Notably Leia would receive dreams through out their journey that tends to be premonitions of what's to come.
 	- Dream one: Between the events of [[An Abandoned Tower]] and heading back to [[Fimore]], Leia had a dream she heard whispers of people that was luring her towards them. Then the appearance of an eye showed up the moment she got closer. She started falling into darkness through silhouettes of people. She woke up with a nosebleed.
 	- Dream two: Leia dreamt she was bandaging the same wounded soldier at the [[Isolated Imprisonment]] like earlier. [[Adrian]] was walking away from them while the hand she was grasping grabbed her hand and pulled her *into* him. She closed her eyes at this sudden act, opening them to find herself in the familiar darkness of her first dream. Voices started ringing out, calling for her, "Find us....You're the last...Please!"
@@ -50,6 +51,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Dream four: Leia had a dream she saw different versions of herself. Nothing to notable except it was a trippy and still wonders why.
 	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
 - Due to her psychic abilities, Leia receives visions from someone's mind and an object.
+	- When she touched [[Maahes]] one day, she saw a vision of him as a bloodied man.
 	- During the [[The Boat Arc]]...
 		- Used her Telekinesis to Moses the waves apart on a night the boat and its crew was struggling to keep it safe
 		- Attempted to reach out to [[Toble]] and someone told her, "This is her choice. She needs me, not much you'll do now. I am her one." She also saw her paralysis demon.
@@ -64,8 +66,12 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - **Rogue - Soulknife**: Able to form psychic blades, communicate telepathically, and teleport.
 - **Known Feats**: Telekinetic & Tavern Brawler (She threw a chair at a gnoll and killed it with a crit)
 - **Topaz Soul Scimitar**: With a gem embedded by the Topaz dragon they fought, this scimitar causes an additional cold damage to an enemy and sucks their strength away. (2d8 cold damage and must succeed a DC 15 CON saving throw or have their strength reduced by 1.)
-- **Drow Made Scimitar**: Traded in a couple daggers for this scimitar. Baby's first scimitar.
-- **["Booties" of Spider Climbing]**(http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
+- **Drow Made Scimitar**: Traded in a couple daggers for this scimitar at [[Faal'Krel]]. Baby's first scimitar.
+- **Booties" of Spider Climbing**(http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
+- **Healer's Kit**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training.
+- **Painting Set**: Given to her by [[Taishi]], she learned to express herself or show the others her dreams by using this set. 
+	- **Wizard1**: She is using a sketchbook as her spellcasting focus.
+	- **Magical Tattoo** (https://www.dndbeyond.com/magic-items/2412346-illuminators-tattoo)
 ### Psychic Prodigy
 - Awakened from defeating the [[Crystal Horrors|monster]] that imprisoned her people / real family.
 - Allows her to cast spells such as  Encode Thoughts, Feather Fall,  and Telekinesis.
@@ -76,7 +82,6 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - Was walking on bare feet her whole life until [[Shannon]] made her booties.
 - Since her brief healer training with Priest [[Adrian]], she always give a prayer to the allies who have fallen. Sometimes silently.
 - Has a weird obsession with scimitars.
-- At the mountain castle of the [[Isolated Imprisonment]], met a priest that taught her the ways of Bahamut and medicinal training.
 
 
 ## Gallery

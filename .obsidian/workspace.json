@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Timeline/Master Timeline.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Timeline/Master Timeline.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/The Topaz Terror.md",
     "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/The Topaz Terror.md",
     "1. Player Characters/Leia.md",
     "2. Timeline/EventCards/Behind the Barn.md",
     "2. Timeline/EventCards/Crystal Nightmares.md",

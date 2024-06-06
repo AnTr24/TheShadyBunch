@@ -49,11 +49,16 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- Dream three: The dream that led to the events of [[Behind the Barn]] and [[Crystal Nightmares]]. Leia found herself outside of a farmhouse in [[Fimore]]'s countryside. As if she was flying, she went inside to a hallway that lead to the kitchen. There is a basement just downstairs, and she sees a wall that has a stone tunnel and blue behind it. There are muffled voices behind it calling out to her. "Free us...Daughter, we love you..Trapped Below. Below Fimore!" Constant whispers barraged her, giving her the distinct feeling that her family is there. She screamed before feeling herself being pulled away. Leia woke up with a bunny head mark at the back of her right hand.
 	- Dream four: Leia had a dream she saw different versions of herself. Nothing to notable except it was a trippy and still wonders why.
 	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
-- Due to her psychic abilities, Leia received visions from someone's mind and an object.
+- Due to her psychic abilities, Leia receives visions from someone's mind and an object.
 	- During the [[The Boat Arc]]...
 		- Used her Telekinesis to Moses the waves apart on a night the boat and its crew was struggling to keep it safe
 		- Attempted to reach out to [[Toble]] and someone told her, "This is her choice. She needs me, not much you'll do now. I am her one." She also saw her paralysis demon.
-- 
+	- During the [[Trouble In The Mines II]]...
+		- Leia used Detect Thoughts on a weird guy who was guiding her inside a cave and she saw the layout of the 100 mine cart rails that is like a web. 
+		- Simultaneously, she saw a memory from [[Amnesiac Haundavar]] of his wife and kids. Then an ilithid ambush on his group. He was at the same spot where they met him. There was a deceased Haundavar on a chest plate.
+		- Continuing to help the [[Amnesiac Haundavar]] with his memories, Leia saw the birth of his kids. The name of his wife starts with a V.
+- During [[Miromar]], [[Taishi]] was given a **Scorched Journal of Mudmurk**. Curious about it, Leia took hold of it and she saw the incident of Shademurk. There was a boy with a brown buzz cut and a girl with wavy hair. The both of them was wearing ragged clothes. Abnormal multicolored flames threatened a town before a wave of mud washed over it. Leia felt the fire as if it was burning her too. After the vision, she tried to draw out the boy and girl on a piece of paper but it ended up being a blank page to the others.
+
 ## Notable Powers & Equipment
 - **Playstyle - Support striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
 - **Rogue - Soulknife**: Able to form psychic blades, communicate telepathically, and teleport.

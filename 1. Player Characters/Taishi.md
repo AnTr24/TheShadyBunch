@@ -38,7 +38,7 @@ A young human woman of average height and slender build. Her hair is often messy
 - Held a speech to rally the people of [[Fimore]] during the raid of the [[Crystal Horrors]].
 - Bolstered the courage of the [[Belano]] villagers
 - Rejected the advances of [[Rinn Yuio]]
-- Recruited the [[Amnesiac Haardavar]] to her house and set up a partnership with [[House Inian]].
+- Recruited the [[Amnesiac Haundavar]] to her house and set up a partnership with [[House Inian]].
 
 ### Act 1
 - Wore Fimorrian-styled chain mail and sword&shield for combat.

@@ -39,7 +39,7 @@ An old noble family from [[Miromar]]. Despite their long history, they are of mi
 - Servants:
 	- Taishi's retainers: [[Flume du Nobe]], [[Logi]], [[Eschal]]
 	- __ (Gardener)
-	- [[Amnesiac Haardavar]] (Mining Specialist)
+	- [[Amnesiac Haundavar]] (Mining Specialist)
 	- Various unnamed
 
 ## Holdings

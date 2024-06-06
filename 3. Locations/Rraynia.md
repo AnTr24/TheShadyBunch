@@ -7,8 +7,8 @@
 ### The Continents
 - [[Bliurica]]
 - [[Klisas]]
-- [[Saruron]]
-- [[Cerreron]]
+- [[Cereron]]
+- [[Aeslea]]
 - [[Inox]]
 
 ### Other

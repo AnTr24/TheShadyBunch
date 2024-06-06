@@ -8,6 +8,8 @@
 > | Part of | [[Rraynia]] |
 > 
 # Klisas
+A continent on located on the central-west waters of [[Rraynia]].
+
 One of the more established continents, Klisas is a land of deep history and home to both the [[Eules Empire]] and branches of the [[K'reen Dynasty]]. Klisas is also notorious for the deadly [[Stirge disease|stirge bats]] that become active at night. Ample torches and oil and recommended for any travelers in the region.
 
 ## Geography

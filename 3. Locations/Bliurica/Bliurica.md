@@ -12,7 +12,8 @@
 > |Races|mixed|
 
 # Bliurica
-The first continent / starting point of the campaign. The continent is home to 2 large civilizations: the [[Kingdom of Fimore]] and [[Kreen Dynasty]].
+The first continent / starting point of the campaign. Located on the northern waters of [[Rraynia]].
+The continent is home to 2 large civilizations: the [[Kingdom of Fimore]] and [[Kreen Dynasty]].
 
 ## Geography
 Discovered fairly recently compared to the other continent, much of the lands of Bliurica are wildlands seperated by a strong central river and large mountain range.

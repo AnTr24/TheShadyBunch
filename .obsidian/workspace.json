@@ -6,7 +6,7 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
-        "dimension": 49.04255319148936,
+        "dimension": 49.46808510638298,
         "children": [
           {
             "id": "0454706604deba56",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "eb162325ae77a1e9",
         "type": "tabs",
-        "dimension": 50.95744680851064,
+        "dimension": 50.53191489361703,
         "children": [
           {
             "id": "2f8d614e68a41e21",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Shannon.md"
+                "file": "4. NPCs & Organizations/Ashfang Steelworks.md"
               }
             }
           }
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f8d614e68a41e21",
+  "active": "0454706604deba56",
   "lastOpenFiles": [
+    "1. Player Characters/Shannon.md",
+    "1. Player Characters/Gyoop.md",
     "Templates/Inserts/Insert Placeholder.md",
     "Templates/Inserts/Insert Session.md",
     "Templates/Inserts/Insert ITS-Timeline.md",
@@ -200,8 +202,6 @@
     "4. NPCs & Organizations/Flume.md",
     "4. NPCs & Organizations/Ashfang Steelworks.md",
     "2. Timeline/EventCards/Behind the Barn.md",
-    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
-    "2. Timeline/EventCards/The Path of Kings.md",
     "z_Attachments/YdanynCave.jpg",
     "z_Attachments/Underdark_Ship_Map.jpg",
     "z_Attachments/Vorn.png",

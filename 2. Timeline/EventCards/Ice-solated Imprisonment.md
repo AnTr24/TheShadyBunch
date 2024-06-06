@@ -5,7 +5,7 @@ timelines:
   - act1
 ---
 # Ice-solated Imprisonment
-- The group  make their way down the mountains in view of the castle, [[Isolated Imprisonment]], noticing several broken pieces of armor and weapons strewn about. The walls look worn, showing clear signs of a recent siege.
+- The group make their way down the mountains in view of the castle, [[Isolated Imprisonment]], noticing several broken pieces of armor and weapons strewn about. The walls look worn, showing clear signs of a recent siege.
 - Noticing more human-sized travellers, the guards hastily opens the gates and usher the party inside.
 - The party are told to accommodate themselves in a spare corner of the barracks.
 - Soldiers advise the group to meet with the castle's overseer, [[General Jasper]] if they wish to travel further.

@@ -1,4 +1,4 @@
-	*covers ears and uses Detect Thoughts*
+	"You help me, then I help you!"
 	- Leia
 
 > [!infobox]
@@ -29,14 +29,26 @@
 - Absolutely chaotic and adventurous that *some* of her ideas concerns the group
 
 ## Appearance
-Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a white headband and light purple eyes. She notably wears a blue scarf and has a rabbit head tattoo at the back of her right hand. 
+Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a white headband and light purple eyes. She notably wears a blue scarf and has a rabbit head tattoo at the back of her right hand. As of Act 2, she is currently wearing a frilly pink and chestnut dress with fluffy white ends thanks to [[Taishi]] and her family. Silver plates covers her shoulders that are barely seen due to her scarf. 
 
-## Story
-- 420g cheese
-- Raised by a man named [[Shephard]] as far as she remembers.
+## Story 
+- She is one of the founding members of [[The Shady Bunch]].
+- Was taken in by [[Shephard]] in the streets of [[Fimore]] after a month of arriving in the continent by boat as a stowaway who hid in a barrel.
 	- Often does "deliveries" for him, but doesn't know the contents.
-	- It is revealed that this is because her people have been psionically enslaved the the master of the [[Crystal Horrors]].
-- At the mountain castle of the [[Isolated Imprisonment]], met a priest that taught her the ways of Bahamut and medicinal training.
+- During a delivery of 420g cheese for a [[Johnathan Rimpid]] of [[Riverpont]], Leia met a deflated [[Gyoop]] at a riverside and an observing [[Shannon]].
+- Later in [[Riverpont]], she met [[Taishi]] and her retainers, [[Patchclaw]], and [[Toble]] at one of the inns. 
+	- *Their journey starts there...*
+
+### Ipsissimus
+
+- It is revealed that her people have been psionically enslaved and they are the masters of the [[Crystal Horrors]].
+	- Through her travels before the incident of the [[Crystal Nightmares]], she collected a t-rex stuffed animal in [[Fimore]] and a bear stuffed animal in [[Riverpont]] in hopes to one day find her real family to give to them. After saying her final farewells to her parents, Leia placed the stuffed animals where she last saw them and mourned for her loss.
+- Notably Leia would receive dreams through out their journeys that tends to be premonitions of what's to come.
+	- Dream one: Between the events of [[An Abandoned Tower]] and heading back to [[Fimore]], Leia had a dream she heard whispers of people that was luring her towards them. Then the appearance of an eye showed up the moment she got closer. She started falling into darkness through silhouettes of people. She woke up with a nosebleed.
+	- Dream two: Leia dreamt she was bandaging the same wounded soldier at the [[Isolated Imprisonment]] like earlier. [[Adrian]] was walking away from them while the hand she was grasping grabbed her hand and pulled her *into* him. She closed her eyes at this sudden act, opening them to find herself in the familiar darkness of her first dream. Voices started ringing out, calling for her, "Find us....You're the last...Please!"
+	- Dream three: The dream that led to the events of [[Behind the Barn]] and [[Crystal Nightmares]]. Leia found herself outside of a farmhouse in [[Fimore]]'s countryside. As if she was flying, she went inside to a hallway that lead to the kitchen. There is a basement just downstairs, and she sees a wall that has a stone tunnel and blue behind it. There are muffled voices behind it calling out to her. "Free us...Daughter, we love you..Trapped Below. Below Fimore!" Constant whispers barraged her, giving her the distinct feeling that her family is there. She screamed before feeling herself being pulled away. Leia woke up with a bunny head mark at the back of her right hand.
+	- Dream four: Leia had a dream she saw different versions of herself. Nothing to notable except it was a trippy and still wonders why.
+	- Dream five: Had a dream about seeing and hearing static. Currently have no idea what that's about. 
 
 ## Notable Powers & Equipment
 - **Playstyle - Support striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
@@ -54,6 +66,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - Was walking on bare feet her whole life until [[Shannon]] made her booties.
 - Since her brief healer training with Priest [[Adrian]], she always give a prayer to the allies who have fallen. Sometimes silently.
 - Has a weird obsession with scimitars.
+- At the mountain castle of the [[Isolated Imprisonment]], met a priest that taught her the ways of Bahamut and medicinal training.
 
 
 ## Gallery
@@ -68,6 +81,6 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 >[[Leia_Amogus.png|Amogus]]
 >
 >![[Leia's dream.png|banner]]
->[[Leia's dream.png|Dream]]
+>[[Leia's dream.png|Baby's First Dream]]
 ## Tags
 #characters #rogue #half-elf #alive #female

@@ -18,7 +18,7 @@ timelines:
 - Shannon's father, Brandon
 - Gyoop's brothers and master
 - Some adventurers passing through Riverpont
-- Cause and means of dissapearences unknown
+- Cause and means of disappearances unknown
 
 ## Tags
  #event #act1

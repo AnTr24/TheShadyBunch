@@ -67,7 +67,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - **Known Feats**: Telekinetic & Tavern Brawler (She threw a chair at a gnoll and killed it with a crit)
 - **Topaz Soul Scimitar**: With a gem embedded by the Topaz dragon they fought, this scimitar causes an additional cold damage to an enemy and sucks their strength away. (2d8 cold damage and must succeed a DC 15 CON saving throw or have their strength reduced by 1.)
 - **Drow Made Scimitar**: Traded in a couple daggers for this scimitar at [[Faal'Krel]]. Baby's first scimitar.
-- **Part Time Healer?**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training. She was given a healers kit after her 
+- **Part Time Healer?**: Given to her by the priest [[Adrian]], she was taught the ways of Bahamut and medicinal training. She was given a healers kit before the party left the [[Isolated Imprisonment]].
 - **Painting Set**: Given to her by [[Taishi]], she learned to express herself or show the others her dreams by using this set. 
 	- **Wizard1**: She is using a sketchbook as her spellcasting focus.
 - **Psychic Abilities**
@@ -87,7 +87,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 - Awakened from defeating the [[Crystal Horrors|monster]] that imprisoned her people / real family.
 - Allows her to cast spells such as Detect Thoughts and Telekinesis once per rest.
 - Gains advantage on insight checks
-- Gains d6’s equal to her proficiency to expend in her damage rolls. You regain these dice at the end of a long rest.
+- Gains d6’s equal to her proficiency to expend in her damage rolls. Regain these dice at the end of a long rest.
 
 ## Trivia
 - Described as a "Gremlin".

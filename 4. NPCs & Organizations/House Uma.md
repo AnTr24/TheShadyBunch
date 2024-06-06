@@ -37,7 +37,7 @@ An old noble family from [[Miromar]]. Despite their long history, they are of mi
 - [[Mine Uma]] (Lady of House)
 - [[Taishi|Taishi Uma]] (Heir)
 - Servants:
-	- Taishi's retainers: [[Flume du Nobe]], [[Logi]], [[Eschal]]
+	- Taishi's retainers: [[Flume]], [[Logi]], [[Eschal]]
 	- __ (Gardener)
 	- [[Amnesiac Haundavar]] (Mining Specialist)
 	- Various unnamed

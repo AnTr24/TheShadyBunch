@@ -17,7 +17,7 @@
 > | Affiliation |[[The Shady Bunch]], [[House Uma]]|
 > |Grandfather | [[The Late Lord Uma]] | 
 > | Parents|[[Hari Uma]], [[Mine Uma]]|
-> |Retainers|[[Flume du Nobe]], [[Eschal]], [[Logi]] | 
+> |Retainers|[[Flume]], [[Eschal]], [[Logi]] | 
 > |Mount/Pet| - [[Noble Steed]](former) <br>- [[Zhou]] |
 > | Unwanted Suitor |[[Rinn Yuio]]|
 > |Sworn Enemy|[[The Eye]]|
@@ -25,7 +25,7 @@
 # Taishi Uma
 - Benevolent and adventurous noblewoman but ~~probably~~ reckless.
 - Hails from [[Miromar]]: a city full of other aristocrats and the largest human kingdom.
-- Accompanied by 3 retainers: [[Flume du Nobe]], [[Eschal]], and [[Logi]].
+- Accompanied by 3 retainers: [[Flume]], [[Eschal]], and [[Logi]].
 - Gifted with the "spark" seen rarely amongst the descendants of [[House Uma]].
 
 ## Appearance

@@ -27,7 +27,9 @@ It is split into three major regions.
 ### North Aeslea
 ### South Aeslea
 
-
+>[!cards]
+>**[[Aeslea.jpg|Map]]**
+>![[aeslea.jpg|banner]]
 
 ## Tags
 #locations #continent 

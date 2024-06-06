@@ -1,6 +1,6 @@
 > [!infobox]
 > # Klisas
-> ![[shady.jpg|cover hsmall]]
+> ![[klisas.jpg]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -27,6 +27,10 @@ Klisas is split into 2 landmasses: [[Northern Klisas]], and [[Southern Klisas]],
 - [[Midnight Sands]]: desert area containing black sand. Borders the swamps with a mountain range in-between.
 - [[Lanteglos Swamps]] bordering the desert region with a mountain range in-between.
 
+## Gallery
+>[!cards]
+>**[[klisas.jpg|Map]]**
+>![[klisas.jpg|banner]]
 
 ## Tags
 #locations #continent 

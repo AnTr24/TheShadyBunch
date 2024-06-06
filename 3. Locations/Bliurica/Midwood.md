@@ -32,7 +32,12 @@ Village: A small village with no walls, built on a clearing amongst the large tr
 
 ##  Notable Locations
 - Chieftain's hut / treehouse.
-- Golden statue of a dragon
+- Golden statue of a dragon. There is a plaque at the base of the statue with the following insribed:
+```
+Of the Golden Light 
+May you see and fear his sight 
+Or bow to his truest might
+```
 
 ## Tags
 #locations #village 

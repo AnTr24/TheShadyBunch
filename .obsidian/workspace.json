@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
+                "file": "1. Player Characters/Shannon.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
+                "file": "1. Player Characters/Shannon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. NPCs & Organizations/Ashfang Steelworks.md",
+                "file": "1. Player Characters/Shannon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. NPCs & Organizations/Ashfang Steelworks.md"
+                "file": "1. Player Characters/Shannon.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
+    "4. NPCs & Organizations/Ashfang Steelworks.md",
     "1. Player Characters/Shannon.md",
     "1. Player Characters/Gyoop.md",
     "Templates/Inserts/Insert Placeholder.md",
@@ -200,7 +201,6 @@
     "4. NPCs & Organizations/Johnathan Rimpid.md",
     "4. NPCs & Organizations/Hag.md",
     "4. NPCs & Organizations/Flume.md",
-    "4. NPCs & Organizations/Ashfang Steelworks.md",
     "2. Timeline/EventCards/Behind the Barn.md",
     "z_Attachments/YdanynCave.jpg",
     "z_Attachments/Underdark_Ship_Map.jpg",

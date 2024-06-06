@@ -62,9 +62,10 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 ## Notable Powers & Equipment
 - **Playstyle - Support Striker**: Often aiding the party with psychic powers or pairing up with someone to deal sneak attacks.
 - **Rogue - Soulknife**: Able to form psychic blades, communicate telepathically, and teleport.
-- **Known Feats**: Telekinetic
-- ["Booties" of Spider Climbing](http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
-
+- **Known Feats**: Telekinetic & Tavern Brawler (She threw a chair at a gnoll and killed it with a crit)
+- **Topaz Soul Scimitar**: With a gem embedded by the Topaz dragon they fought, this scimitar causes an additional cold damage to an enemy and sucks their strength away. (2d8 cold damage and must succeed a DC 15 CON saving throw or have their strength reduced by 1.)
+- **Drow Made Scimitar**: Traded in a couple daggers for this scimitar. Baby's first scimitar.
+- **["Booties" of Spider Climbing]**(http://dnd5e.wikidot.com/wondrous-items:slippers-of-spider-climbing)
 ### Psychic Prodigy
 - Awakened from defeating the [[Crystal Horrors|monster]] that imprisoned her people / real family.
 - Allows her to cast spells such as  Encode Thoughts, Feather Fall,  and Telekinesis.

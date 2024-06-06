@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
-                "mode": "source",
+                "file": "1. Player Characters/Leia.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
+    "2. Timeline/EventCards/Crystal Nightmares.md",
     "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "2. Timeline/EventCards/Return to the City.md",
+    "2. Timeline/EventCards/Evil Under the Oak.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
     "5. Monsters, Items and Statuses/Candonas.md",
     "2. Timeline/EventCards/Warmer Days.md",
@@ -170,11 +174,7 @@
     "Templates/Full Pages/Mundane Item.md",
     "Templates/Full Pages/Monster.md",
     "Templates/Full Pages/Magic item.md",
-    "Templates/Full Pages/Event Card.md",
-    "Templates/Full Pages/Geography.md",
-    "Templates/Full Pages/Character.md",
     "Templates/Full Pages",
-    "3. Locations/Inox/Inox.md",
     "3. Locations/Inox",
     "Templates/Inserts",
     "z_Attachments/purpleworm.png",

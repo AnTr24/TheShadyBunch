@@ -15,7 +15,7 @@
 > | Relation | Name |
 > | ---- | ---- |
 > | Affiliation | [[Valentin Family]], [[Kingdom of Miromar]], [[Eules Empire]]|
-> |family???|[[King of Fimore]]|
+> |family???|[[Ulric Valentin]]|
 
 # Willim Valentin
 Current head of the [[Valentin Family]] and king of [[Kingdom of Miromar]]

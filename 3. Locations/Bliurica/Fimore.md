@@ -10,7 +10,7 @@
 > | Type | Stat |
 > | ---- | ---- |
 > | Govt. | Kingdom |
-> | Ruler | [[King of Fimore]] |
+> | Ruler | [[Ulric Valentin]] |
 > |Races|Mixed|
 
 # Fimore

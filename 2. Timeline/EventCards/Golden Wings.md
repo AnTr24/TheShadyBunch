@@ -32,7 +32,12 @@
 - However, they don't have long as the "cave" rumbles and sands begin to fall upon then.
 	- With Ydanyn dead, the magic holding up the sands has dissipated, and the cave alongside the treasure horde is rapidly being buried in collapsing sand.
 	- The party stop their looting after grabbing a few items and make their way towards the exit, barely making it out
-- As they collect themselves, they find themselves transported back into [[Vorodin's Cave]], Infront of the full majesty of a gold dragon.
+- As they collect themselves, they find themselves transported back into [[Vorodin's Cave]]; Infront of them is the full majesty of a gold dragon.
+	- Vorodin thanks the party for freeing him from Ydanyn's trap
+	- Taking time to answer their questions, he also reveals that he is responsible for setting up the trials they passed through. Originally, it was part of his pact with the [[Kingdom of Fimore]]'s first king as a means to test the worthiness of their successors. Eventually he settled down in the mountains and took care of a nearby [[Midwood|village]].
+	- He takes the party back to the village to finish the annual festival
+> [!aside|cleanright]
+> Sometime during this event, [[Patchclaw]] and [[Maahes]] end up in  medidative trance..entering [[The Beastlands]]
 
 ## Tags
  #event #act1

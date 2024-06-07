@@ -3,7 +3,7 @@ Source: The Shady Bunch
 Link:
 ![[shady.jpg|banner]]
 ## Item Description
-A token issued by the [[King of Fimore]]. Anyone presenting it to the king may redeem it for a single favor.
+A token issued by the [[Kingdom of Fimore]]. Anyone presenting it to the king may redeem it for a single favor.
 
 ## Story
 - [[Return to the City]]: 1 was gifted to [[The Shady Bunch]].

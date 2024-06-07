@@ -6,7 +6,7 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
-        "dimension": 41.59574468085106,
+        "dimension": 41.59574468085107,
         "children": [
           {
             "id": "0454706604deba56",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "eb162325ae77a1e9",
         "type": "tabs",
-        "dimension": 58.40425531914894,
+        "dimension": 58.40425531914893,
         "children": [
           {
             "id": "2f8d614e68a41e21",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "2. Timeline/Master Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Shannon.md"
+                "file": "2. Timeline/Master Timeline.md"
               }
             }
           }
@@ -168,39 +168,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0454706604deba56",
+  "active": "2f8d614e68a41e21",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/Mayor's Request.md",
-    "Ashfangs.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "Dreamlily.md",
-    "Tahba.md",
-    "3. Locations/Klisas/Belano.md",
-    "Underdark.md",
+    "2. Timeline/EventCards/The Green City.md",
+    "2. Timeline/Master Timeline.md",
+    "5. Monsters, Items and Statuses/Rinn's notes.md",
+    "4. NPCs & Organizations/Rinn.md",
     "4. NPCs & Organizations/The Cult.md",
-    "Untitled.canvas",
-    "4. NPCs & Organizations/Ashfang Steelworks.md",
+    "z_Attachments/Faal'Krel_Inn.jpg",
+    "z_Attachments/Faal'Krel.jpg",
+    "4. NPCs & Organizations/Ulric Valentin.md",
+    "4. NPCs & Organizations/Willam Valentin.md",
+    "4. NPCs & Organizations/Kingdom of Fimore.md",
+    "4. NPCs & Organizations/House Inian.md",
+    "2. Timeline/EventCards/Return to the City.md",
+    "5. Monsters, Items and Statuses/Token of the King.md",
+    "4. NPCs & Organizations/Adrian.md",
+    "1. Player Characters/The Shady Bunch.md",
+    "0. Personal/Personal Tracker.md",
+    "0. Personal/Agenda.md",
+    "0. Personal/Rumors.md",
+    "0. Landing/Homepage.md",
     "1. Player Characters/Shannon.md",
-    "1. Player Characters/Gyoop.md",
-    "Templates/Inserts/Insert Placeholder.md",
-    "Templates/Inserts/Insert Session.md",
-    "Templates/Inserts/Insert ITS-Timeline.md",
-    "Templates/Inserts/Insert Initiative.md",
-    "Templates/Inserts/Insert AAT Timeline.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
+    "Ashfangs.md",
+    "Amnesiac Haundavar.md",
+    "3. Locations/Great Vortex.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "README (DON'T DELETE).md",
+    "Tahba.md",
+    "Underdark.md",
+    "Untitled.canvas",
     "Templates/Inserts",
-    "Templates/Full Pages/Event Card.md",
-    "Templates/Full Pages/Organization.md",
-    "Templates/Full Pages/Mundane Item.md",
-    "Templates/Full Pages/Monster.md",
-    "Templates/Full Pages/Magic item.md",
-    "Templates/Full Pages/Geography.md",
-    "Templates/Full Pages/Character.md",
     "Templates/Full Pages",
-    "3. Locations/Inox/Inox.md",
     "3. Locations/Inox",
-    "3. Locations/Cereron/Cereron.md",
     "3. Locations/Cereron",
-    "3. Locations/Aeslea/Aeslea.md",
     "3. Locations/Aeslea",
     "z_Attachments/purpleworm.png",
     "z_Attachments/YdanynCave.jpg",
@@ -210,8 +212,6 @@
     "z_Attachments/trialofkings3_end.jpg",
     "z_Attachments/trialofkings2_Path.png",
     "z_Attachments/trialofkings1_tablet.jpg",
-    "z_Attachments/trialofkings_tablet2.jpg",
-    "z_Attachments/Trex.jpg",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",

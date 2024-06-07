@@ -13,26 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
-                "mode": "preview",
+                "file": "Templates/Full Pages/Term.md",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
+            },
+            "group": "b65099a789d7cd57"
+          }
+        ]
+      },
+      {
+        "id": "31e55ea6fe509418",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b92f05f1a0cf1cca",
+            "id": "534bcd52e88d2cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
-                "mode": "preview",
+                "file": "Templates/Full Pages/Term.md",
+                "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "b65099a789d7cd57"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#magici",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "Templates/Full Pages/Term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "Templates/Full Pages/Term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Leia.md"
+                "file": "Templates/Full Pages/Term.md"
               }
             }
           }
@@ -156,39 +163,46 @@
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b92f05f1a0cf1cca",
+  "active": "33a657314c41c01c",
   "lastOpenFiles": [
-    "2. Timeline/Master Timeline.md",
-    "2. Timeline/EventCards/The Path of Kings.md",
-    "2. Timeline/EventCards/The Topaz Terror.md",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
-    "2. Timeline/EventCards/Behind the Barn.md",
-    "1. Player Characters/Leia.md",
-    "1. Player Characters/Shannon.md",
-    "2. Timeline/EventCards/The Green City.md",
-    "2. Timeline/EventCards/Golden Wings.md",
-    "2. Timeline/EventCards/You Are Here.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
-    "2. Timeline/EventCards/Warmer Days.md",
-    "2. Timeline/EventCards/Towards Fimore.md",
-    "2. Timeline/EventCards/Trouble In The Mines.md",
-    "2. Timeline/EventCards/Through the Mountain Pass.md",
-    "2. Timeline/EventCards/The Lost Girl.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Patchclaw.md",
-    "1. Player Characters/Ophelia.md",
-    "1. Player Characters/Maahes.md",
-    "0. Personal/Leia secret notes.md",
-    "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Toble.md",
-    "1. Player Characters/Taishi.md",
+    "Templates/Full Pages/Organization.md",
+    "Templates/Full Pages/Mundane Item.md",
+    "Templates/Full Pages/Term.md",
+    "5. Monsters, Items and Terms/Terms/Crystallization.md",
+    "5. Monsters, Items and Terms/Terms/Magical Agreement.md",
+    "3. Locations/Klisas/Miramar/Uma Manor.md",
+    "3. Locations/Klisas/Miramar/Miromar.md",
+    "3. Locations/Klisas/Miramar/Untitled.md",
+    "4. NPCs & Organizations/NPCs/Hag.md",
+    "5. Monsters, Items and Terms/Items-Magical/Paper Cranes.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Candonas.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Rinn's notes.md",
+    "5. Monsters, Items and Terms/Items-Magical/Mage's Best Friend.md",
+    "5. Monsters, Items and Terms/Items-Magical/Aegis Terrum.md",
+    "Templates/Full Pages/Monster.md",
+    "Templates/Full Pages/Magic item.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Vivian Ivy.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Token of the King.md",
+    "5. Monsters, Items and Terms/Items-Magical/Times Postern.md",
+    "5. Monsters, Items and Terms/Monster/T-Rex.md",
+    "5. Monsters, Items and Terms/Items-Magical/Spellscroll of Film.md",
+    "5. Monsters, Items and Terms/Items-Magical/Serpent Whip.md",
+    "5. Monsters, Items and Terms/Items-Magical/Scrying Mirror.md",
+    "5. Monsters, Items and Terms/Items-Magical/Nightstalker's Mask.md",
+    "5. Monsters, Items and Terms/Monster/Giant Purple Worm.md",
+    "5. Monsters, Items and Terms/Monster/Crystal Horrors.md",
+    "5. Monsters, Items and Terms/Items-Magical",
+    "5. Monsters, Items and Terms/Terms",
+    "5. Monsters, Items and Terms/Items-Mundane",
+    "5. Monsters, Items and Terms/Monster",
+    "4. NPCs & Organizations/Organizations",
+    "4. NPCs & Organizations/NPCs",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Faal'Krel_Inn.jpg",
-    "4. NPCs & Organizations/Ulric Valentin.md",
     "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
     "Templates/Full Pages",
@@ -196,17 +210,11 @@
     "Templates/Inserts",
     "z_Attachments/purpleworm.png",
     "3. Locations/Cereron",
-    "3. Locations/Aeslea",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
     "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
-    "z_Attachments/02UmaLineCROP.jpg",
-    "0. Personal",
-    "Untitled",
-    "0. Personal/Taishi",
-    "z_Attachments/~liurica2.tmp",
-    "TheShadyBunch"
+    "z_Attachments/02UmaLineCROP.jpg"
   ]
 }

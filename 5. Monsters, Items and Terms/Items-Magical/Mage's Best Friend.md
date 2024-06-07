@@ -11,4 +11,4 @@ A dangerous potion with the appearance of swirling black liquid. Likely originat
 - Several bad side effects (unknown)
 	- May be responsible for Sarin turning into an abomination.
 
-#potion
+#magicitem  #potion

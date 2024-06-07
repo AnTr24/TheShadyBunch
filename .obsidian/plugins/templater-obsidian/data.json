@@ -1,0 +1,63 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Session Notes",
+      "template": "Templates/Inserts/Insert Session.md"
+    },
+    {
+      "folder": "2. Timeline/EventCards",
+      "template": "Templates/Full Pages/Event Card.md"
+    },
+    {
+      "folder": "3. Locations",
+      "template": "Templates/Full Pages/Geography.md"
+    },
+    {
+      "folder": "4. NPCs & Organizations/NPCs",
+      "template": "Templates/Full Pages/Character.md"
+    },
+    {
+      "folder": "4. NPCs & Organizations/Organizations",
+      "template": "Templates/Full Pages/Organization.md"
+    },
+    {
+      "folder": "5. Monsters, Items and Terms/Monster",
+      "template": "Templates/Full Pages/Monster.md"
+    },
+    {
+      "folder": "5. Monsters, Items and Terms/Terms",
+      "template": "Templates/Full Pages/Term.md"
+    },
+    {
+      "folder": "5. Monsters, Items and Terms/Items-Magical",
+      "template": "Templates/Full Pages/Magic item.md"
+    },
+    {
+      "folder": "5. Monsters, Items and Terms/Items-Mundane",
+      "template": "Templates/Full Pages/Mundane Item.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

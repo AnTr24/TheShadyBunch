@@ -6,7 +6,6 @@
       {
         "id": "ac5a6d7f65fa3db9",
         "type": "tabs",
-        "dimension": 41.59574468085106,
         "children": [
           {
             "id": "0454706604deba56",
@@ -14,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "6d7c2e05d79377a2"
-          }
-        ]
-      },
-      {
-        "id": "eb162325ae77a1e9",
-        "type": "tabs",
-        "dimension": 58.40425531914894,
-        "children": [
-          {
-            "id": "2f8d614e68a41e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "6d7c2e05d79377a2"
+            }
           }
         ]
       }
@@ -91,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 300
   },
   "right": {
     "id": "b5202fc157ea6ba3",
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Shannon.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Shannon.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -170,48 +148,48 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/Mayor's Request.md",
-    "Ashfangs.md",
-    "2. Timeline/EventCards/An Abandoned Tower.md",
-    "Dreamlily.md",
-    "Tahba.md",
-    "3. Locations/Klisas/Belano.md",
-    "Underdark.md",
-    "4. NPCs & Organizations/The Cult.md",
+    "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
-    "4. NPCs & Organizations/Ashfang Steelworks.md",
-    "1. Player Characters/Shannon.md",
+    "Underdark.md",
+    "Dreamlily.md",
+    "Ashfangs.md",
+    "3. Locations/Klisas/Miramar/Miromar.md",
+    "3. Locations/Klisas/Miramar/Uma Manor.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/Leia.md",
+    "0. Personal/Leia secret notes.md",
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
     "1. Player Characters/Gyoop.md",
-    "Templates/Inserts/Insert Placeholder.md",
-    "Templates/Inserts/Insert Session.md",
-    "Templates/Inserts/Insert ITS-Timeline.md",
-    "Templates/Inserts/Insert Initiative.md",
-    "Templates/Inserts/Insert AAT Timeline.md",
-    "Templates/Inserts",
-    "Templates/Full Pages/Event Card.md",
-    "Templates/Full Pages/Organization.md",
-    "Templates/Full Pages/Mundane Item.md",
-    "Templates/Full Pages/Monster.md",
-    "Templates/Full Pages/Magic item.md",
-    "Templates/Full Pages/Geography.md",
-    "Templates/Full Pages/Character.md",
+    "1. Player Characters/Shannon.md",
+    "4. NPCs & Organizations/Luden.md",
+    "4. NPCs & Organizations/Kobolt Soul.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
+    "2. Timeline/EventCards/The Topaz Terror.md",
+    "2. Timeline/EventCards/Crystal Nightmares.md",
+    "2. Timeline/EventCards/You Are Here.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "2. Timeline/EventCards/Return to the City.md",
+    "2. Timeline/EventCards/Evil Under the Oak.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "5. Monsters, Items and Statuses/Candonas.md",
+    "2. Timeline/EventCards/Warmer Days.md",
     "Templates/Full Pages",
-    "3. Locations/Inox/Inox.md",
     "3. Locations/Inox",
-    "3. Locations/Cereron/Cereron.md",
-    "3. Locations/Cereron",
-    "3. Locations/Aeslea/Aeslea.md",
-    "3. Locations/Aeslea",
+    "Templates/Inserts",
     "z_Attachments/purpleworm.png",
-    "z_Attachments/YdanynCave.jpg",
+    "3. Locations/Cereron",
+    "3. Locations/Aeslea",
+    "z_Attachments/Shannon dress.png",
+    "z_Attachments/Battlesmith Shannon color.png",
+    "z_Attachments/Leia.jpg",
+    "z_Attachments/Leia's dream.png",
+    "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
-    "z_Attachments/Vorn.png",
-    "z_Attachments/umaemblem.png",
-    "z_Attachments/trialofkings3_end.jpg",
-    "z_Attachments/trialofkings2_Path.png",
-    "z_Attachments/trialofkings1_tablet.jpg",
-    "z_Attachments/trialofkings_tablet2.jpg",
-    "z_Attachments/Trex.jpg",
+    "z_Attachments/02UmaLineCROP.jpg",
+    "z_Attachments/MaahesOphelia.png",
+    "z_Attachments/Gyoop2.png",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",

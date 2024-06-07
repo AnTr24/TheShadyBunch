@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "file": "2. Timeline/EventCards/The Green City.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "file": "2. Timeline/EventCards/The Green City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md",
+                "file": "2. Timeline/EventCards/The Green City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Timeline/EventCards/Welcome to the Jungle.md"
+                "file": "2. Timeline/EventCards/The Green City.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "b92f05f1a0cf1cca",
   "lastOpenFiles": [
-    "2. Timeline/EventCards/Warmer Days.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
     "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "2. Timeline/EventCards/You Are Here.md",
+    "2. Timeline/EventCards/Welcome to the Jungle.md",
+    "2. Timeline/EventCards/Warmer Days.md",
     "2. Timeline/EventCards/Towards Fimore.md",
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/Through the Mountain Pass.md",
@@ -189,8 +191,6 @@
     "Dreamlily.md",
     "Ashfangs.md",
     "3. Locations/Klisas/Miramar/Miromar.md",
-    "3. Locations/Klisas/Miramar/Uma Manor.md",
-    "4. NPCs & Organizations/Luden.md",
     "Templates/Full Pages",
     "3. Locations/Inox",
     "Templates/Inserts",

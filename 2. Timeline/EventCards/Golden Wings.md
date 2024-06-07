@@ -37,7 +37,7 @@
 	- Taking time to answer their questions, he also reveals that he is responsible for setting up the trials they passed through. Originally, it was part of his pact with the [[Kingdom of Fimore]]'s first king as a means to test the worthiness of their successors. Eventually he settled down in the mountains and took care of a nearby [[Midwood|village]].
 	- He takes the party back to the village to finish the annual festival
 > [!aside|cleanright]
-> Sometime during this event, [[Patchclaw]] and [[Maahes]] end up in  medidative trance..entering [[The Beastlands]]
+> Sometime during this event, [[Patchclaw]] and [[Maahes]] end up in meditative trance..entering [[The Beastlands]]
 
 ## Tags
  #event #act1

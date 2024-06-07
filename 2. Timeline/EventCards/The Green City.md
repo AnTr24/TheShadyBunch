@@ -20,7 +20,7 @@ timelines:
 	- The meeting then concludes as the agents escort the party out of the palace before departing.
 ## Dragonchess After-Hours
 - A bit of exploration and shopping is done but evening arrives as the party decide to rest at an inn.
-- [[Maahes]] decides he  wants to have some fun tonight and leaves the inn in search of a bar. He manages to find a place and is ushered down to a basement.
+- [[Maahes]] decides he wants to have some fun tonight and leaves the inn in search of a bar. He manages to find a place and is ushered down to a basement.
 - Entering a sort of seedy establishment, Maahes is offered some drinks and a hit of an *exotic substance*. He takes both and asks for one of the establishment's ladies. A handler introduces one to him in a mask and provocative dress and they are led to a private room.
 - Maahes is barely able to maintain a sense of reality but makes it down the hall and into the room.
 - The masked lady closes the behind them, and as he turns towards her, she approaches and eyes him up and down.
@@ -43,7 +43,8 @@ timelines:
 	- On Rinn's body, they find [[Rinn's notes|her notes]], with a possible list of assassination targets.
 - The party notices [[Maahes]] isn't with them, and checks his room.
 - He is laid out in the bed severely wounded and unconscious. He is healed and then questioned as to what happened. Maahes says he was just out for a night of dragonchess that evening but ended up getting stabbed.
-- Everyone is suprised [[The Cult]] was waiting for them here and decide to leave the city ASAP.
+- Everyone is surprised [[The Cult]] was waiting for them here and decide to leave the city ASAP.
+- Maahes ended up interrogating the Burly assassin and sliced him in half. 
 - Cutting their visit to [[Faal'Krel]] short, the party quickly gathers their belongings and hop on the carraige, riding out from the city and into the surrounding desert.
 
 ## Tags

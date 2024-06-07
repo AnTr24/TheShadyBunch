@@ -14,7 +14,7 @@
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Part of |[[King of Fimore]], [[The 13 Great Families]]|
+> | Part of |[[Kingdom of Miromar]], [[The 13 Great Families]]|
 > |Subsidiaries|X |
 > |Partnerships|[[House Uma]]|
 # House Inion

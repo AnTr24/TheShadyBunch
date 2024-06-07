@@ -8,7 +8,7 @@
 > | Type | Stat |
 > | ---- | ---- |
 > |Designation|Kingdom|
-> | Leader | [[King of Fimore]] |
+> | Leader | [[Ulric Valentin]] |
 > | Homebase | [[Fimore]] |
 > | Status | Active |
 > ##### Relationships
@@ -20,7 +20,7 @@
 A newish kingdom attempting to establish itself across [[Bliurica]].
 ## Members
 ### Ruling party
-- [[King of Fimore]] (ruler)
+- [[Ulric Valentin]] (ruler)
 ### Millitary and Officials
 - [[Didus]]: Newly appointed as The Red Knight
 - [[General Jasper]]: former overseer of [[Isolated Imprisonment]]

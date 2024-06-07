@@ -25,6 +25,7 @@ The cult is the overarching antagonist organization of the campaign. They are re
 - [[Burgell]] (Contracted)
 - [[Mirror Matron]] (Possible Leader?)
 - [[Rinn]] (assassin)
+- [[Burly Assassin]]
 
 ### Known Victims
 - Shannon's father: [[Bruce]]

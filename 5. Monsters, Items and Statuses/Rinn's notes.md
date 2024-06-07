@@ -1,9 +1,11 @@
 A set of ripped papers found on the body of [[Rinn]].
+Within the notes are a list of numbers, names, and dates.
 
-Within the notes cna be made out a list of numbers, names, and dates.
-Some target descriptions are the following:
+One page holds  descriptions of a group of people:
 - blonde woman
 - 2 kids
 - 3 larger men
+
+There are separate papers with many more names and dates.
 
 #mundaneitem

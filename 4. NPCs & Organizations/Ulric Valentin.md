@@ -2,7 +2,7 @@
 	- Dude
 
 > [!infobox]
-> # King of Fimore
+> # Ulric Valentin
 > ![[shady.jpg|cover hsmall]]
 > ###### Basic Information
 > | Type | Stat |
@@ -18,8 +18,8 @@
 > | Ruler | [[Kingdom of Fimore]] |
 > |Family???|[[Willam Valentin]]|
 
-# King of Fimore
-The king of, you guessed it, [[Fimore]].
+# Ulric Valentin
+The king of [[Fimore]].
 ## Appearance
 ## Story
 - [[Return to the City]]: Rewards the party for lifting the siege of [[Isolated Imprisonment]]. Grants them some gold and a [[Token of the King]].

@@ -7,12 +7,12 @@ timelines:
 # Return to the City
 - The Shady Bunch make their way back to [[Fimore]], backtracking their way to the city.
 - A short stop is taken at the [[Isolated Imprisonment]]. Most of the soldiers from before are already replaced with fresh troops, including [[Didus]] and [[General Jasper]].  
-	- A messenger lets the party know that the [[King of Fimore]] has invited them to his court to reward them for lifting the previous siege.
+	- A messenger lets the party know that the [[Ulric Valentin|King of Fimore]] has invited them to his court to reward them for lifting the previous siege.
 	- [[Taishi]] goes hunting in the mountains, slaying a snake that can petrify its prey and gifts their tails to [[Shannon]].
 
 ## Back at Fimore
 - King's court: 
-	- The party are greeted into the [[King of Fimore]]'s courtroom.
+	- The party are greeted into the king's courtroom.
 	- He thanks the party for lifting the siege of [[Isolated Imprisonment]], granting them a [[Token of the King]] as well as gold and other treasures.
 	- After the meeting, [[Taishi]] sees [[Didus]] training with the soldiers of the keep. He has recently been promoted to "The Red Knight." [[Taishi]] and [[Flume]] spend some downtime to train with him.
 - [[Patchclaw]] takes  [[Toble]] to his client's residence to discuss the [[Times Postern]]

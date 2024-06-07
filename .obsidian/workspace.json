@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "0. Personal/Leia secret notes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "0. Personal/Leia secret notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Player Characters/Leia.md",
+                "file": "0. Personal/Leia secret notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Player Characters/Leia.md"
+                "file": "0. Personal/Leia secret notes.md"
               }
             }
           }
@@ -148,23 +148,28 @@
   },
   "active": "0454706604deba56",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "1. Player Characters/Gyoop.md",
+    "0. Personal/Leia secret notes.md",
+    "1. Player Characters/Leia.md",
+    "1. Player Characters/The Shady Bunch.md",
+    "1. Player Characters/Toble.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/Shannon.md",
+    "1. Player Characters/Patchclaw.md",
+    "1. Player Characters/Maahes.md",
+    "1. Player Characters/Ophelia.md",
+    "z_Attachments/Battlesmith Shannon color.png",
+    "z_Attachments/Faal'Krel_Inn.jpg",
+    "4. NPCs & Organizations/Ulric Valentin.md",
     "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
     "Underdark.md",
     "Dreamlily.md",
     "Ashfangs.md",
-=======
->>>>>>> Stashed changes
     "3. Locations/Klisas/Miramar/Miromar.md",
     "3. Locations/Klisas/Miramar/Uma Manor.md",
-    "1. Player Characters/Taishi.md",
-    "1. Player Characters/Leia.md",
-    "0. Personal/Leia secret notes.md",
     "2. Timeline/Master Timeline.md",
     "2. Timeline/EventCards/An Abandoned Tower.md",
-    "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Shannon.md",
     "4. NPCs & Organizations/Luden.md",
     "4. NPCs & Organizations/Kobolt Soul.md",
     "2. Timeline/EventCards/Golden Wings.md",
@@ -173,18 +178,6 @@
     "2. Timeline/EventCards/Crystal Nightmares.md",
     "2. Timeline/EventCards/You Are Here.md",
     "2. Timeline/EventCards/Behind the Barn.md",
-    "2. Timeline/EventCards/Return to the City.md",
-    "2. Timeline/EventCards/Evil Under the Oak.md",
-    "2. Timeline/EventCards/Welcome to the Jungle.md",
-    "5. Monsters, Items and Statuses/Candonas.md",
-    "2. Timeline/EventCards/Warmer Days.md",
-<<<<<<< Updated upstream
-=======
-    "2. Timeline/EventCards/The Frost Giants.md",
-    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
-    "2. Timeline/EventCards/Sealed Evil.md",
-    "2. Timeline/EventCards/Maneaters.md",
->>>>>>> Stashed changes
     "Templates/Full Pages",
     "3. Locations/Inox",
     "Templates/Inserts",
@@ -192,14 +185,11 @@
     "3. Locations/Cereron",
     "3. Locations/Aeslea",
     "z_Attachments/Shannon dress.png",
-    "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
     "z_Attachments/EyySzJ3U4AEhU8n 1.png",
     "z_Attachments/Underdark_Ship_Map.jpg",
     "z_Attachments/02UmaLineCROP.jpg",
-    "z_Attachments/MaahesOphelia.png",
-    "z_Attachments/Gyoop2.png",
     "0. Personal",
     "Untitled",
     "0. Personal/Taishi",

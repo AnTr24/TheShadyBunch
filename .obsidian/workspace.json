@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Timeline/EventCards/The Green City.md",
+                "file": "1. Player Characters/Leia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Timeline/EventCards/The Green City.md",
+                "file": "1. Player Characters/Leia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Timeline/EventCards/The Green City.md",
+                "file": "1. Player Characters/Leia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Timeline/EventCards/The Green City.md"
+                "file": "1. Player Characters/Leia.md"
               }
             }
           }
@@ -162,6 +162,13 @@
   "active": "b92f05f1a0cf1cca",
   "lastOpenFiles": [
     "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
+    "2. Timeline/EventCards/The Topaz Terror.md",
+    "2. Timeline/EventCards/Crystal Nightmares.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "1. Player Characters/Leia.md",
+    "1. Player Characters/Shannon.md",
+    "2. Timeline/EventCards/The Green City.md",
     "2. Timeline/EventCards/Golden Wings.md",
     "2. Timeline/EventCards/You Are Here.md",
     "2. Timeline/EventCards/Welcome to the Jungle.md",
@@ -170,10 +177,8 @@
     "2. Timeline/EventCards/Trouble In The Mines.md",
     "2. Timeline/EventCards/Through the Mountain Pass.md",
     "2. Timeline/EventCards/The Lost Girl.md",
-    "2. Timeline/EventCards/The Green City.md",
     "2. Timeline/EventCards/An Abandoned Tower.md",
     "1. Player Characters/The Shady Bunch.md",
-    "1. Player Characters/Leia.md",
     "1. Player Characters/Patchclaw.md",
     "1. Player Characters/Ophelia.md",
     "1. Player Characters/Maahes.md",
@@ -181,16 +186,11 @@
     "1. Player Characters/Gyoop.md",
     "1. Player Characters/Toble.md",
     "1. Player Characters/Taishi.md",
-    "1. Player Characters/Shannon.md",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Faal'Krel_Inn.jpg",
     "4. NPCs & Organizations/Ulric Valentin.md",
     "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
-    "Underdark.md",
-    "Dreamlily.md",
-    "Ashfangs.md",
-    "3. Locations/Klisas/Miramar/Miromar.md",
     "Templates/Full Pages",
     "3. Locations/Inox",
     "Templates/Inserts",

@@ -78,7 +78,7 @@ Leia is a small 3'8" half-elf girl with long light-blue hair adorned with a whit
 	- If she fails an ability check using a skill or tool she is proficient to, she can use a psionic energy die to add to the roll.
 	- Can telepathically link herself to up to 4 creatures for d10 number of hours and has to be in range of a mile to stay in contact. Poor people have to deal with her ramblings and inner ADHD thoughts.
 	- Can teleport to an empty space with one of psychic blades up to 100 ft.
-- **Wizard1**: Leia started taking classes at **Azure Academy** in [[Miromar]] for magic and to learn more about her magic inept abilities.
+- **Wizard1**: Leia started taking classes at **Arcanum Excentrum** in [[Miromar]] for magic and to learn more about her magic inept abilities.
 - **Rogue11**: Because she's been living in the streets for a little bit, Leia resorted to stealing for food. Her only exposure with a thieves guild was when she went with [[Patchclaw]] to see his boss and she demanded [[Candonas]] to be sent to her party. Leia only learned how to fight during her deliveries outside of [[Fimore]] before fully embracing it when she started traveling with the [[The Shady Bunch]].
 
 ### Magic Items

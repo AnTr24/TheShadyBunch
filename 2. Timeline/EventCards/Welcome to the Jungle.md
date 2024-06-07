@@ -40,7 +40,6 @@ timelines:
 - Next day, the party sets out with the hunter.
 - Before reaching the edge of the jungle, they take a small detour, finding what seems to be a huge banana tree. The super-sized "bananas" are called [[Candonas]], and are naturally sweet.
 - A great deal of effort is spent by the group to climb the tallest branches to get the sweetest fruits.
-- Rose note but not sure: I believe this is also when [[Patchclaw]] climbed the tree to get Thunder Buddy and experienced his first death.
 - As they reach the edge of the jungle towards the [[Fields of Blood]], the hunter warns the group that the fields are filled with several warring tribes of orcs and are best avoided.
 - The party gifts some of the candonas with the hunter to take back to his village and they say their farewells.
 

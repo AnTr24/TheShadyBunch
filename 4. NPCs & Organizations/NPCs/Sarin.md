@@ -1,22 +1,31 @@
+---
+Gender: Male
+Member: "[[4. NPCs & Organizations/Organizations/The Cult.md|The Cult]]"
+Name: Sarin
+Race: Human
+status: Dead
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Sarin
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Deceased (killed) |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Cult]] |
-# Sarin
+> | Affiliation | `=this.Member` |
+> |Contracted|[[Burgell]]|
+
+# `=this.Name`
 A member of [[The Cult]].
 ## Appearance
 A cloaked human male. His left hand was replaced by an outflowing black mist. He wears a cloak obscuring his face and an obsidian necklace.

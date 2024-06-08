@@ -1,3 +1,9 @@
+---
+Designation: World
+Name: Rraynia
+Govt: N/A
+Summary: The world of the campaign.
+---
 # Rraynia
 - In this world exists 5 continents separated by a vast ocean holding a vortex in the center.
 - Various gods watch over the races of the land. 

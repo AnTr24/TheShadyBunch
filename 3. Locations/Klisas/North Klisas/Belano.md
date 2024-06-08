@@ -1,3 +1,11 @@
+---
+Designation: Town
+Name: Belano
+Govt: Mayor-Council
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+Summary: A town south of Miramar
+---
 > [!infobox]
 > # Belano
 > ![[shady.jpg|cover hsmall]]

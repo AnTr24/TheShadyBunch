@@ -1,23 +1,31 @@
+---
+Gender: Male
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: Shephard
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Shephard
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | X |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Guardian | [[Leia]] |
+> | Affiliation | `=this.Member` |
+> |Guardian| [[Leia]]|
 
-# Shephard
+# `=this.Name`
 A cheesemaker who found [[Leia]] in the streets of [[Fimore]]. He offered her a job to deliver cheese and since then, he took her in. Often sends her out on "deliveries".
 ## Appearance
 ## Story

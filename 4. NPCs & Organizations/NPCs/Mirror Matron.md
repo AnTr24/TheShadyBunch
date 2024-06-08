@@ -1,24 +1,32 @@
+---
+Gender: Female
+Race: Drow
+Member: "[[4. NPCs & Organizations/Organizations/The Cult.md|The Cult]]"
+Name: Mirror Matron
+status: Alive
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Mirror Matron
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Female |
-> | Race | |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Cult]] |
+> | Affiliation | `=this.Member` |
 > | Co-conspirators | [[Burgell]], [[Sarin]] |
 
-# Mirror Matron
+# `=this.Name`
 - Name pending.
 - Mysterious lady encountered within a [[Scrying Mirror]] at [[Old Guild Hall]]. Seemingly in cahrge or highly influential with [[The Cult]].
 ## Appearance

@@ -1,25 +1,36 @@
+---
+Member:
+  - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+  - "[[4. NPCs & Organizations/Organizations/The Edge of Vision.md|The Edge of Vision]]"
+Name: Patchclaw
+Race: Tabaxi
+Gender: Male
+status: Alive
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+---
 	"YAAA, Sneak Attack!" 
 	- One sneaky boi
 
 > [!infobox]
-> # Patchclaw
+> # `=this.Name`
 > ![[PatchRef.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | Tabaxi |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
-> | Type | Stat |
+> | Relation | Name |
 > | ---- | ---- |
-> | Affilitation | [[The Edge of Vision]], [[The Shady Bunch]] |
+> | Affiliation | `=this.Member` |
 > | "Spirit rivals" | [[Maahes]], [[Tahba]] |
 > |Guild contact|[[Alexi]]|
 
-# Patchclaw
+# `=this.Name`
 A seemingly detached thief who keeps to himself and tries to avoid danger.
 
 He works for a [[The Edge of Vision|mysterious organization]].
@@ -40,7 +51,7 @@ Hold him up and he becomes  a long cat. Often unseen, cloak and daggers by his s
 ### Act 2
 - Patchclaw meets up with a [[Alessi|contact]] from his guild while in [[Miromar]]
 	- Patchclaw manages to procur some information on underground activities and a boat to travel to South Klisas, but it will take some time.
-- After The Shady Bunch escapes [[The Eye]]'s lair, Patchclaw's lie is discovered several days later. 2 of its agents bag Patchclaw and dragged him back. He makes a deal to kill [[John's Dalmry]] and take his treasure horde in order to spare the life of his party.
+- After The Shady Bunch escapes [[The Eye]]'s lair, Patchclaw's lie is discovered several days later. 2 of its agents bag Patchclaw and dragged him back. He makes a deal to kill [[Johns Dalmry]] and take his treasure horde in order to spare the life of his party.
 - Patchclaw discovers that his contact is working as the guild's liaison with [[The Eye]].
 
 ## Notable Powers & Equipment

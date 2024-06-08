@@ -1,25 +1,27 @@
 > [!infobox]
-> # Name
-> ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> # `=this.Name`
+> ![[shady.jpg]]
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| X |
-> | Part of | X |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | x |
+> | Govt. | `=this.Govt` |
 > | Ruler | x |
-> |Races|x|
+> |Races |x|
 
-# Name
-Basic introduction and story elements here
+# `=this.Name`
+`=this.Summary`
+Basic Description
 
 ## Story
+- Story events
 
 ## Geography
-Geographical descriptors here
+Geography
 
 ##  Notable Locations
 - [[Shops or Minor PoI]]

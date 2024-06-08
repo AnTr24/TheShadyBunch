@@ -1,21 +1,34 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+Name: The 13 Great Families
+Designation: Noble House
+Homebase:
+  - "[[Miromar|Miromar]]"
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # The 13 Great Families
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Classification|
-> | Leader | X |
-> | Homebase | [[Miromar]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of |[[Kingdom of Miromar]]|
-# The 13 Great Families
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+
+# `=this.Name`
 - 13 Particular noble families of great distinction within [[Miromar]].
 ## Members
 - [[House Inian]]

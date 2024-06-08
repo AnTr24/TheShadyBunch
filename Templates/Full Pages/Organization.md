@@ -2,24 +2,36 @@
 	- Dude
 
 > [!infobox]
-> # Name
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|X|
-> | Leader | X |
-> | Homebase | X |
-> | Status | X |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of |X|
-> |Subsidiaries|X |
-> |Partnerships|X|
-# Name
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 text
 ## Members
+```dataview
+list without id 
+Member
+where file = this.file
+```
 ## Holdings
 ## Story
 ## Notable Powers & Equipment

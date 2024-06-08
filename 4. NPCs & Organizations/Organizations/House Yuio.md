@@ -1,24 +1,40 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+Name: House Yuio
+Designation: Noble House
+Homebase:
+  - "[[Miromar|Miromar]]"
+Enemies: "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # House Yuio
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Noble House|
-> | Leader | [[Rinn Yuio]] |
-> | Homebase | [[Miromar]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of |[[Kingdom of Miromar]]|
-> |Subsidiaries|X |
-> |Partnerships|X|
-> |Rivalry|[[House Uma]]|
-# House Yuio
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 A noble house of shady repute.
 ## Members
 - [[Rinn Yuio]] (head)

@@ -1,24 +1,49 @@
+---
+Name: Ashfang Steelworks
+Designation: Company
+Homebase:
+  - "[[3. Locations/Cereron/Dragonspire.md|Dragonspire]]"
+Leader:
+  - "[[4. NPCs & Organizations/NPCs/Bruce.md|Bruce]]"
+Member:
+  - "[[1. Player Characters/Shannon.md|Shannon]]"
+  - "[[4. NPCs & Organizations/NPCs/Bruce.md|Bruce]]"
+Status: Inactive
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Ashfangs.md|Ashfangs]]"
+---
 	"It is our change to defend the weak.  
 	- Bruce Ashfang
 
 > [!infobox]
-> # Ashfang Steelworks
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Company|
-> | Leader | [[Bruce]] |
-> | Homebase | [[Dragonspire]] |
-> | Status | Inactive |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-# Ashfang Steelworks
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 A company hailing from [[Dragonspire]]. They deal in several industries including mecenary work. Presumably inactive with the disappearance of [[Bruce]], and [[Shannon]]'s leave to look for her him.
 ## Members
-- [[Bruce|Bruce Ashfang]] (leader)
-- [[Shannon]]
+- [[Bruce| Bruce Ashfang]] (Leader)
+- [[Shannon| Shannon Ashfang]]
+
 ## Holdings
 ## Story
 - Ashfang Steelworks was created to bring the wonders of Artifice across the plane of [[Rraynia]]. 

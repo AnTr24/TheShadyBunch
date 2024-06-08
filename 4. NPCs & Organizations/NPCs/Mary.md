@@ -1,24 +1,32 @@
+---
+Gender: Female
+Home:
+  - "[[3. Locations/Bliurica/Riverpont.md|Riverpont]]"
+Name: Mary
+Race: Human
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Mary
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Riverpont]] |
-> | Sex | Female |
-> | Race | x |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Kingdom of Fimore]] |
-> | Father | [[Mayor Frederic]] |
+> | Affiliation | `=this.Member` |
+> |Father|[[Mayor Frederic]]|
 
-# Mary
+# `=this.Name`
 - Daughter of [[Mayor Frederic]].
 ## Appearance
 

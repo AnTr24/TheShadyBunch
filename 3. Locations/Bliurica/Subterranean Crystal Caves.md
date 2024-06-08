@@ -1,13 +1,21 @@
+---
+Designation: Cave
+Name: Subterranean Crystal Caves
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Summary: Long hidden tunnels burrowed below [[Fimore]]
+---
 > [!infobox]
 > # Subterranean Crystal Caves
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Cave |
-> | Part of | [[Fimore]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 
-# Subterranean Crystal Caves
+# `=this.Name`
 - Name pending
 - A series of tunnels under [[Fimore]] where [[Crystal Horrors]] were sealed.
 

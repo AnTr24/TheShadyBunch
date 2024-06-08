@@ -1,23 +1,37 @@
+---
+Name: Kobolt Soul
+Designation: Institute
+Homebase:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Cobolt Soul
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|X|
-> | Leader | X |
-> | Homebase | X |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of |X|
-> |Subsidiaries|X |
-> |Partnerships|X|
-# Cobolt Soul
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 - Not met but mentioned by [[Eulysses]] as an institution holding many records.
 - https://criticalrole.fandom.com/wiki/Cobalt_Soul
 ## Members

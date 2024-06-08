@@ -1,24 +1,34 @@
+---
+Member:
+  - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+  - "[[4. NPCs & Organizations/Organizations/Evil Party.md|Evil Party]]"
+Name: Ophelia Orionheart
+Race: Elf
+Gender: Female
+status: Alive
+---
 	"The *Best* of Friends" 
 	- Ophelia to Maahes
 
 > [!infobox]
-> # Ophelia Orionheart
+> # `=this.Name`
 > ![[Ophelia.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Female |
-> | Race | Elf |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliations | - [[The Shady Bunch]](former) <br>- [[Evil Party]]|
+> | Affiliation | `=this.Member` |
 > |Love-interest|[[Maahes]]|
+> |Pact| [[Null]]|
 
-# Ophelia Orionheart
+# `=this.Name`
 An elven woman of unknown faith. Sometime along her journey, met and decided to follow [[Maahes]].
 
 ## Backstory:

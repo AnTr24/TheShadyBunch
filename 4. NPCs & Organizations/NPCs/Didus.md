@@ -1,24 +1,35 @@
+---
+Race: Human
+Gender: Male
+Name: Didus, The Red Knight
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+status: Alive
+Member:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Didus
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Kingdom of Fimore]] |
-> | General (Former) | [[General Jasper]] |
+> | Affiliation | `=this.Member` |
+> |General(Former)|[[General Jasper]]|
 
-# Didus, The Red Knight
+# `=this.Name`
 A soldier who was recently promoted to the position of "Red Knight" within [[Kingdom of Fimore]].
 ## Appearance
 - A human man of large physique.

@@ -1,23 +1,42 @@
+---
+Name: The Cult
+Designation: Cult
+Enemies:
+  - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+Member:
+  - "[[4. NPCs & Organizations/NPCs/Sarin.md|Sarin]]"
+  - "[[4. NPCs & Organizations/NPCs/Burgell.md|Burgell]]"
+  - "[[4. NPCs & Organizations/NPCs/Mirror Matron.md|Mirror Matron]]"
+  - "[[4. NPCs & Organizations/NPCs/Rinn.md|Rinn]]"
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # The Cult
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Cult|
-> | Leader | Unknown |
-> | Homebase | [[Southern Klisas]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of|N/A |
-> |Subsidiaries|x|
-> |Partnerships|x|
-# The Cult
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 The cult is the overarching antagonist organization of the campaign. They are responsible for many of the mysterious dissapearances across [[Rraynia]], including family members of [[Gyoop]] and [[Shannon]].
 
 ## Members

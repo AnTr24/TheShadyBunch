@@ -1,28 +1,39 @@
+---
+Member: "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+Home:
+  - "[[3. Locations/Aeslea/Aeslea.md|Aeslea]]"
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: Leia
+Race: Half-Elf
+Gender: Female
+status: Alive
+Age: "10"
+---
 	"You help me, I help you!"
 	- Leia
 
 > [!infobox]
-> # Leia Skownan
+> # `=this.Name`
 > ![[Leia.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]], West [[Aeslea]] |
-> | Sex | Female |
-> | Race | Half-Elf |
-> | Age | 10 |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Shady Bunch]]|
+> | Affiliation | `=this.Member` |
 > | Foster-Father | [[Shephard]] |
 > | Party Mother | [[Shannon]] |
 > | Party Big Sister | [[Taishi]]
 > | Party Brother | [[Gyoop]]
 > | Party Cat | [[Patchclaw]]
 
-# Leia Skownan
+# `=this.Name`
 - Leia does crimes but has her heart in a good place
 - The second youngest of the group (?)
 - After the event of the [[Crystal Nightmares]], she learned that she is the last of her people

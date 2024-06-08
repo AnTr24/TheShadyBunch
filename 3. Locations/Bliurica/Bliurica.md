@@ -1,18 +1,29 @@
+---
+Designation: Continent
+Name: Bliurica
+Govt: Contested
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+Summary: The northern continent. Recently colonzied compared to the others.
+---
 > [!infobox]
-> # Bliurica
+> # `=this.Name`
 > ![[Bliurica.bmp]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| continent |
-> | Part of | [[Rraynia]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> |Races|mixed|
+> | Govt. | `=this.Govt` |
+> | Ruler | x |
+> |Races |Mixed|
 
-# Bliurica
-The first continent / starting point of the campaign. Located on the northern waters of [[Rraynia]].
+# `=this.Name`
+`=this.Summary`
+
 The continent is home to 2 large civilizations: the [[Kingdom of Fimore]] and [[Kreen Dynasty]].
 
 ## Geography
@@ -21,21 +32,15 @@ Discovered fairly recently compared to the other continent, much of the lands of
 ### Annotated Map
 [[Bliurica_annotated.png]]
 
-##  Notable Locations
-- [[Hargrave's Bazaar]]
-- [[Midwood]]
-- [[Fields of Blood]]
-	- [[Old Guild Hall]]
--  [[Gyoop's Home]]
-- [[Kingdom of Fimore]]
-	- [[Isolated Imprisonment]]
-	- [[Fimore]]
-	- [[Greenstone Mines]]
-	- [[Riverpont]]
-- [[Kreen Dynasty]]
-	- [[Faal'Krel]]
-- [[Ydanyn's Cave]]
-- [[Vorodin's Cave]]
+## Notable Locations
+```dataview
+table 
+rows.file.link as Name,
+rows.Summary as Summary
+from "3. Locations/Bliurica"
+where !(Designation="Continent")
+group by Designation
+```
 
 ## Gallery
 > [!cards]

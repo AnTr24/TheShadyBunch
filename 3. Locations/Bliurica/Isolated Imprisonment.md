@@ -1,20 +1,28 @@
+---
+Designation: Castle
+Name: Isolated Imprisonment
+Govt: Garrison
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+Summary: Fimorrian castle overseeing the mountain pass.
+---
 > [!infobox]
 > # Isolated Imprisonment
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Fortress |
-> | Part of | [[Kingdom of Fimore]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | Garrison |
+> | Govt. | `=this.Govt` |
 > | Ruler | [[General Jasper]](former) |
-> |Races| Various(military)|
 
-# Isolated Imprisonment
-- A mountain fortress maintaining the [[Kingdom of Fimore]]'s claim to the central mountains of [[Bliurica]].
+# `=this.Name`
+`=this.Summary`
+It has come under attack by frost giants in recent times.
 
 ## Story
 - The party first encounters the keep besieged by a clan of frost giants.

@@ -1,24 +1,33 @@
+---
+Gender: Male
+Race: Human
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: Eulysses
+status: Alive
+Member: ""
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Eulysses
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Kingdom of Fimore]] |
-> | Allied | [[The Shady Bunch]] |
+> | Affiliation | `=this.Member` |
+> |Allied|[[The Shady Bunch]]|
 
-# Eulysses
+# `=this.Name`
 Is friendly mage resides in his wizard tower within the city of [[Fimore]]. He seems fond of researching and his magic specializes in divination.
 ## Appearance
 ## Story

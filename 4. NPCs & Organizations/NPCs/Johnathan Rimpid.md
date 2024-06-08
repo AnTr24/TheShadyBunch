@@ -1,3 +1,8 @@
+---
+Gender: Male
+Name: Jonathan Rimpid
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

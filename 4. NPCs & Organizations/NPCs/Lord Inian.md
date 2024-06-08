@@ -1,26 +1,35 @@
+---
+Gender: Male
+Member: "[[4. NPCs & Organizations/Organizations/House Inian.md|House Inian]]"
+Home:
+  - "[[Miromar|Miromar]]"
+status: Alive
+Race: Human
+Name: Alexander Inion
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Alexander Inian
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Miramar.jpg]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Inian]], [[Kingdom of Miromar]], [[The 13 Great Families]] |
+> | Affiliation | `=this.Member` |
 > | Liege | [[Willam Valentin]] |
 > |Friend|[[Gyoop]]|
 > |Contact| [[Master Orethon]]|
 
-# Alexander Inian
+# `=this.Name`
 Head of [[House Inian]]. He owns and manages the [[Bluestone Mines]], and has a reputation for being generous and benevolent lord to his servants.
 ## Appearance
 ## Story

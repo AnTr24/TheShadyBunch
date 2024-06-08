@@ -1,23 +1,31 @@
+---
+Gender: Male
+Race: Dwarf
+Member:
+  - "[[4. NPCs & Organizations/Organizations/The King's 1st Miners.md|The King's 1st Miners]]"
+Name: Thorn Holderhek
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Thorin Holderhek
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home |  |
-> | Sex | Male |
-> | Race | Dwarf |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation |[[The King's 1st Miners]] |
+> | Affiliation | `=this.Member` |
 
-# Thorin Holderhek
+# `=this.Name`
 Mining lead of the [[The King's 1st Miners]]. Oversees his company's mining operations into the [[Greenstone Mines]].
 ## Appearance
 ## Story

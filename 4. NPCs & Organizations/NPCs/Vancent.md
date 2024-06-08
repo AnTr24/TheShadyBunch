@@ -1,24 +1,30 @@
+---
+Gender: Male
+Name: Vancent
+status: Alive
+Member: "[[4. NPCs & Organizations/Organizations/Hunter's Guild.md|Hunter's Guild]], [[4. NPCs & Organizations/Organizations/Hunter's Guild.md|Hunter's Guild]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Vancent
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | X |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
+> |Contracted|[[The Edge of Vision]]|
 
-# Vancent
+# `=this.Name`
 Leader of the [[Hunter's Guild]]. Initially requesting [[The Edge of Vision]] to retrieve a [[Times Postern|staff]].
 ## Appearance
 ## Story

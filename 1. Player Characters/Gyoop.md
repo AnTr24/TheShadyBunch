@@ -1,21 +1,31 @@
+---
+Member: "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+Home:
+  - "[[3. Locations/Bliurica/Gyoop's Home.md|Gyoop's Home]]"
+Name: Gyoop
+Race: Ooze
+Gender: Male
+Age: Presumably 7 years old
+status: Alive
+---
 	"Gyoop is Gyoop." 
 	- Gyoop, Prince Supreme
 
 > [!infobox]
-> # Gyoop
+> # `=this.Name`
 > ![[GyoopC.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Gyoop's Home]] |
-> | Sex | Male |
-> | Race | Ooze |
-> | Age | Presumably 7 years old |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Shady Bunch]]|
+> | Affiliation | `=this.Member` |
 > |Master|[[Augustus]]|
 > |Master(herbs)|[[Jaren]]|
 > |Master(potions)|[[Canoli]]|
@@ -25,7 +35,7 @@
 > |Victims|A patch of grass and a bush|
 
 
-# Gyoop
+# `=this.Name`
 Gyoop.
 
 ## Appearance

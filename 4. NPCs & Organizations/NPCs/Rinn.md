@@ -1,27 +1,34 @@
+---
+Gender: Female
+status: Dead
+Member: "[[4. NPCs & Organizations/Organizations/The Cult.md|The Cult]]"
+Name: Rinn
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Rinn
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Female |
-> | Race | Human |
-> | Age | X |
-> | Status | Deceased |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Cult]] |
-> | Accomplice | [[Burly Assassin]] |
+> | Affiliation | `=this.Member` |
+> |Accomplice|[[Burly Assassin]]|
 
-# Rinn
+# `=this.Name`
 A female assassin sent by [[The Cult]] to kill [[The Shady Bunch]].
 ## Appearance
-- Has a 
+- Her left eye is missing; replaced by a  flowing black mist
 ## Story
 - [[The Green City]]: 
 	- Drugged [[Maahes]] as he went out to "dragonchess" within [[Faal'Krel]].

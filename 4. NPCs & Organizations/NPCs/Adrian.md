@@ -1,24 +1,33 @@
+---
+Gender: Male
+status: Alive
+Race: Human
+Name: Adrian
+Home:
+  - "[[3. Locations/Bliurica/Isolated Imprisonment.md|Isolated Imprisonment]]"
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Adrian
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home |  |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Kingdom of Fimore]] |
-> | Teacher | [[Leia]] |
+> | Affiliation | `=this.Member` |
+> |Student|[[Leia]]|
 
-# Adrian
+# `=this.Name`
 A cleric in service of [[Bahamut]]. He is stationed at A chapel to Bahamut within the walls of [[Isolated Imprisonment]].
 ## Appearance
 ## Story

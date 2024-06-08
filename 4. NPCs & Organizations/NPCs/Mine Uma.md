@@ -1,26 +1,35 @@
+---
+Gender: Female
+Member: "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Name: Mine Uma
+Race: Human
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
-
+	
 > [!infobox]
-> # Mine Uma
+> # `=this.Name`
 > ![[Lady Uma.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Female |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Uma]] |
+> | Affiliation | `=this.Member` |
 > | Daughter | [[Taishi]] |
 > |Husband|[[Hari Uma]]|
 > |Father-In-Law|[[The Late Lord Uma]]|
 
-# Mine Uma
+# `=this.Name`
 [[Taishi]]'s mother and wife of [[Hari Uma]]. 
 A.k.a "Lady Uma"
 ## Appearance

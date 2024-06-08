@@ -1,24 +1,31 @@
+---
+Gender: Male
+Name: Alexi
+Race: Human
+status: Alive
+Home:
+  - "[[3. Locations/Bliurica/Midwood.md|Midwood]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Alexi
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Midwood]] |
-> | Sex | Male |
-> | Race | X |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
 
-# Alexi
+# `=this.Name`
 Chief of the [[Midwood]] village.
 ## Appearance
 ## Story

@@ -1,3 +1,11 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+Name: The King's 1st Miners
+Designation: Company
+Member: "[[4. NPCs & Organizations/NPCs/Thorin.md|Thorin]]"
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

@@ -1,17 +1,27 @@
+---
+Designation: Village
+Name: Midwood
+Govt: Tribal
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+Summary: Name for the jungle and hidden village east of [[Bliurica]]'s central mountains.
+---
 > [!infobox]
 > # Midwood
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Jungle / Village |
-> | Part of | [[Bliurica]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | Tribal |
+> | Govt. | `=this.Govt` |
 > | Ruler | [[Alexi]] |
-> |Races|X|
+> |Races |X|
+
+# `=this.Name`
 
 A small independent tribal village hidden wtihin [[Bliurica]]'s jungles of the same name. Despite the jungle's dangers, the village itself rarely is in need of guards thanks to the protection of a [[Vorodin|golden dragon]]. The village holds a festival anually to worship the dragon and welcomes outsiders to the festivities.
 

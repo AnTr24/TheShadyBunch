@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5a6d7f65fa3db9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0454706604deba56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Full Pages/Term.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "b65099a789d7cd57"
-          }
-        ]
-      },
-      {
         "id": "31e55ea6fe509418",
         "type": "tabs",
         "children": [
@@ -30,14 +11,11 @@
             "id": "534bcd52e88d2cbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Templates/Full Pages/Term.md",
-                "mode": "source",
-                "source": true
+                "file": "Database/orgs-db.md"
               }
-            },
-            "group": "b65099a789d7cd57"
+            }
           }
         ]
       }
@@ -68,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#magici",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Full Pages/Term.md",
+                "file": "Database/orgs-db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Full Pages/Term.md",
+                "file": "Database/orgs-db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Full Pages/Term.md"
+                "file": "Database/orgs-db.md"
               }
             }
           }
@@ -164,57 +142,59 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "33a657314c41c01c",
+  "active": "534bcd52e88d2cbe",
   "lastOpenFiles": [
-    "Templates/Full Pages/Organization.md",
-    "Templates/Full Pages/Mundane Item.md",
-    "Templates/Full Pages/Term.md",
-    "5. Monsters, Items and Terms/Terms/Crystallization.md",
-    "5. Monsters, Items and Terms/Terms/Magical Agreement.md",
-    "3. Locations/Klisas/Miramar/Uma Manor.md",
-    "3. Locations/Klisas/Miramar/Miromar.md",
-    "3. Locations/Klisas/Miramar/Untitled.md",
-    "4. NPCs & Organizations/NPCs/Hag.md",
-    "5. Monsters, Items and Terms/Items-Magical/Paper Cranes.md",
-    "5. Monsters, Items and Terms/Items-Mundane/Candonas.md",
-    "5. Monsters, Items and Terms/Items-Mundane/Rinn's notes.md",
-    "5. Monsters, Items and Terms/Items-Magical/Mage's Best Friend.md",
-    "5. Monsters, Items and Terms/Items-Magical/Aegis Terrum.md",
-    "Templates/Full Pages/Monster.md",
-    "Templates/Full Pages/Magic item.md",
-    "5. Monsters, Items and Terms/Items-Mundane/Vivian Ivy.md",
-    "5. Monsters, Items and Terms/Items-Mundane/Token of the King.md",
-    "5. Monsters, Items and Terms/Items-Magical/Times Postern.md",
-    "5. Monsters, Items and Terms/Monster/T-Rex.md",
-    "5. Monsters, Items and Terms/Items-Magical/Spellscroll of Film.md",
-    "5. Monsters, Items and Terms/Items-Magical/Serpent Whip.md",
-    "5. Monsters, Items and Terms/Items-Magical/Scrying Mirror.md",
-    "5. Monsters, Items and Terms/Items-Magical/Nightstalker's Mask.md",
-    "5. Monsters, Items and Terms/Monster/Giant Purple Worm.md",
-    "5. Monsters, Items and Terms/Monster/Crystal Horrors.md",
+    "4. NPCs & Organizations/Organizations/Ashfang Steelworks.md",
+    "Database/orgs-db.md",
+    "4. NPCs & Organizations/Organizations/Ashfangs.md",
+    "1. Player Characters/Shannon.md",
+    "Database/char-db.md",
+    "4. NPCs & Organizations/NPCs/Bruce.md",
+    "Database/location-db.md",
+    "4. NPCs & Organizations/NPCs/Vancent.md",
+    "4. NPCs & Organizations/NPCs/Jaren.md",
+    "Untitled.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Dreamlily.md",
+    "4. NPCs & Organizations/Organizations/The Shady Bunch.md",
+    "3. Locations/Other/Underdark.md",
+    "README (DON'T DELETE).md",
+    "4. NPCs & Organizations/NPCs/Tahba.md",
+    "4. NPCs & Organizations/NPCs/Amnesiac Haundavar.md",
+    "1. Player Characters/Leia.md",
+    "1. Player Characters/Toble.md",
+    "1. Player Characters/Vorn.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/Runliel.md",
+    "1. Player Characters/Patchclaw.md",
+    "1. Player Characters/Ophelia.md",
+    "1. Player Characters/Nightingale.md",
+    "1. Player Characters/Maahes.md",
+    "1. Player Characters/Gyoop.md",
+    "z_Attachments/Vorn.png",
+    "z_Attachments/YdanynCave.jpg",
+    "z_Attachments/YdanynCave_Entrance.jpg",
+    "3. Locations/Klisas/South Klisas",
+    "3. Locations/Klisas/North Klisas",
+    "3. Locations/Aeslea/South",
+    "3. Locations/Aeslea/North",
+    "3. Locations/Aeslea/West",
+    "3. Locations/Other",
+    "4. NPCs & Organizations/Organizations/Company",
+    "Templates/Commands",
+    "Database",
     "5. Monsters, Items and Terms/Items-Magical",
-    "5. Monsters, Items and Terms/Terms",
-    "5. Monsters, Items and Terms/Items-Mundane",
-    "5. Monsters, Items and Terms/Monster",
-    "4. NPCs & Organizations/Organizations",
-    "4. NPCs & Organizations/NPCs",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Faal'Krel_Inn.jpg",
-    "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
-    "Templates/Full Pages",
-    "3. Locations/Inox",
-    "Templates/Inserts",
     "z_Attachments/purpleworm.png",
-    "3. Locations/Cereron",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
-    "z_Attachments/EyySzJ3U4AEhU8n 1.png",
-    "z_Attachments/Underdark_Ship_Map.jpg",
-    "z_Attachments/02UmaLineCROP.jpg"
+    "z_Attachments/EyySzJ3U4AEhU8n 1.png"
   ]
 }

@@ -1,3 +1,11 @@
+---
+Name: The Shady Bunch
+Designation: Party
+Homebase: ""
+Enemies: "[[4. NPCs & Organizations/Organizations/The Cult.md|The Cult]]"
+Member: "[[1. Player Characters/Runliel.md|Runliel]]"
+Status: Active
+---
 # The Shady Bunch
 	"Dragonchess." 
 

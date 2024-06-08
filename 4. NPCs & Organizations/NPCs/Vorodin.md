@@ -1,29 +1,31 @@
 ---
-Gender: ""
+Gender: Male
 Race: Dragon
+Name: Vorodin, the Golden
+status: Alive
 ---
 	"Of the Golden Light 
 	May you see and fear his sight 
 	Or bow to his truest might"
 
 > [!infobox]
-> # Vorodin the Golden
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Vorodin's Cave]] |
-> | Sex | Male |
-> | Race | Dragon |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Kingdom of Fimore]] (Kingmaker) |
-> | x | x |
+> | Affiliation | `=this.Member` |
+> |Guardian| [[Midwood]]|
 
-# Vorodin the Golden
+# `=this.Name`
 A gold dragon worshipped by the peoples of [[Midwood]] with a deep history to the [[Kingdom of Fimore]].
 - There is a golden statue dedicated to him the villge center
 

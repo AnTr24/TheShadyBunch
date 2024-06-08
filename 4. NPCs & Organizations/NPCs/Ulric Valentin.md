@@ -1,27 +1,33 @@
 ---
-Gender: ""
+Gender: Male
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: Ulric Valentin
+status: Alive
+Member:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Ulric Valentin
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | |
-> | Age | |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Ruler | [[Kingdom of Fimore]] |
-> |Family???|[[Willam Valentin]]|
+> | Affiliation | `=this.Member` |
+> |Family?|[[Willam Valentin]]|
 
-# Ulric Valentin
+# `=this.Name`
 The king of [[Fimore]].
 ## Appearance
 ## Story

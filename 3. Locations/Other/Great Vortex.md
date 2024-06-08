@@ -4,6 +4,7 @@ Name: Great Vortex
 Govt: N/A
 PartOf:
   - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+Summary: A large whirlpool in the center of [[Rraynia]]'s oceans.
 ---
 > [!infobox]
 > # Great Vortex

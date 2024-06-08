@@ -1,29 +1,38 @@
 ---
-Gender: ""
+Gender: Female
 Race: Human
+Name: Flume du Nobe
+status: Alive
+Member:
+  - "[[4. NPCs & Organizations/Organizations/Clan Nobe.md|Clan Nobe]]"
+  - "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Age: "24"
 ---
 
 	"It's time to train, Flume." 
 	- Taishi
+
 > [!infobox]
-> # Flume du Nobe
+> # `=this.Name`
 > ![[Flume.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Female |
-> | Race | Human |
-> | Age | 24 |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Uma]] |
-> | Liege , Close-friend|[[Taishi]] | 
+> | Affiliation | `=this.Member` |
+> | Liege, Close-friend|[[Taishi]] | 
 > | Coworkers|[[Eschal]], [[Logi]]|
 
-# Flume du Nobe
+# `=this.Name`
 A close follower, friend and squire of [[Taishi]].
 
 Descendant of the minor clan of the Nobe, whom have served [[House Uma]] for decades.

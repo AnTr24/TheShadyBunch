@@ -1,28 +1,48 @@
+---
+Name: The Edge of Vision
+Designation: Guild
+Homebase:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Status: Active
+Partnership:
+  - "[[The Eye|The Eye]]"
+Member:
+  - "[[1. Player Characters/Patchclaw.md|Patchclaw]]"
+  - "[[4. NPCs & Organizations/NPCs/Alessi.md|Alessi]]"
+  - "[[4. NPCs & Organizations/NPCs/Viridi.md|Viridi]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # The Edge of Vision
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Guild|
-> | Leader | [[Viridi]] |
-> | Homebase | [[Fimore]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> | Part of |X|
-> |Subsidiaries|X |
-> |Partnerships|[[The Eye]]|
-# The Edge of Vision
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
+
+# `=this.Name`
 A secretive guild.
 ## Members
 - "The Dark," [[Viridi]] (Leader)
 - [[Patchclaw]]
-- [[Alexi]]
+- [[Alessi]]
 ## Holdings
 ## Story
 

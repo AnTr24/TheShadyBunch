@@ -4,24 +4,24 @@ Name: Riverpont
 Govt: Mayor-Council
 PartOf:
   - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+Summary: A small village belonging to the [[Kingdom of Fimore]]
 ---
 > [!infobox]
 > # Riverpont
-> ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Village |
-> | Part of | [[Kingdom of Fimore]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | Mayor-Council |
+> | Govt. | `=this.Govt` |
 > | Ruler | [[Mayor Frederic]] |
-> |Races|Humans|
+> |Races |X|
 
-# Riverpont
-A small village part of the [[Kingdom of Fimore]].
+# `=this.Name`
+`=this.Summary`
 
 ## Geography
 - Located fairly centrally in [[Bliurica]] alongside the main river, albeit somewhat west of the center mountain range.

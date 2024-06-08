@@ -4,22 +4,23 @@ Name: Gnoll Cave
 Govt: N/A
 PartOf:
   - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+Summary: A hideout for gnolls near [[Riverpont]].
 ---
 > [!infobox]
 > # Gnoll Cave
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Cave |
-> | Part of | [[Bliurica]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 
-# Gnoll Cave
-The party discovers the cave by following the river where the [[The Lost Girl|Lost Girl]] fell in. It is guarded by several gnolls with an inner ritual room.
+# `=this.Name`
+`=this.Summary`
+
+[[The Lost Girl]]: This is where [[Mary]] drifted to. It is guarded by several gnolls with an inner ritual room.
 
 ## Geography
-A cave big enough to fit  an inner ritual room.
-
 Riverpont's river also flows further into the cave system.
 
 ##  Notable Locations

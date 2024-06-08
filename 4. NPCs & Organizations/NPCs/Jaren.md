@@ -1,25 +1,28 @@
 ---
-Gender: ""
+Gender: Male
+Name: Jaren
+status: Alive
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Jaren
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Midwood]] |
-> | Sex | Male |
-> | Race | X |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
+
+# `=this.Name`
 
 # Jaren
 A old herbalist from the village of [[Midwood]].

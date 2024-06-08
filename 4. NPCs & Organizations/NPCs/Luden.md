@@ -1,27 +1,28 @@
 ---
-Gender: ""
+Gender: Male
+Name: Luden
+status: Unknown
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Name
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | X |
-> | Race | X |
-> | Age | X |
-> | Status | X |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
 
-# Luden
+# `=this.Name`
 Some mysterious guy Leia met who told her she is an Ipsissimus.
 ## Appearance
 ## Story

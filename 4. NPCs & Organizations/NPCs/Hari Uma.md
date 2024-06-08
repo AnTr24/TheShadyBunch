@@ -1,29 +1,35 @@
 ---
-Gender: ""
+Gender: Male
+Member: "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Name: Hari Uma
+Race: Human
+status: Alive
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Hari Uma
+> # `=this.Name`
 > ![[Lord Uma.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Uma]] |
+> | Affiliation | `=this.Member` |
 > | Daughter | [[Taishi]] |
 > |Wife|[[Mine Uma]]|
 > |Father|[[The Late Lord Uma]]|
 
-# Hari Uma
+# `=this.Name`
 [[Taishi]]'s father and husband of [[Mine Uma]].
 A.k.a "Lord Uma"
 ## Appearance

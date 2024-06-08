@@ -1,30 +1,36 @@
 ---
-Gender: ""
+Gender: Female
 Race: Human
+Member: "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Name: Eschal
+Age: Mid-30s
+status: Alive
 ---
 
 	"Looks like I got caught again." 
 	- Taishi
 
 > [!infobox]
-> # Eschal
+> # `=this.Name`
 > ![[Eschal.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Female |
-> | Race | Human |
-> | Age | Mid-30s |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Uma]] |
+> | Affiliation | `=this.Member` |
 > | Liege|[[Taishi]] | 
 > | Coworkers|[[Logi]], [[Flume]]|
 
-# Eschal
+# `=this.Name`
 One of [[Taishi]]'s retainers since she was young. A serious and stern maid, Eschal has tried countless times in the past to moderate [[Taishi]]'s behaviour to little avail. 
 
 Her attitude has softened quite a bit after adventuring with the party.

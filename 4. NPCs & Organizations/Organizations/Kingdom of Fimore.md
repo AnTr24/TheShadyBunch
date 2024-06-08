@@ -1,22 +1,38 @@
+---
+Name: Kingdom of Fimore
+Designation: Kingdom
+Homebase:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Member: ""
+Status: Active
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Kingdom of Fimore
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Kingdom|
-> | Leader | [[Ulric Valentin]] |
-> | Homebase | [[Fimore]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> |Rivalry|[[Kreen Dynasty]]|
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
 
-# Kingdom of Fimore
+# `=this.Name`
 A newish kingdom attempting to establish itself across [[Bliurica]].
 ## Members
 ### Ruling party

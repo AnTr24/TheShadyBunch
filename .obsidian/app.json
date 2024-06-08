@@ -4,5 +4,6 @@
   "readableLineLength": false,
   "livePreview": false,
   "attachmentFolderPath": "z_Attachments",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview"
 }

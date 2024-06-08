@@ -5,24 +5,25 @@ Govt: Kingdom
 PartOf:
   - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
 Ruler: ""
+Summary: The capital of the [[Kingdom of Fimore]].
 ---
 > [!infobox]
 > # Fimore
 > ![[Fimore.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| City |
-> | Part of | [[Kingdom of Fimore]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | Kingdom |
+> | Govt. | `=this.Govt` |
 > | Ruler | [[Ulric Valentin]] |
-> |Races|Mixed|
+> |Races |Mixed|
 
-# Fimore
-Capital city of the [[Kingdom of Fimore]] and home to various races.
+# `=this.Name`
+`=this.Summary`
 
 ## Story
 - [[Crystal Nightmares]]: Half of the city was destroyed by the rampage of [[Crystal Horrors]].

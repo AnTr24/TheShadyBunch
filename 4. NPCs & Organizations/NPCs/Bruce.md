@@ -1,31 +1,38 @@
 ---
 Gender: Male
-AssociatedGroup:
-  - "[[Ashfang Steelworks|Ashfang Steelworks]]"
 Name: Bruce Ashfang
+Race: Dragonborn
+status: Missing
+Age: X
+Member: 
+- "[[4. NPCs & Organizations/Organizations/Ashfang Steelworks.md|Ashfang Steelworks]]"
+- "[[4. NPCs & Organizations/Organizations/Ashfangs.md|Ashfangs]]"
+Home:
+  - "[[3. Locations/Cereron/Dragonspire.md|Dragonspire]]"
 ---
+
 
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Bruce Ashfang
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Dragonspire]] |
-> | Sex | Male |
-> | Race | X |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Ashfang Steelworks]] |
+> | Affiliation | `=this.Member` |
 > | Daughter | [[Shannon]] |
 
-# Bruce Ashfang
+# `=this.Name`
 - [[Shannon]]'s father
 - Kidnapped by [[The Cult]]
 ## Appearance
@@ -38,6 +45,3 @@ Name: Bruce Ashfang
 >![[shady.jpg|banner]]
 >[[shady.jpg|Sample Image]]
 >
-
-## Tags
-#characters #alive #male

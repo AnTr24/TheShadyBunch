@@ -4,6 +4,7 @@ Name: Klisas
 Govt: Contested
 PartOf:
   - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+Summary: A well developed continent with a rich history. Contested by [[Eules Empire]] and [[Kreen Dynasty]]
 ---
 > [!infobox]
 > # Klisas
@@ -26,13 +27,24 @@ Klisas is split into 2 landmasses: [[Northern Klisas]], and [[Southern Klisas]],
 - [[Millenium Greatbridge]]: A mega-structure acting as a bridge/transportation network/railway system connecting the two halves of Klisas.
 
 ### [[Northern Klisas]]
-- [[Clover Island]]: The island where the [[Eules Empire]] originated.
-- Mainland and [[Kingdom of Miromar]]
-- [[Behemoth Precipice]] a large volcano located somehwere close to [[Miromar]]. Also known as the Vehement Prcipice.
+```dataview
+table 
+rows.file.link as Name,
+rows.Summary as Summary
+from "3. Locations/Klisas/North Klisas"
+where !(Designation="Continent")
+group by Designation
+```
 
 ### [[Southern Klisas]]
-- [[Midnight Sands]]: desert area containing black sand. Borders the swamps with a mountain range in-between.
-- [[Lanteglos Swamps]] bordering the desert region with a mountain range in-between.
+```dataview
+table 
+rows.file.link as Name,
+rows.Summary as Summary
+from "3. Locations/Klisas/South Klisas"
+where !(Designation="Continent")
+group by Designation
+```
 
 ## Gallery
 >[!cards]

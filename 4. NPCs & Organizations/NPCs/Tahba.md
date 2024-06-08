@@ -1,25 +1,31 @@
+---
+Name: Tabha
+Race: Goliath
+Gender: Male
+status: Alive
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Amnesiac Haundavar
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | X |
-> | Race | X |
-> | Age | X |
-> | Status | X |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
+> |X | X|
 
-# Amnesiac Haundavar
-- Name pending
+# `=this.Name`
+text
 ## Appearance
 ## Story
 ## Notable Powers & Equipment

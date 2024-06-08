@@ -1,25 +1,35 @@
+---
+Member: "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+Home:
+  - "[[Halruua|Halruua]]"
+Name: Toble Rone
+Race: Aasimar
+Gender: Female
+Age: Varies
+status: Missing
+---
 	"It's my casting ritual, I gotta dance first." 
 	- Toble
 
 
 > [!infobox]
-> # Toble Rone
+> # `=this.Name`
 > ![[Toble.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Halruaa]] |
-> | Sex | Female |
-> | Race | Fallen Aasimar |
-> | Age | Varies |
-> | Status | Retired |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Shady Bunch]]|
+> | Affiliation | `=this.Member` |
 > |Nemesis|[[Sarin]], [[Burgell]]|
 
-# Toble Rone
+# `=this.Name`
 A quiet Aasimar girl searching for the mysterious man that transformed her. She is quiet and hides herself under her hoodie but is kind and helping to those in need.
 ## Appearance
 An aasimar girl with purple hair. She often hides herself under her cloak. Due to her curse, she alternates between her child and adult form.

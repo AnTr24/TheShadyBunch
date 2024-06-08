@@ -1,6 +1,21 @@
 ---
 parent:
   - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+Partnership:
+  - "[[4. NPCs & Organizations/Organizations/House Inian.md|House Inian]]"
+Subsidiary:
+  - "[[Clan Nobe|Clan Nobe]]"
+Name: House Uma
+Designation: Noble House
+Homebase:
+  - "[[Uma Manor|Uma Manor]]"
+  - "[[Miromar|Miromar]]"
+Enemies:
+  - "[[4. NPCs & Organizations/Organizations/House Yuio.md|House Yuio]]"
+Leader:
+  - "[[4. NPCs & Organizations/NPCs/Hari Uma.md|Hari Uma]]"
+Status: Active
+Member: "[[4. NPCs & Organizations/NPCs/Amnesiac Haundavar.md|Amnesiac Haundavar]]"
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
@@ -8,20 +23,25 @@ parent:
 > [!infobox]
 > # House Uma
 > ![[umaemblem.png|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Noble House|
-> | Leader | [[Hari Uma]] |
-> | Homebase | [[Miromar]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
 > | Relation| Name |
 > | ---- | ---- |
-> |Part of|[[Kingdom of Miromar]]|
-> |Vassals | Clan Nobe | 
-> |Partnership|[[House Inian]]|
-> |Rivalry|[[House Yuio]]|
+> |Part of|`=this.parent`|
+> |Vassal | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
 
 # House Uma
 An old noble family from [[Miromar]]. Despite their long history, they are of minor standing in current Miramar compared to some of the newer houses. 

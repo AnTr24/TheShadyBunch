@@ -1,27 +1,31 @@
 ---
-Gender: ""
+Gender: Male
 status: Unknown
+Name: Augustus
+Home:
+  - "[[3. Locations/Bliurica/Gyoop's Home.md|Gyoop's Home]]"
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Augustus
+> # `=this.Name=`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Gyoop's Home]] |
-> | Sex | X |
-> | Race | X |
-> | Age | X |
-> | Status | Unknown |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
+> | Affiliation | `=this.Member` |
 > | Adopted Sons | [[Gyoop]], [[Troop]], [[Soop]], [[Loop]] |
 
-# Augustus
+# `=this.Name`
 Master of [[Gyoop]] and his brothers.
 ## Appearance
 ## Story

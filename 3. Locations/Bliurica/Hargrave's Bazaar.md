@@ -4,25 +4,26 @@ Name: Hargrave's Bazaar
 Govt: Unknown
 PartOf:
   - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+Summary: Rumored to be ran by an old mercenary or adventurer.
 ---
 > [!infobox]
 > # Hargrave's Bazaar
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Unknown |
-> | Part of | [[Bliurica]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. | x |
-> | Ruler | x |
-> |Races|x|
+> | Govt. | `=this.Govt` |
+> | Ruler | X |
+> |Races |X|
 
-# Hargrave's Bazaar
+# `=this.Name`
+`=this.Summary`
 - Unvisited
-- Rumored to be ran by an old mercenary or adventurer
 
 ## Story
 

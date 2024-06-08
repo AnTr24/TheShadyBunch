@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: location-db
 description: new description
 columns:
   __file__:
@@ -54,6 +54,8 @@ columns:
       - { label: "Town", value: "Town", color: "hsl(328, 95%, 90%)"}
       - { label: "World", value: "World", color: "hsl(187, 95%, 90%)"}
       - { label: "Island", value: "Island", color: "hsl(169, 95%, 90%)"}
+      - { label: "Unknown", value: "Unknown", color: "hsl(347, 95%, 90%)"}
+      - { label: "Underworld", value: "Underworld", color: "hsl(234, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -84,7 +86,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: 3. Locations/Add Location.md
+      related_note_path: Database/location-db.md
       relation_color: hsl(0,0%,37%)
   Name:
     input: text
@@ -96,7 +98,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: 0
-    width: 227
+    width: 195
     isSorted: true
     isSortedDesc: false
     config:
@@ -139,6 +141,28 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+  Summary:
+    input: text
+    accessorKey: Summary
+    key: Summary
+    id: newColumn5
+    label: Summary
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      content_alignment: text-align-left
+      content_vertical_alignment: align-top
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -153,9 +177,9 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: current_folder
-  source_form_result: 
-  source_destination_path: /
+  source_data: query
+  source_form_result: "FROM \"3. Locations\""
+  source_destination_path: 3. Locations
   row_templates_folder: /
   current_row_template: 
   pagination_size: 200

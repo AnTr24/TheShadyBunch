@@ -1,7 +1,7 @@
 > [!infobox]
 > # `=this.Name`
 > ![[shady.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
 > | Designation| `=this.Designation` |
@@ -14,6 +14,7 @@
 > |Races |x|
 
 # `=this.Name`
+`=this.Summary`
 Basic Description
 
 ## Story
@@ -29,3 +30,6 @@ Geography
 >[!cards]
 >**[[shady.jpg|map]]**
 >![[shady.jpg|banner]]
+
+## Tags
+#locations

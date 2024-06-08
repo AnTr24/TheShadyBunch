@@ -4,6 +4,7 @@ Name: Miromar
 Govt: Vassal-Kingdom
 PartOf:
   - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+Summary: The largest human settlement. Home to [[Taishi]].
 ---
 > [!infobox]
 > # Miromar

@@ -1,28 +1,32 @@
 ---
-Gender: ""
+Gender: Male
 Race: Gnome
+status: Alive
+Member: "[[4. NPCs & Organizations/Organizations/The Cult.md|The Cult]]"
+Name: Burgell
 ---
 
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Burgell
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Male |
-> | Race | Gnome |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[The Cult]] |
+> | Affiliation | `=this.Member` |
+> |Contractor|[[Sarin]]|
 
-# Burgell
+# `=this.Name`
 Either a direct member of [[The Cult]] or contracted to work for them. Likely contracted, as his hands are normal unlike other cult members.
 ## Appearance
 A gnome mage.

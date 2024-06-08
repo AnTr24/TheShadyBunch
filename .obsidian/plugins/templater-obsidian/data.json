@@ -19,6 +19,10 @@
       "template": "Templates/Inserts/Insert Session.md"
     },
     {
+      "folder": "1. Player Characters",
+      "template": "Templates/Full Pages/Character.md"
+    },
+    {
       "folder": "2. Timeline/EventCards",
       "template": "Templates/Full Pages/Event Card.md"
     },

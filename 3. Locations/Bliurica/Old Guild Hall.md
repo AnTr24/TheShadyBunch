@@ -4,18 +4,19 @@ Name: Old Guild Hall
 Govt: N/A
 PartOf:
   - "[[3. Locations/Bliurica/Fields of Blood.md|Fields of Blood]]"
+Summary: A dilapidated  guild hall.
 ---
 > [!infobox]
 > # Old Guild Hall
 > ![[oldguildhall.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Abandoned Building |
-> | Part of | [[Fields of Blood]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 
-# Old Guild Hall
-An abandoned hall/mansion once belonging to an [[Oaktree Guild|old guild of adventurers]]. However, [[The Cult]] has sicne taken over it as a base of operations.
+# `=this.Name`
+An abandoned hall/mansion once belonging to an [[Oaktree Guild|old guild of adventurers]]. However, [[The Cult]] has since taken over it as a base of operations.
 
 ## Story
 [[Evil Under the Oak]]: [[The Shady Bunch|The Shady Bunch]] encounters the guild hall where [[The Cult]] has used the abandoned building as a sort of base to hold and traffic their victims. 

@@ -1,26 +1,29 @@
 ---
-Gender: ""
+Gender: Female
 Race: Vampire
+Name: Myra
+status: Dead
 ---
 	"POV: You're going into the jar"
 
 > [!infobox]
-> # Myra
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Female |
-> | Race | Vampire |
-> | Age | X |
-> | Status | Deceased |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Enemies | [[Some vampire-hunting order I forgot the name of]] |
+> | Affiliation | `=this.Member` |
+> |Enemies |[[Some vampire-hunting order]]|
 
-# Myra
+# `=this.Name`
 An ancient vampire queen who was freed by accident, thanks to [[The Shady Bunch]]. 
 ## Appearance
 Said to have supernatural beauty

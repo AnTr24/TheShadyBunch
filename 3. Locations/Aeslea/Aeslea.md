@@ -4,21 +4,22 @@ PartOf:
   - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
 Name: Aeslea
 Govt: Unknown
+Summary: Land of the Elves
 ---
 > [!infobox]
 > # `=this.Name`
 > ![[aeslea.jpg]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| `=this.Designation` |
+> | Designation| `=this.Designation` |
 > | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
 > | Govt. | `=this.Govt` |
-> | Ruler |  |
-> |Races|Elves|
+> | Ruler | x |
+> |Races |Elves|
 
 # `=this.Name`
 Land of the elvenkind.

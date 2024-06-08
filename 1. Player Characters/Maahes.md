@@ -1,25 +1,36 @@
+---
+Member:
+  - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+  - "[[4. NPCs & Organizations/Organizations/Evil Party.md|Evil Party]]"
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: Maahes
+Race: Leonen
+Gender: Male
+status: Alive
+---
 	"Hey...you want some dragonchess?" 
 	- Maahes
 
 > [!infobox]
-> # Maahes
+> # `=this.Name`
 > ![[Maahes_LION.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | X |
-> | Sex | Male |
-> | Race | Leonen |
-> | Age | X |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | - [[The Shady Bunch]](former) <br>- [[Evil Party]] |
+> | Affiliation | `=this.Member` |
 > | "Best-friend" | [[Ophelia]] |
 > | "Spirit rivals" | [[Patchclaw]], [[Tahba]] |
 
-# Maahes
+# `=this.Name`
 A wandering warrior searching for power.
 - Raised in a village of "hippy" leonen. He grew  discontent with the weakness of his people and left in search of strength.
 

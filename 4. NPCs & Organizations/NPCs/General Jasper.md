@@ -1,28 +1,33 @@
 ---
-Gender: ""
+Gender: Male
 Race: Human
+Home:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+Name: General Jasper Levi the 6th
+status: Alive
+Member:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # General Jasper Levi the 6th
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Fimore]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | Middle-aged |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | X |
-> | x | x |
+> | Affiliation | `=this.Member` |
 
-# General Jasper Levi the 6th
+# `=this.Name`
 A general of the [[Kingdom of Fimore]], who was sent to oversee the defense of [[Isolated Imprisonment]].
 ## Appearance
 ## Story

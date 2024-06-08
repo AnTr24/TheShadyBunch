@@ -1,26 +1,39 @@
+---
+Race: Dragonborn
+Name: Shannon Ashfang
+Gender: Female
+Age: "25"
+status: Alive
+Member: 
+- "[[4. NPCs & Organizations/Organizations/Ashfang Steelworks.md|Ashfang Steelworks]]"
+- "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+- "[[4. NPCs & Organizations/Organizations/Ashfangs.md|Ashfangs]]"
+Home:
+  - "[[3. Locations/Cereron/Dragonspire.md|Dragonspire]]"
+---
 
 	"It's tough being a mom." 
 	- Shannon
 
 > [!infobox]
-> # Shannon Ashfang
-> ![[Shannon.png]]
-> ###### Basic Information
+> # `=this.Name`
+> ![[Battlesmith Shannon color.png]]
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Dragonspire]] |
-> | Sex | Female |
-> | Race | Dragonborn |
-> | Age | 25 |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[Ashfang Steelworks]], [[The Shady Bunch]]|
+> | Affiliation | `=this.Member` |
 > | Parents | [[Bruce]]-[[Mariale]]|
 > |Companion/Defender|Bladewolf|
 
-# Shannon Ashfang
+# `=this.Name`
 Shannon is a dragonborn woman of the [[Ashfangs]], a mercenary company ran by her [[Bruce|father]]. She is out adventuring in search of him, who has been missing for months.
 
 ## Appearance

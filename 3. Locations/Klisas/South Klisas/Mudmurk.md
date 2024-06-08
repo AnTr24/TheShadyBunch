@@ -2,6 +2,7 @@
 Designation: Village
 Name: Mudmurk
 Govt: N/A
+Summary: "[Redacted]]"
 ---
 > [!infobox]
 > # Mudmurk

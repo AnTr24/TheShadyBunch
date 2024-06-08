@@ -1,27 +1,40 @@
 ---
 parent:
   - "[[4. NPCs & Organizations/Organizations/Eules Empire.md|Eules Empire]]"
+Name: Kingdom of Miromar
+Designation: Kingdom
+Homebase:
+  - "[[Miromar|Miromar]]"
+Member: "[[4. NPCs & Organizations/NPCs/Willam Valentin.md|Willam Valentin]]"
+Status: Active
 ---
 	"It's DnD Monday my dudes." 
 	- Dude
 
 > [!infobox]
-> # Kingdom of Miromar
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[orgs-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> |Designation|Kingdom|
-> | Leader | [[Willam Valentin]] |
-> | Homebase | [[Miromar]] |
-> | Status | Active |
+> |Designation|`=this.Designation`|
+> | Leader | `=this.Leader` |
+> | Homebase | `=this.Homebase` |
+> | Status | `=this.Status` |
 > ##### Relationships
-> | Relation | Name |
+> | Relation| Name |
 > | ---- | ---- |
-> |Ruled by|[[Eules Empire]]|
-> |War|[[Kreen Dynasty]]|
+> |Part of|`=this.parent`|
+> |Subsidiary | `=this.Subsidiary`| 
+> |Partnership|`=this.Partnership`|
+> |Enemies|`=this.Enemies`|
+> ##### Members
+> ```dataview
+table Race, status as Status
+where contains(Member, [[]])
+sort file DESC
 
-# Kingdom of Miromar
+# `=this.Name`
 One of the oldest human kingdoms in the land. They were once an independent kingdom ruling territories across [[Northern Klisas]] before being conquered by the [[Eules Empire]].
 ## Members
 ### Ruling party: [[Valentin Family]]

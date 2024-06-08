@@ -1,20 +1,33 @@
+---
+status: Alive
+Gender: Female
+Race: Human
+Name: Taishi Uma
+Member:
+  - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
+  - "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Age: "24"
+---
 	"Ah, Eschal might lecture me again."
 	- Taishi
+
 > [!infobox]
-> # Taishi Uma
+> # `=this.Name`
 > ![[Taishi Uma.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Female |
-> | Race | Human |
-> | Age | 24 |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
-> | Relation|Name | 
+> | Relation | Name |
 > | ---- | ---- |
-> | Affiliation |[[The Shady Bunch]], [[House Uma]]|
+> | Affiliation | `=this.Member` |
 > |Grandfather | [[The Late Lord Uma]] | 
 > | Parents|[[Hari Uma]], [[Mine Uma]]|
 > |Retainers|[[Flume]], [[Eschal]], [[Logi]] | 
@@ -22,7 +35,7 @@
 > | Unwanted Suitor |[[Rinn Yuio]]|
 > |Sworn Enemy|[[The Eye]]|
 
-# Taishi Uma
+# `=this.Name`
 - Benevolent and adventurous noblewoman but ~~probably~~ reckless.
 - Hails from [[Miromar]]: a city full of other aristocrats and the largest human kingdom.
 - Accompanied by 3 retainers: [[Flume]], [[Eschal]], and [[Logi]].

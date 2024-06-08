@@ -4,24 +4,26 @@ PartOf:
   - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
 Name: Fields of Blood
 Govt: Contested
+Summary: A vast plain occupying much of eastern [[Bliurica]].
 ---
 > [!infobox]
 > # Fields of Blood
 > ![[shady.jpg|cover hsmall]]
-> ###### Basic Information
+> ###### Basic Information [[location-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Type| Plains |
-> | Part of | [[Bliurica]] |
+> | Designation| `=this.Designation` |
+> | Part of | `=this.PartOf`|
 > ##### Demographics
 > | Type | Stat |
 > | ---- | ---- |
-> | Govt. |Several warring tribes |
-> | Ruler | Contested |
-> |Races|Orcs|
+> | Govt. | `=this.Govt` |
+> | Ruler | x |
+> |Races |Orc|
 
-# Fields of Blood
-A vast plain occupying much of eastern [[Bliurica]]. Several orc tribes occupy the lands, constantly at war with one anther for control.
+# `=this.Name`
+`=this.Summary`
+Several orc tribes occupy the lands, constantly at war with one anther for control.
 
 ## Story
 - The party narrowly avoids a warband of an orc tribe approaching the [[Old Guild Hall]].

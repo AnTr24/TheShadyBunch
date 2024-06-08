@@ -1,30 +1,36 @@
 ---
-Gender: ""
+Gender: Male
+Member: "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+Name: Logi
+Race: Human
+Age: Mid-30s
+status: Alive
 ---
 
 
 	"Thanks, Logi! Remember to not tell Eschal about this!" 
 	- Taishi
-
 > [!infobox]
-> # Logi
+> # `=this.Name`
 > ![[Logi.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | Mid 30s |
-> | Status | Alive |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliation | [[House Uma]] |
+> | Affiliation | `=this.Member` |
 > | Liege|[[Taishi]] | 
 > | Coworkers|[[Eschal]], [[Flume]]|
 
-# Logi
+# `=this.Name`
 One of [[Taishi]]'s retainers since she was young. A casual and straight-forward man, Logi grumbles when hard work is pushed onto him but is quite loyal in actuality.
 ## Appearance
 Logi wears practical and simple clothes as necessary for a working hand on the road. He has brown hair and eyes. While he maintains cleanliness, he makes little effort to appear "presentable," having somewhat dishevelled hair and clothes. Defends himself with a crossbow.

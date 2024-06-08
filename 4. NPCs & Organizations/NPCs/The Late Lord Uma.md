@@ -1,28 +1,39 @@
 ---
-Gender: ""
+Gender: Male
+Member:
+  - "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+  - "[[4. NPCs & Organizations/Organizations/Oaktree Guild.md|Oaktree Guild]]"
+Home:
+  - "[[Uma Manor|Uma Manor]]"
+  - "[[3. Locations/Bliurica/Old Guild Hall.md|Old Guild Hall]]"
+Name: The Late Lord Uma
+Race: Human
+Age: Old-man
+status: Dead
 ---
 	"If I was stronger back then...would you have taken me with you?"
 	- Taishi
+
 > [!infobox]
-> # The Late Lord Uma
+> # `=this.Name`
 > ![[Grandfather.png]]
-> ###### Basic Information
+> ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |
-> | Home | [[Uma Manor]], [[Old Guild Hall]] |
-> | Sex | Male |
-> | Race | Human |
-> | Age | Old |
-> | Status | Deceased |
+> | Home | `=this.Home` |
+> | Sex | `=this.Gender` |
+> | Race | `=this.Race` |
+> | Age | `=this.Age` |
+> | Status | `=this.status` |
 > ##### Relationships
 > | Relation | Name |
 > | ---- | ---- |
-> | Affiliations | [[House Uma]], [[Oaktree Guild]]|
+> | Affiliation | `=this.Member` |
 > |Son|[[Hari Uma]]|
-> Daughter-In-Law|[[Mine Uma]]|
-> | Grandaugher| [[Taishi]]| 
+> |Daughter-In-Law|[[Mine Uma]]|
+> |Grandaugher| [[Taishi]]| 
 
-# The Late Lord Uma
+# `=this.Name`
 [[Taishi]]'s late grandfather whom she looks up to.
 ## Appearance
 A tall and broad old man with muscular physique. Sports black hair with a small moustache and beard. Like other descendants of the Uma family, his eyes hold a slight yellow glow.

@@ -11,11 +11,9 @@
             "id": "534bcd52e88d2cbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Templates/Full Pages/Geography.md",
-                "mode": "preview",
-                "source": true
+                "file": "Database/orgs-db.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#magici",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Full Pages/Geography.md",
+                "file": "Database/orgs-db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Full Pages/Geography.md",
+                "file": "Database/orgs-db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Full Pages/Geography.md"
+                "file": "Database/orgs-db.md"
               }
             }
           }
@@ -145,37 +143,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "534bcd52e88d2cbe",
   "lastOpenFiles": [
-    "3. Locations/Add Location.md",
-    "4. NPCs & Organizations/Organizations/The Shady Bunch.md",
-    "4. NPCs & Organizations/NPCs/Willam Valentin.md",
-    "Templates/Full Pages/Term.md",
-    "Templates/Full Pages/Magic item.md",
-    "4. NPCs & Organizations/Organizations/The King's 1st Miners.md",
-    "4. NPCs & Organizations/Organizations/The Edge of Vision.md",
-    "Templates/Full Pages/Geography.md",
-    "3. Locations/Aeslea/Aeslea.md",
-    "4. NPCs & Organizations/NPCs/Ulric Valentin.md",
-    "3. Locations/Bliurica/Isolated Imprisonment.md",
-    "3. Locations/Bliurica/Fimore.md",
-    "3. Locations/Klisas/Belano.md",
-    "3. Locations/Other/Rraynia.md",
-    "3. Locations/Klisas/Mudmurk.md",
-    "3. Locations/Bliurica/Subterranean Crystal Caves.md",
-    "3. Locations/Bliurica/Old Guild Hall.md",
-    "3. Locations/Klisas/Miramar/Miromar.md",
-    "3. Locations/Bliurica/Gnoll Cave.md",
-    "3. Locations/Cereron/Cereron.md",
+    "4. NPCs & Organizations/Organizations/Ashfang Steelworks.md",
+    "Database/orgs-db.md",
+    "4. NPCs & Organizations/Organizations/Ashfangs.md",
     "1. Player Characters/Shannon.md",
-    "3. Locations/Clover Idango.md",
-    "Templates/Full Pages/Character.md",
-    "3. Locations/Klisas/Miramar/Uma Manor.md",
-    "3. Locations/Bliurica/Midwood.md",
-    "3. Locations/Bliurica/Hargrave's Bazaar.md",
+    "Database/char-db.md",
+    "4. NPCs & Organizations/NPCs/Bruce.md",
+    "Database/location-db.md",
+    "4. NPCs & Organizations/NPCs/Vancent.md",
+    "4. NPCs & Organizations/NPCs/Jaren.md",
+    "Untitled.md",
+    "5. Monsters, Items and Terms/Items-Mundane/Dreamlily.md",
+    "4. NPCs & Organizations/Organizations/The Shady Bunch.md",
+    "3. Locations/Other/Underdark.md",
+    "README (DON'T DELETE).md",
+    "4. NPCs & Organizations/NPCs/Tahba.md",
+    "4. NPCs & Organizations/NPCs/Amnesiac Haundavar.md",
+    "1. Player Characters/Leia.md",
+    "1. Player Characters/Toble.md",
+    "1. Player Characters/Vorn.md",
+    "1. Player Characters/Taishi.md",
+    "1. Player Characters/Runliel.md",
+    "1. Player Characters/Patchclaw.md",
+    "1. Player Characters/Ophelia.md",
+    "1. Player Characters/Nightingale.md",
+    "1. Player Characters/Maahes.md",
+    "1. Player Characters/Gyoop.md",
+    "z_Attachments/Vorn.png",
+    "z_Attachments/YdanynCave.jpg",
+    "z_Attachments/YdanynCave_Entrance.jpg",
+    "3. Locations/Klisas/South Klisas",
+    "3. Locations/Klisas/North Klisas",
     "3. Locations/Aeslea/South",
     "3. Locations/Aeslea/North",
     "3. Locations/Aeslea/West",
@@ -184,18 +188,13 @@
     "Templates/Commands",
     "Database",
     "5. Monsters, Items and Terms/Items-Magical",
-    "5. Monsters, Items and Terms/Terms",
-    "5. Monsters, Items and Terms/Items-Mundane",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Faal'Krel_Inn.jpg",
-    "z_Attachments/YdanynCave_Entrance.jpg",
     "Untitled.canvas",
     "z_Attachments/purpleworm.png",
     "z_Attachments/Shannon dress.png",
     "z_Attachments/Leia.jpg",
     "z_Attachments/Leia's dream.png",
-    "z_Attachments/EyySzJ3U4AEhU8n 1.png",
-    "z_Attachments/Underdark_Ship_Map.jpg",
-    "z_Attachments/02UmaLineCROP.jpg"
+    "z_Attachments/EyySzJ3U4AEhU8n 1.png"
   ]
 }

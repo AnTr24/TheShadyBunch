@@ -1,3 +1,10 @@
+---
+Designation: Region
+Name: Great Vortex
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+---
 > [!infobox]
 > # Great Vortex
 > ![[shady.jpg|cover hsmall]]

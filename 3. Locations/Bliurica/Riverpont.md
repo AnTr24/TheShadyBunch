@@ -1,3 +1,10 @@
+---
+Designation: Village
+Name: Riverpont
+Govt: Mayor-Council
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+---
 > [!infobox]
 > # Riverpont
 > ![[shady.jpg|cover hsmall]]

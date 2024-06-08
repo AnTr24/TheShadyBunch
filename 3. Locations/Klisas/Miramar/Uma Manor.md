@@ -1,3 +1,10 @@
+---
+Designation: Dwelling
+Name: Uma Manor
+Govt: N/A
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/House Uma.md|House Uma]]"
+---
 > [!infobox]
 > # Uma Manor
 > ![[shady.jpg|cover hsmall]]

@@ -1,3 +1,8 @@
+---
+Gender: ""
+status: Alive
+Race: Fey
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

@@ -1,3 +1,7 @@
+---
+Gender: ""
+Race: Vampire
+---
 	"POV: You're going into the jar"
 
 > [!infobox]

@@ -1,3 +1,9 @@
+---
+Gender: ""
+status: Alive
+Race: Human
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

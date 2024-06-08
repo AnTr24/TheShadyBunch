@@ -1,3 +1,7 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

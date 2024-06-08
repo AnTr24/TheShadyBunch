@@ -1,3 +1,7 @@
+---
+Gender: ""
+Race: Dwarf
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

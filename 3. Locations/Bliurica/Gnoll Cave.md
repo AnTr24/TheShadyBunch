@@ -1,3 +1,10 @@
+---
+Designation: Cave
+Name: Gnoll Cave
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+---
 > [!infobox]
 > # Gnoll Cave
 > ![[shady.jpg|cover hsmall]]

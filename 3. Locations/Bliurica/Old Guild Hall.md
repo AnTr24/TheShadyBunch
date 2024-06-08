@@ -1,3 +1,10 @@
+---
+Designation: Dwelling
+Name: Old Guild Hall
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Bliurica/Fields of Blood.md|Fields of Blood]]"
+---
 > [!infobox]
 > # Old Guild Hall
 > ![[oldguildhall.jpg]]

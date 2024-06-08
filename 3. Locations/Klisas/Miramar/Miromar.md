@@ -1,3 +1,10 @@
+---
+Designation: City
+Name: Miromar
+Govt: Vassal-Kingdom
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+---
 > [!infobox]
 > # Miromar
 > ![[Miramar.jpg]]

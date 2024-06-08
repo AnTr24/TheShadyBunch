@@ -1,3 +1,8 @@
+---
+Gender: ""
+Race: Drow
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

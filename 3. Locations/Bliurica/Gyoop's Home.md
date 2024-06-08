@@ -1,3 +1,11 @@
+---
+Designation: Dwelling
+Name: Gyoop's Home
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+Ruler: ""
+---
 > [!infobox]
 > # Gyoop's Home
 > ![[shady.jpg|cover hsmall]]

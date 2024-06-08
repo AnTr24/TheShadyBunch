@@ -1,3 +1,8 @@
+---
+Designation: Village
+Name: Mudmurk
+Govt: N/A
+---
 > [!infobox]
 > # Mudmurk
 > ![[shady.jpg|cover hsmall]]

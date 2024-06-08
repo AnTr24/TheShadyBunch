@@ -1,3 +1,8 @@
+---
+Gender: ""
+Race: Gnome
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

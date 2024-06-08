@@ -1,3 +1,8 @@
+---
+Gender: ""
+status: Dead
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

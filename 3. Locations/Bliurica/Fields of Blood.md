@@ -1,3 +1,10 @@
+---
+Designation: Region
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+Name: Fields of Blood
+Govt: Contested
+---
 > [!infobox]
 > # Fields of Blood
 > ![[shady.jpg|cover hsmall]]

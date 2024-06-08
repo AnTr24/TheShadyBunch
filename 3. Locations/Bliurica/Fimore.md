@@ -1,3 +1,11 @@
+---
+Designation: City
+Name: Fimore
+Govt: Kingdom
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+Ruler: ""
+---
 > [!infobox]
 > # Fimore
 > ![[Fimore.jpg]]

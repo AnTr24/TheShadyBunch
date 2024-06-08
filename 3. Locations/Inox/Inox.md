@@ -1,3 +1,10 @@
+---
+Designation: Continent
+Name: Inox
+Govt: Unknown
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+---
 > [!infobox]
 > # Inox
 > ![[inox.jpg]]

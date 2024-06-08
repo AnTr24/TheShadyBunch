@@ -1,3 +1,7 @@
+---
+Gender: ""
+status: Unknown
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

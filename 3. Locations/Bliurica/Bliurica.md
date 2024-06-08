@@ -1,5 +1,12 @@
+---
+Designation: Continent
+Name: Bliurica
+Govt: Contested
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+---
 > [!infobox]
-> # Bliurica
+> # `=file.Name`
 > ![[Bliurica.bmp]]
 > ###### Basic Information
 > | Type | Stat |
@@ -21,21 +28,13 @@ Discovered fairly recently compared to the other continent, much of the lands of
 ### Annotated Map
 [[Bliurica_annotated.png]]
 
-##  Notable Locations
-- [[Hargrave's Bazaar]]
-- [[Midwood]]
-- [[Fields of Blood]]
-	- [[Old Guild Hall]]
--  [[Gyoop's Home]]
-- [[Kingdom of Fimore]]
-	- [[Isolated Imprisonment]]
-	- [[Fimore]]
-	- [[Greenstone Mines]]
-	- [[Riverpont]]
-- [[Kreen Dynasty]]
-	- [[Faal'Krel]]
-- [[Ydanyn's Cave]]
-- [[Vorodin's Cave]]
+## Notable Locations
+```dataview
+list rows.file.link
+from "3. Locations/Bliurica"
+where !(Designation="Continent")
+group by Designation
+```
 
 ## Gallery
 > [!cards]

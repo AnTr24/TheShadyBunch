@@ -1,3 +1,10 @@
+---
+Designation: Castle
+Name: Isolated Imprisonment
+Govt: Garrison
+PartOf:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+---
 > [!infobox]
 > # Isolated Imprisonment
 > ![[shady.jpg|cover hsmall]]

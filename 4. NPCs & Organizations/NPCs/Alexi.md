@@ -1,3 +1,6 @@
+---
+Gender: ""
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

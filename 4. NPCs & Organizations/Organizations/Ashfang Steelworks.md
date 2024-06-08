@@ -1,8 +1,17 @@
+---
+Name: Ashfang Steelworks
+AssociatedGroup:
+  - "[[4. NPCs & Organizations/NPCs/Bruce.md|Bruce]]"
+  - "[[1. Player Characters/Shannon.md|Shannon]]"
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Eules Empire.md|Eules Empire]]"
+---
+
 	"It is our change to defend the weak.  
 	- Bruce Ashfang
 
 > [!infobox]
-> # Ashfang Steelworks
+> # `=this.Name`
 > ![[shady.jpg|cover hsmall]]
 > ###### Basic Information
 > | Type | Stat |
@@ -10,15 +19,26 @@
 > |Designation|Company|
 > | Leader | [[Bruce]] |
 > | Homebase | [[Dragonspire]] |
-> | Status | Inactive |
-> ##### Relationships
-> | Relation | Name |
-> | ---- | ---- |
-# Ashfang Steelworks
+> Status| `=this.Status`|
+> ###### Relations
+> [[Add New NPC|Add New Member]]
+> ```dataview
+> table without id
+> parent as "Part Of"
+> where Name="Ashfang Steelworks"
+
+
+# `=this.Name`
 A company hailing from [[Dragonspire]]. They deal in several industries including mecenary work. Presumably inactive with the disappearance of [[Bruce]], and [[Shannon]]'s leave to look for her him.
 ## Members
-- [[Bruce|Bruce Ashfang]] (leader)
-- [[Shannon]]
+```dataview
+table without id
+AssociatedGroup as "List"
+where Name="Ashfang Steelworks"
+```
+## Testing this
+`=this.AssociatedGroup`
+
 ## Holdings
 ## Story
 - Ashfang Steelworks was created to bring the wonders of Artifice across the plane of [[Rraynia]]. 

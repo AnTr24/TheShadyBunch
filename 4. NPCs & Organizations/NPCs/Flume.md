@@ -1,3 +1,8 @@
+---
+Gender: ""
+Race: Human
+---
+
 	"It's time to train, Flume." 
 	- Taishi
 > [!infobox]

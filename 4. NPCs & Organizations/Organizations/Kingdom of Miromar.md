@@ -1,3 +1,7 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Eules Empire.md|Eules Empire]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

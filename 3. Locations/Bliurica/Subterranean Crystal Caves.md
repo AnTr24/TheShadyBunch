@@ -1,3 +1,10 @@
+---
+Designation: Cave
+Name: Subterranean Crystal Caves
+Govt: N/A
+PartOf:
+  - "[[3. Locations/Bliurica/Fimore.md|Fimore]]"
+---
 > [!infobox]
 > # Subterranean Crystal Caves
 > ![[shady.jpg|cover hsmall]]

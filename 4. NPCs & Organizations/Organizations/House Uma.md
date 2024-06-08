@@ -1,3 +1,7 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

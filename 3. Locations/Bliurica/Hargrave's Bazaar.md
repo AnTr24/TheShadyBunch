@@ -1,3 +1,10 @@
+---
+Designation: City
+Name: Hargrave's Bazaar
+Govt: Unknown
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+---
 > [!infobox]
 > # Hargrave's Bazaar
 > ![[shady.jpg|cover hsmall]]

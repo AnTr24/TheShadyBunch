@@ -1,3 +1,6 @@
+---
+Gender: ""
+---
 	"If I was stronger back then...would you have taken me with you?"
 	- Taishi
 > [!infobox]

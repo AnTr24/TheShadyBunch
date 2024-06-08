@@ -1,3 +1,10 @@
+---
+Designation: Continent
+Name: Klisas
+Govt: Contested
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+---
 > [!infobox]
 > # Klisas
 > ![[klisas.jpg]]

@@ -1,3 +1,10 @@
+---
+Designation: Village
+Name: Midwood
+Govt: Tribal
+PartOf:
+  - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
+---
 > [!infobox]
 > # Midwood
 > ![[shady.jpg|cover hsmall]]

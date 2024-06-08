@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "livePreview": false,
-  "attachmentFolderPath": "z_Attachments"
+  "attachmentFolderPath": "z_Attachments",
+  "propertiesInDocument": "hidden"
 }

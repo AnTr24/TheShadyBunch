@@ -1,3 +1,7 @@
+---
+Gender: ""
+Race: Dragon
+---
 	"Of the Golden Light 
 	May you see and fear his sight 
 	Or bow to his truest might"

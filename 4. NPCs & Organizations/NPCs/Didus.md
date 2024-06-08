@@ -1,3 +1,10 @@
+---
+Race: Human
+Members:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Fimore.md|Kingdom of Fimore]]"
+Gender: ""
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

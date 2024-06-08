@@ -1,3 +1,10 @@
+---
+Designation: Continent
+Name: Cereron
+Govt: Unknown
+PartOf:
+  - "[[3. Locations/Other/Rraynia.md|Rraynia]]"
+---
 > [!infobox]
 > # Cereron
 > ![[cereron.jpg]]

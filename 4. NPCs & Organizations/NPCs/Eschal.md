@@ -1,3 +1,8 @@
+---
+Gender: ""
+Race: Human
+---
+
 	"Looks like I got caught again." 
 	- Taishi
 

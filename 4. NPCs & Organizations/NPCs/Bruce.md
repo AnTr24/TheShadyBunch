@@ -1,3 +1,10 @@
+---
+Gender: Male
+AssociatedGroup:
+  - "[[Ashfang Steelworks|Ashfang Steelworks]]"
+Name: Bruce Ashfang
+---
+
 	"It's DnD Monday my dudes." 
 	- Dude
 

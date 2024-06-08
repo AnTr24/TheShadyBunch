@@ -1,3 +1,8 @@
+---
+parent:
+  - "[[4. NPCs & Organizations/Organizations/Kingdom of Miromar.md|Kingdom of Miromar]]"
+  - "[[4. NPCs & Organizations/Organizations/The 13 Great Families.md|The 13 Great Families]]"
+---
 	"It's DnD Monday my dudes." 
 	- Dude
 

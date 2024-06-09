@@ -25,8 +25,13 @@ timelines:
 ![[oldguildhall.jpg]]
 - They then encounter  [[Sarin]] and [[Burgell]] surprisingly waiting for them in the main hall. They have stayed behind expecting [[The Shady Bunch]] to pursue them and are here to prevent further meddling.
 - Two spells rain down on the party. At some point Patchclaw and Gyoop and polymorphed into turtles.
->Lettuce. Waater~
+> [!kith|c-orange] **Hayden/Patchshell** _Lettuce~ Water~_
+
+> [!kith|c-purple] **Joanne/Toble** _i apologize for all snickers has done, i feel the pain now LMAO_
+
+
 - Burgell is cornered but manages to teleport away.
+> [!kith|c-purple] **Joanne/Toble** _THIS FUCKIN GNOME<br><br>ASLDKJFKLAJDFKLJASDLFK_
 - On his own, Sarin takes out and imbibes a mysterious black potion. It transforms him into an abomination, twisting his flesh and growing to Huge size. 
 - The party is able to put down the monster, as the twisted flesh burns away, an evil/cursed ring is all that remains of Sarin. The party elects to throw it off into the coast.
 

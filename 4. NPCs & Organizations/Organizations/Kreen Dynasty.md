@@ -41,9 +41,14 @@ list without id
 Member
 where file = this.file
 ```
+
+- [[Mother kryn]]
+- [[Mother Tirisi]]
 ## Holdings
 ## Story
 ## Notable Powers & Equipment
+- Starlit Steeple: Palace area?
+
 ## Trivia
 
 ## Gallery

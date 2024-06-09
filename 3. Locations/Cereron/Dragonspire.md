@@ -4,6 +4,7 @@ Designation: City
 Govt: Unknown
 PartOf:
   - "[[3. Locations/Cereron/Cereron.md|Cereron]]"
+Summary: Supposed capital of the dragonborn? Home to [[Shannon]]'s family.
 ---
 > [!infobox]
 > # `=this.Name`

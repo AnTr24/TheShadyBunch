@@ -69,6 +69,7 @@ Alongside his back and arms are hex-patterned greenstone protrusions from "Rock 
 	
 
 ## Notable Powers & Equipment
+- **Blindesense**: Gyoop is unable to see normally, instead having blind sense to a range of ~60ft.
 - **Playstyle - Opportunist Striker**: Stunning critical targets or creative shape-changes. Most likely to use interactable environment to his advantage.
 - **Monk: Way of the Living Weapon(HB)**: Able to stretch and reshape his body. For example, he can stretch his arms to a reach of 15ft, as well as being able to reform his limbs into various forms of weapon types to exploit enemy weaknesses.
 - **Lv.1 Cleric:** Unknown domain and god/ideal.

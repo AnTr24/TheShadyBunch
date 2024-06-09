@@ -37,7 +37,7 @@ Rraynia has gone through 7 distinct eras:
 -In the fifth, the Blood Wars broke out as conflicting interests sprang from both the Gods, and their champions 
 -In the sixth, the wars came to an end and the peoples were given their own lands to rule as their own. 
 -The 7th era is the current era. Known as the era of "Peace"
-> "Peace" (laughing emoji) - the DM
+> [!kith|antagonist] **Andrew/DM** _"Peace" (laughing emoji)_
 
 ## Calendar
 - 15-month system broken up into 3 segments. Based on the closest of the 3 moons with each month having 3-tendays.

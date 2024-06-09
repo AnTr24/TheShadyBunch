@@ -21,6 +21,19 @@ timelines:
 - Enraged, clan leaps off the ridge, chasing them across the bridge with the king leading the charge.
 - Confirming the last of the horde has entered the bridge, [[Shannon]] sets off the fuse as the last of the Shady Bunch makes it across.
 - They watch as the bridge buckles and collapses from the other side. Much of the frost giant clan falls into the chasm below with the exception of the king himself who barely manages leap across to the group.
+
+> [!kith|c-black] **Iz/Leia** _I'm back_
+
+> [!kith|c-brown] **Signus/Taishi** _wb_
+
+> [!kith|c-purple] **Joanne/Toble** _wb~_
+
+> [!kith|c-black] **Iz/Leia** _WHAT HAPPENED_
+
+> [!kith|c-brown] **Signus/Taishi** _Gyoop got downed by the bomb_
+
+> [!kith|c-black] **Iz/Leia** _WHAT_
+
 - A battle ensues, but thanks to an enlarged Shannon, he is pushed off the ledge.
 - The party looks over the ledge. Within the darkness, familiar rumblings are felt while they catch glimpses of the [[Giant Purple Worm|giant purple worm]].
 

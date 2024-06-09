@@ -39,19 +39,19 @@
       "template": "Templates/Full Pages/Organization.md"
     },
     {
-      "folder": "5. Monsters, Items and Terms/Monster",
-      "template": "Templates/Full Pages/Monster.md"
+      "folder": "5. Creatures, Items and Terms/Creature",
+      "template": "Templates/Full Pages/Creature.md"
     },
     {
-      "folder": "5. Monsters, Items and Terms/Terms",
+      "folder": "5. Creatures, Items and Terms/Terms",
       "template": "Templates/Full Pages/Term.md"
     },
     {
-      "folder": "5. Monsters, Items and Terms/Items-Magical",
+      "folder": "5. Creatures, Items and Terms/Items-Magical",
       "template": "Templates/Full Pages/Magic item.md"
     },
     {
-      "folder": "5. Monsters, Items and Terms/Items-Mundane",
+      "folder": "5. Creatures, Items and Terms/Items-Mundane",
       "template": "Templates/Full Pages/Mundane Item.md"
     }
   ],

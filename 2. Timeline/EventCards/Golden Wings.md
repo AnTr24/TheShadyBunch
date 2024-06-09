@@ -7,6 +7,12 @@
 - The party agrees to help the trapped dragon and he offers magic items to aid them, such as a [[dragon-slayer dagger]] and [[belt of giant strength]].
 - With his powers, he opens a portal that will lead them somewhere near [[Ydanyn's Cave]].
 
+> [!kith|antagonist] **Andrew/DM** _I been playin a gold dragon gotta make everything a puzzle >:) >:)_
+
+> [!kith|c-yellow] **Ivan/Gyoop** _Gyoop does not understand scaled one's games_
+
+> [!kith|c-pink] **Sam/Ophelia** _Ophelia may or may not understand the shenanigans of the winged lizards._
+
 ## Quiet Sands
 >[!cards]
 >**Lair Entrance**
@@ -14,6 +20,8 @@
 >
 >**Inner Chamber**
 >![[YdanynCave.jpg]]
+
+
 
 - Stepping through the portal, the stone ground peels away into sandy dunes in all directions. 
 - Searching around, they find a a strange opening in the side of a large dune.
@@ -32,10 +40,18 @@
 - However, they don't have long as the "cave" rumbles and sands begin to fall upon then.
 	- With Ydanyn dead, the magic holding up the sands has dissipated, and the cave alongside the treasure horde is rapidly being buried in collapsing sand.
 	- The party stop their looting after grabbing a few items and make their way towards the exit, barely making it out
+
+> [!kith|c-brown] **Signus/Taishi** _When the fight started off with you 3 getting breathed and then charmed I started sweating. ngl_
+
+> [!kith|c-yellow] **Ivan/Gyoop** _(praying)Bless monk abilities_
+
+> [!kith|antagonist] **Andrew/DM** _I saw that opportunity during our lil intermission >:)_
+
 - As they collect themselves, they find themselves transported back into [[Vorodin's Cave]]; Infront of them is the full majesty of a gold dragon.
 	- Vorodin thanks the party for freeing him from Ydanyn's trap
 	- Taking time to answer their questions, he also reveals that he is responsible for setting up the trials they passed through. Originally, it was part of his pact with the [[Kingdom of Fimore]]'s first king as a means to test the worthiness of their successors. Eventually he settled down in the mountains and took care of a nearby [[Midwood|village]].
 	- He takes the party back to the village to finish the annual festival
+
 > [!aside|cleanright]
 > Sometime during this event, [[Patchclaw]] and [[Maahes]] end up in meditative trance..entering [[The Beastlands]]
 

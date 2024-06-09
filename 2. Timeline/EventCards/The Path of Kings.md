@@ -8,7 +8,11 @@ Passing are only the good the best
 ```
 
 ## Before the Gate
-A trek up the mountains and going past the [[Isolated Imprisonment]], they spot a large stone structure above them. There is a statue of a dragon connected to the mountain wall. They spot an opening through the dragon's nose, and using various methods, ascended the statue to follow along until into the mountain proper. It becomes apparent that connected is a longer series of stairs and passageways that go up and around the mountain side.
+A trek up the mountains and going past the [[Isolated Imprisonment]], they spot a large stone structure above them. There is a statue of a dragon connected to the mountain wall. Spotting an opening through the dragon's nose and using various methods, they pathed into the mountain proper. It becomes apparent awaiting them is longer series of stairs and passageways that go up and around the mountain side.
+
+> [!kith|c-brown] **Signus/Taishi** _so a yellow slime went into the nose_
+
+> [!kith|c-brown] **Signus/Taishi** _he's a booger now_
 
 ## The First Trial: Not As It Seems. Find what to gleam 
 ![[trialofkings1_tablet.jpg|hsmall]] ![[trialofkings_tablet2.jpg| hsmall]]
@@ -42,6 +46,13 @@ A trek up the mountains and going past the [[Isolated Imprisonment]], they spot 
 - It takes several to about an hour to arduously climb the narrow vertical stairwell
 - At the top, the party is exhausted and decided on a short rest to recover.
 	-  [[Maahes]] swears during the climb and  [[Gyoop]] and [[Leia]] happen to hear it, to the dismay of [[Ophelia]] and [[Shannon]].
+
+> [!kith|c-blue] **Shane/Shannon** _I will protect this tiny child I swear it_
+
+> [!kith|c-black] **Iz/Leia** _I'll protect you too! <br><br>Just give me a chair or something to throw..._
+
+> [!kith|c-red] **Ian/Maahes** _[F] [U] [C] [K]_
+
 - Moving on, they eventually came across a chamber/ pit dotted with several platforms.
 ![[trialofkings2_Path.png]]
 	- Each platform is of roughly of same height but has differing sizes and gaps. The gaps seemingly ranger 10-30ft between platforms.

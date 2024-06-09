@@ -47,5 +47,15 @@ timelines:
 	- As she cries, a power begins to dwell within her, finally knowing the truth of her people's legacy.
 - Meanwhile the rest of the party rushes to the top, tending to Taishi's wounds. Afterwards, everyone reconvenes as they get ready to make the trip back into the city.
 
+> [!kith|c-black] **Iz/Leia** _If I get a dream and I see crystal blue like the goddamn crystal tower LOL_
+
+> [!kith|c-black] **Iz/Leia** _I'm not going near any barn_
+
+- Taishi goes to look for her retainers..finding [[Eschal]] clutching a missing arm and flanked by two strangers.
+> [!kith|c-yellow] **Ivan/Gyoop** _HMMMMMMMMMMMMMMMMMMMMMS IN GYOOP_
+- They introduce themselves as [[Ophelia]] and [[Maahes]], explaining that her arm was being [[Crystallization|crystallzied]] when they found her, and that they had no choice but to cut it off.
+- [[Gyoop]] comes by and upon seeing the retainers, gives everyone a group-hug; including the strangers.
+- Ophelia was suprised but overjoyed at Gyoop's cuteness and dragged Maahes into joining [[The Shady Bunch]].
+
 ## Tags
  #event #act1

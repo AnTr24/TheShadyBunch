@@ -17,7 +17,7 @@ Home:
 
 > [!infobox]
 > # `=this.Name`
-> ![[Battlesmith Shannon color.png]]
+> ![[Shannon.png]]
 > ###### Basic Information [[char-db|Edit]]
 > | Type | Stat |
 > | ---- | ---- |

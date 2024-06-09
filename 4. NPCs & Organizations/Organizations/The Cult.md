@@ -3,11 +3,7 @@ Name: The Cult
 Designation: Cult
 Enemies:
   - "[[4. NPCs & Organizations/Organizations/The Shady Bunch.md|The Shady Bunch]]"
-Member:
-  - "[[4. NPCs & Organizations/NPCs/Sarin.md|Sarin]]"
-  - "[[4. NPCs & Organizations/NPCs/Burgell.md|Burgell]]"
-  - "[[4. NPCs & Organizations/NPCs/Mirror Matron.md|Mirror Matron]]"
-  - "[[4. NPCs & Organizations/NPCs/Rinn.md|Rinn]]"
+Member: "[[4. NPCs & Organizations/NPCs/Sarin.md|Sarin]], [[4. NPCs & Organizations/NPCs/Burgell.md|Burgell]], [[4. NPCs & Organizations/NPCs/Mirror Matron.md|Mirror Matron]], [[4. NPCs & Organizations/NPCs/Rinn.md|Rinn]], [[4. NPCs & Organizations/NPCs/Burly Assassin.md|Burly Assassin]]"
 Status: Active
 ---
 	"It's DnD Monday my dudes." 

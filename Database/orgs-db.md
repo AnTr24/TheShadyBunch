@@ -157,6 +157,7 @@ columns:
       - { label: "Cult", value: "Cult", color: "hsl(76, 95%, 90%)"}
       - { label: "Empire", value: "Empire", color: "hsl(100, 95%, 90%)"}
       - { label: "Continent", value: "Continent", color: "hsl(150, 95%, 90%)"}
+      - { label: "Criminal", value: "Criminal", color: "hsl(182, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -228,6 +229,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 135
     config:
       enable_media_view: true
       link_alias_enabled: true

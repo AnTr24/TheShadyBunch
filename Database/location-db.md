@@ -56,6 +56,7 @@ columns:
       - { label: "Island", value: "Island", color: "hsl(169, 95%, 90%)"}
       - { label: "Unknown", value: "Unknown", color: "hsl(347, 95%, 90%)"}
       - { label: "Underworld", value: "Underworld", color: "hsl(234, 95%, 90%)"}
+      - { label: "Empire", value: "Empire", color: "hsl(221, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

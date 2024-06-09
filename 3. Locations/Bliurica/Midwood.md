@@ -6,6 +6,11 @@ PartOf:
   - "[[3. Locations/Bliurica/Bliurica.md|Bliurica]]"
 Summary: Name for the jungle and hidden village east of [[Bliurica]]'s central mountains.
 ---
+
+	Hey y’all, mid*would* everyone be good for a session Monday?
+	~ Our DM.
+
+
 > [!infobox]
 > # Midwood
 > ![[shady.jpg|cover hsmall]]

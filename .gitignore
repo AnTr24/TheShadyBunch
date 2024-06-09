@@ -9,3 +9,4 @@
 #exclude OS settings and caches
 .trash/
 .DS_Store
+.obsidian/workspaces.json

@@ -5,5 +5,6 @@
   "livePreview": false,
   "attachmentFolderPath": "z_Attachments",
   "propertiesInDocument": "hidden",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false
 }

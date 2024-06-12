@@ -49,7 +49,7 @@ A male leonen with a long mane. Typically seen shirtless and wielding a two-hand
 ## Notable Powers & Equipment
 - **Playstyle - Frontliner**: Often jumped straight into the frontlines, tanking and dealing damage.
 - **Barbarian: Path of the Beast**: Complementing his ferocious fighting style.
-- [[Animal Spirits]]: Known of have conquered 2(?) of the spirits(?) Unsure which but likely the lion and panther.
+- [[Animal Spirits]]: Known of have conquered 5 of the spirits. (Unsure which but likely lion, leopard and panther)
 - [[Evil Party]]: While initially reluctant, has decided to hunt down [[Tahba]] and [[Patchclaw]] for the remainders.
 - **Belt of Giant Strength**: Retrieved from [[Ydanyn]]'s treasure horde.
 

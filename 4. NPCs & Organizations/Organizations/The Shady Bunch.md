@@ -47,7 +47,7 @@ Status: Active
 > **[[Runliel|Runliel (Ian) / Deceased]]**
 > ![[nightrune.png|banner p+b]]
 > 
-> **[[Vorn|Vorn (Ian)]]**
+> **[[Doros|Vorn (Ian)]]**
 > ![[Vorn.png|banner]]
 
 ## Gallery

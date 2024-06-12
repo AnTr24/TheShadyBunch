@@ -41,9 +41,9 @@ list without id
 Member
 where file = this.file
 ```
-
-- [[Mother kryn]]
-- [[Mother Tirisi]]
+- [[The Bright Queen]]
+- [[Mother Kryn]](?)
+- [[Mother Tirisi]](?)
 ## Holdings
 ## Story
 ## Notable Powers & Equipment

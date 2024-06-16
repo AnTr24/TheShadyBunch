@@ -70,7 +70,7 @@ timelines:
 - He is laid out in the bed severely wounded and unconscious. He is healed and then questioned as to what happened. Maahes says he was just out for a night of dragonchess that evening but ended up getting stabbed.
 - Everyone is surprised [[The Cult]] was waiting for them here and decide to leave the city ASAP.
 - Maahes ended up interrogating the Burly assassin and sliced him in half. 
-- Cutting their visit to [[Faal'Krel]] short, the party quickly gathers their belongings and hop on the carraige, riding out from the city and into the surrounding desert.
+- Cutting their visit to [[Faal'Krel]] short, the party quickly gathers their belongings and hop on the carriage, riding out from the city and into the surrounding desert.
 
 > [!kith|antagonist] **Andrew/DM** _You’re a catboi_
 

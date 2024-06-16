@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8fc74f97268f6a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5a6d7f65fa3db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0454706604deba56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Timeline/EventCards/The Green City.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "960e12fd0bca948e",
+    "type": "split",
+    "children": [
+      {
+        "id": "093c8b123f183529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a657314c41c01c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9127ecf6fcbe455",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec03aafd9c9e630d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5202fc157ea6ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9351ae2db552e0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c041ded9967b2a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Timeline/EventCards/The Green City.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5669301f63d4ae2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Timeline/EventCards/The Green City.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "263c58305251f53f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3104901ad9ed0d99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Timeline/EventCards/The Green City.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0454706604deba56",
+  "lastOpenFiles": [
+    "2. Timeline/Master Timeline.md",
+    "2. Timeline/EventCards/The Path of Kings.md",
+    "2. Timeline/EventCards/Crystal Nightmares.md",
+    "2. Timeline/EventCards/Evil Under the Oak.md",
+    "2. Timeline/EventCards/The Diviner.md",
+    "2. Timeline/EventCards/The Frost Giants.md",
+    "2. Timeline/EventCards/An Abandoned Tower.md",
+    "2. Timeline/EventCards/Behind the Barn.md",
+    "2. Timeline/EventCards/Farewell Fimore!.md",
+    "2. Timeline/EventCards/Golden Wings.md",
+    "2. Timeline/EventCards/Ice-solated Imprisonment.md",
+    "2. Timeline/EventCards/Mayor's Request.md",
+    "2. Timeline/EventCards/The Lost Girl.md",
+    "1. Player Characters/Leia.md",
+    "3. Locations/Other/Rraynia.md",
+    "3. Locations/Other/Underdark.md",
+    "3. Locations/Other/Halruua.md",
+    "3. Locations/Other/Great Vortex.md",
+    "3. Locations/Other",
+    "3. Locations/Klisas/South Klisas/Mudmurk.md",
+    "3. Locations/Klisas/South Klisas",
+    "3. Locations/Klisas/North Klisas/Miramar/Uma Manor.md",
+    "3. Locations/Klisas/North Klisas/Miramar/Miromar.md",
+    "3. Locations/Klisas/North Klisas/Belano.md",
+    "3. Locations/Klisas/North Klisas/Miramar",
+    "3. Locations/Klisas/North Klisas",
+    "z_Attachments/sandstorm_camp.jpg",
+    "Templates/Full Pages/Term.md",
+    "Templates/Full Pages/Creature.md",
+    "Session Notes/2024-06-11.md",
+    "Session Notes/2024-05-28.md",
+    "Session Notes",
+    "Database",
+    "5. Creatures, Items and Terms/Items-Mundane",
+    "5. Creatures, Items and Terms/Terms",
+    "5. Creatures, Items and Terms/Creature",
+    "5. Creatures, Items and Terms/Items-Magical",
+    "z_Attachments/Battlesmith Shannon color.png",
+    "z_Attachments/Faal'Krel_Inn.jpg",
+    "z_Attachments/YdanynCave_Entrance.jpg",
+    "Untitled.canvas",
+    "z_Attachments/purpleworm.png",
+    "z_Attachments/Shannon dress.png",
+    "z_Attachments/Leia.jpg",
+    "z_Attachments/Leia's dream.png",
+    "z_Attachments/EyySzJ3U4AEhU8n 1.png",
+    "z_Attachments/Underdark_Ship_Map.jpg"
+  ]
+}

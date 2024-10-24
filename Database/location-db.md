@@ -57,6 +57,8 @@ columns:
       - { label: "Unknown", value: "Unknown", color: "hsl(347, 95%, 90%)"}
       - { label: "Underworld", value: "Underworld", color: "hsl(234, 95%, 90%)"}
       - { label: "Empire", value: "Empire", color: "hsl(221, 95%, 90%)"}
+      - { label: "Hideout", value: "Hideout", color: "hsl(306, 95%, 90%)"}
+      - { label: "Outpost", value: "Outpost", color: "hsl(298, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

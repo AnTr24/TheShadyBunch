@@ -8,15 +8,54 @@
         "type": "split",
         "children": [
           {
-            "id": "19064703c9cd7846",
+            "id": "87a887e259b42fa2",
             "type": "split",
-            "dimension": 52.57611241217799,
+            "dimension": 41.454081632653065,
             "children": [
               {
-                "id": "91d82aafaad84203",
+                "id": "1f03897bb5c3575a",
                 "type": "tabs",
-                "dimension": 52.34375,
+                "dimension": 49.39236111111111,
                 "children": [
+                  {
+                    "id": "2ba80b8b5ce001ef",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0. Landing/Homepage.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Homepage"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5e9063afb6fd58ee",
+                "type": "tabs",
+                "dimension": 50.607638888888886,
+                "children": [
+                  {
+                    "id": "2bd30ad6d5410741",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0. Personal/Personal Tracker.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Personal Tracker"
+                    }
+                  },
                   {
                     "id": "121bc5133caa45ed",
                     "type": "leaf",
@@ -24,45 +63,14 @@
                       "type": "markdown",
                       "state": {
                         "file": "Session Notes/2024-10-15.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2024-10-15"
                     }
                   }
                 ]
-              },
-              {
-                "id": "1f03897bb5c3575a",
-                "type": "tabs",
-                "dimension": 47.65625,
-                "children": [
-                  {
-                    "id": "2ba80b8b5ce001ef",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "0. Landing/Homepage.md",
-                        "mode": "preview",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "3d6fa2fad468b983",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Untitled.md",
-                        "mode": "preview",
-                        "source": true
-                      }
-                    },
-                    "group": "04faaff1bc06223f"
-                  }
-                ],
-                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -70,31 +78,36 @@
           {
             "id": "f84c3dc847eb5436",
             "type": "tabs",
-            "dimension": 47.423887587822016,
+            "dimension": 58.545918367346935,
             "children": [
               {
-                "id": "92c00e9b1a286dd2",
+                "id": "a784ba6a15895ed0",
                 "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "04faaff1bc06223f"
-              },
-              {
-                "id": "1868a16a8f4ecee7",
-                "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "0. Personal/Agenda.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Agenda"
+                }
+              },
+              {
+                "id": "76a169833733994b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/2025-03-25.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-25"
                 }
               }
             ],
@@ -120,8 +133,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -136,7 +152,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -144,14 +162,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b5202fc157ea6ba3",
@@ -167,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "Session Notes/2024-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +195,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-15"
             }
           },
           {
@@ -184,10 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Personal/Agenda.md",
+                "file": "Session Notes/2024-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-15"
             }
           },
           {
@@ -198,7 +222,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -207,8 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Personal/Agenda.md"
-              }
+                "file": "Session Notes/2024-10-15.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-15"
             }
           }
         ]
@@ -220,27 +248,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1868a16a8f4ecee7",
+  "active": "76a169833733994b",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
-    "Session Notes/2024-05-28.md",
-    "Session Notes/2024-08-27.md",
-    "Session Notes/2024-09-24.md",
-    "Session Notes/2024-10-15.md",
+    "Untitled.md",
+    "Session Notes/2025-03-25.md",
     "0. Landing/Homepage.md",
     "0. Personal/Personal Tracker.md",
+    "Session Notes/2025-02-18.md",
+    "0. Personal/Agenda.md",
+    "Session Notes/2024-08-27.md",
+    "Session Notes/2024-09-24.md",
+    "Session Notes/2024-12-10.md",
+    "Session Notes/2025-01-21.md",
+    "Session Notes/2024-11-19.md",
+    "Session Notes/2025-01-04-Marital Strife Part 2.md",
+    "Session Notes/Untitled.md",
+    "z_Attachments/klisas.jpg",
+    "2. Timeline/Master Timeline.md",
+    "z_Attachments/inox.jpg",
+    "z_Attachments/rraynia.jpg",
+    "3. Locations/Other/Rraynia.md",
+    "0. Personal/Rumors.md",
+    "z_Attachments/Klisas-2.jpg.~tmp",
+    "z_Attachments/Klisas-2.jpg",
+    "Session Notes/2024-10-15.md",
+    "Untitled.canvas",
+    "Session Notes/2024-05-28.md",
     "Database/char-db.md",
     "Templates/Inserts/Insert Session.md",
     "z_Attachments/OrethonsNotes02.png",
@@ -248,19 +293,7 @@
     "Session Notes/2024-06-11.md",
     "Session Notes/2024-06-25.md",
     "Session Notes/2024-07-09.md",
-    "0. Personal/Agenda.md",
-    "2. Timeline/Master Timeline.md",
     "0. Personal/kith.md",
-    "0. Personal/Rumors.md",
-    "Templates/Inserts/Insert AAT Timeline.md",
-    "Templates/Inserts/Insert ITS-Timeline.md",
-    "3. Locations/Klisas/North Klisas/Miramar/Uma Manor.md",
-    "Database/location-db.md",
-    "1. Player Characters/Gyoop.md",
-    "1. Player Characters/Doros.md",
-    "2. Timeline/EventCards/The Green City.md",
-    "2. Timeline/EventCards/The Path of Kings.md",
-    "2. Timeline/EventCards/Crystal Nightmares.md",
     "3. Locations/Other",
     "3. Locations/Klisas/South Klisas",
     "3. Locations/Klisas/North Klisas/Miramar",
@@ -271,14 +304,8 @@
     "5. Creatures, Items and Terms/Items-Mundane",
     "5. Creatures, Items and Terms/Terms",
     "5. Creatures, Items and Terms/Creature",
-    "5. Creatures, Items and Terms/Items-Magical",
     "z_Attachments/Battlesmith Shannon color.png",
     "z_Attachments/Faal'Krel_Inn.jpg",
-    "z_Attachments/YdanynCave_Entrance.jpg",
-    "Untitled.canvas",
-    "z_Attachments/purpleworm.png",
-    "z_Attachments/Shannon dress.png",
-    "z_Attachments/Leia.jpg",
-    "z_Attachments/Leia's dream.png"
+    "z_Attachments/YdanynCave_Entrance.jpg"
   ]
 }
